@@ -1,0 +1,3888 @@
+<?xml version="1.0"?>
+<zones>
+	<zone href="https://entremontanas.com/zonas/alpes">
+		<name>Alpes</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. La cordillera de
+			los Alpes es el sistema montañoso más importante de Europa
+			occidental, ...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tmb.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Alta Vía 2</name>
+				<desc>
+					La Alta Vía 2 se encuentra en los altos Dolomitas, y empieza
+					en población de Bressanone y acaba en Feltre. Se tarda unas
+					10 jornadas en completarla con mas de 150 km y un desnivel
+					acumulado total de m...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/altavia2.jpg
+				</image>
+				<days>10</days>
+				<length>160 Km</length>
+				<unevenness direction="up">9251</unevenness>
+				<unevenness direction="down">11337</unevenness>
+			</mountain>
+			<mountain>
+				<name>Cadini di Misurina</name>
+				<desc>
+					Vía con espectaculares vistas sobre lago de Misuria, las
+					tres Cimas de Lavaredo y el Cristalino d’Ampezzo. Ya el
+					mismo acceso al punto de partida de esta vía ferrata es un
+					auténtico placer pos...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/candini.jpg
+				</image>
+				<days>1</days>
+				<length>15 Km</length>
+				<unevenness direction="up">1000</unevenness>
+				<unevenness direction="down">1000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Gran Paradiso</name>
+				<desc>
+					El Gran Paradiso es un macizo montañoso entre el Valle de
+					Aosta y el Piamonte, regiones del noroeste de Italia. El
+					pico, el séptimo en altitud de los Alpes con una altura de
+					4.061 m, está cerca del Mo...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/granparadiso.jpg
+				</image>
+				<days>2</days>
+				<length>16 Km</length>
+				<unevenness direction="up">2100</unevenness>
+				<unevenness direction="down">2100</unevenness>
+			</mountain>
+			<mountain>
+				<name>Ivano Dibona</name>
+				<desc>
+					La vía ferrata Ivano Dibona es una ruta de senderismo a lo
+					largo de la cresta de Zurlon, la cresta principal de
+					Cristallo, un grupo montañoso en los Dolomitas italianos, al
+					noreste de Cortina d&apos;Ampezz...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/dibona.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">1500</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Vallée Blanche</name>
+				<desc>
+					Ruta desde Aiguille du Midi en Chamonix hasta la Punta
+					Holbronner atravesando La Vallée Blanche. Este recorrido
+					parte desde Aiguille du Midi hasta la Punta Holbronner y
+					atraviesa La Vallée Blanche, un...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/valleeblanche.jpg
+				</image>
+				<days>1</days>
+				<length>7 Km</length>
+				<unevenness direction="up">500</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+			<mountain>
+				<name>Lagazuoi Piccolo</name>
+				<desc>
+					Esta ruta transcurre por Las Dolomitas, declarados
+					Patrimonio de la Humanidad por la UNESCO en el año 2009. Los
+					Dolomitas son una cadena montañosa del norte de Italia,
+					pertenecientes al sector orient...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/piccolo.jpg
+				</image>
+				<days>1</days>
+				<length>2 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+			<mountain>
+				<name>Malga Ra Stua</name>
+				<desc>
+					Malga Ra Stua es un destino apreciado por los senderistas
+					por su belleza excepcional, situado en los Dolomitas en
+					Italia. Malga Ra Stua (1.695 m) está integrada, dentro del
+					Parque de la Los Domolias d...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/malga.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">250</unevenness>
+				<unevenness direction="down">250</unevenness>
+			</mountain>
+			<mountain>
+				<name>Marino Bianchi – Monte Cristallo</name>
+				<desc>
+					El Marino Bianchi es un ferrata de grado medio muy popular y
+					clásica. El cuidado y la atención que requiere es la nieve y
+					el hielo se pueden encontrar incluso a mediados de verano
+					dado la altitud y la...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/mariano.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">370</unevenness>
+				<unevenness direction="down">370</unevenness>
+			</mountain>
+			<mountain>
+				<name>Mont Blanc</name>
+				<desc>
+					Ascensión al punto culminante de Europa, pues según los
+					geógrafos el Elbruz con 5633 metros pertenece ya a Oriente
+					Próximo. El Mont Blanc es una cima que no necesita
+					presentaciones. Su prestigio y su ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/montblanc.jpg
+				</image>
+				<days>2</days>
+				<length>15 Km</length>
+				<unevenness direction="up">2800</unevenness>
+				<unevenness direction="down">2800</unevenness>
+			</mountain>
+			<mountain>
+				<name>Monte Paterno</name>
+				<desc>
+					El Monte Paterno es una montaña en los Dolomitas, en la
+					frontera entre el Tirol del Sur  y la Provincia de
+					Belluno. Tiene una altitud de 2.746m. El monte Paterno se
+					alza en los Dolomitas de Sesto, al ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/paterno.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">800</unevenness>
+				<unevenness direction="down">800</unevenness>
+			</mountain>
+			<mountain>
+				<name>Punta Penia</name>
+				<desc>
+					Exigente ascensión a la cresta del Punta Penia, compuesta
+					por varias cumbres, decreciendo en altitud de oeste a
+					este. Ascensión con Vía Ferrata incluida con un grado de
+					dificultad a la cima del Punta ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/altavia2.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">834</unevenness>
+				<unevenness direction="down">1435</unevenness>
+			</mountain>
+			<mountain>
+				<name>Punta Penia Ferrata</name>
+				<desc>
+					Vía Ferrata a la cima del Punta Penia en los Dolomitas en
+					Italia, por una Vía Ferrata con un grado de dificultad
+					alto. Ascensión con Vía Ferrata incluida con un grado de
+					dificultad a la cima del Punta...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/altavia2.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">834</unevenness>
+				<unevenness direction="down">1435</unevenness>
+			</mountain>
+			<mountain>
+				<name>Sendero Alfredo Benini</name>
+				<desc>
+					Los Dolomitas de Brenta son unas espectaculares montañas
+					situado en la provincia de Trento, en el norte de
+					Italia. Aunque geográficamente no pertenecen a los
+					Dolomitas, se las considera parte de ese m...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/benini.jpg
+				</image>
+				<days>1</days>
+				<length>11 Km</length>
+				<unevenness direction="up">800</unevenness>
+				<unevenness direction="down">800</unevenness>
+			</mountain>
+			<mountain>
+				<name>Tour Mont Blanc (Chamonix-Courmeyeur)</name>
+				<desc>
+					La ruta que os proponemos aquí corresponde al Tour del
+					Montblanc desde Chamonix a Le Courmayerur. Dentro de los
+					grandes recorridos de media montaña que no comportan
+					forzosamente escalada o ascensiones...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tmb.jpg
+				</image>
+				<days>7</days>
+				<length>100 Km</length>
+				<unevenness direction="up">7682</unevenness>
+				<unevenness direction="down">6862</unevenness>
+			</mountain>
+			<mountain>
+				<name>Tour del Cervino</name>
+				<desc>
+					Mítico tour que permite adentrarse en algunos de los bellos
+					alrededores suizos e italianos del Cervino. El Cervino o
+					Matterhorn con sus 4.478 metros de altitud es una de las
+					montañas más emblematica d...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/cervino.jpg
+				</image>
+				<days>8</days>
+				<length>150 Km</length>
+				<unevenness direction="up">7500</unevenness>
+				<unevenness direction="down">11000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Tour del Mont-Blanc</name>
+				<desc>
+					Clásico Tour del Mont-Blanc, itinerario fácilmente
+					organizable ya que está salpicado de refugios, albergues y
+					cabañas de montaña. El Mont Blanc es el punto culminante y
+					cumbre emblemática de los Alpes...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tmb.jpg
+				</image>
+				<days>7</days>
+				<length>98 Km</length>
+				<unevenness direction="up">6538</unevenness>
+				<unevenness direction="down">6190</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/andalucia-oriental">
+		<name>Andalucía Oriental</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. El relieve de
+			Andalucía Oriental es, en su mayoría, montañoso, hallándose allí
+			algunas l...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/mulhacen1.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Cortijo del Fraile – Cabo de Gata</name>
+				<desc>
+					La naturaleza esteparia se mantiene como telón de fondo,
+					principal aliciente del sendero. El Parque Natural de Cabo
+					de Gata-Níjar es el primer Parque marítimo-terrestre de
+					Andalucía.  Es un parque de ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fraile.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Caminito del Rey</name>
+				<desc>
+					El caminito del Rey es un paso en las paredes del
+					espectacular desfiladero de los Gaitanes. El Paraje Natural
+					Desfiladero de los Gaitanes se encuentra en el centro de la
+					provincia de Málaga, entre los...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/caminito.jpg
+				</image>
+				<days>1</days>
+				<length>14 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Torcal – Ruta Amarilla</name>
+				<desc>
+					Este sendero pasa por el Hoyo de las Ventanillas y nos
+					adentra en el Torcal Bajo en El Paraje Natural Torcal de
+					Antequera. El Paraje Natural Torcal de Antequera, situado en
+					la zona centro de la provin...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/amarilla.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Torcal – Ruta Verde</name>
+				<desc>
+					Este sendero pasa por el Hoyo de las Ventanillas y nos
+					adentra en el Torcal Bajo en El Paraje Natural Torcal de
+					Antequera. El Paraje Natural Torcal de Antequera, situado en
+					la zona centro de la provin...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/amarilla.jpg
+				</image>
+				<days>1</days>
+				<length>2 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>Escullos – Isleta del Moro – Cabo de Gata</name>
+				<desc>
+					El tramo costero entre Los Escullos y la Isleta del Moro
+					tiene un recorrido fácil y agradecido. El Parque Natural de
+					Cabo de Gata-Níjar es el primer Parque marítimo-terrestre de
+					Andalucía.  Es un parq...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/escullos.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Molata – Cabo de Gata</name>
+				<desc>
+					Tal vez sean los colores los que embaucan los sentidos
+					mientras se recorre este sendero costero. El Parque Natural
+					de Cabo de Gata-Níjar es el primer Parque marítimo-terrestre
+					de Andalucía.  Es un par...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/molata.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Vela Blanca – Cabo de Gata</name>
+				<desc>
+					Los parajes por donde nos lleva este sendero siempre guardan
+					gratas sorpresas para quien los transita. El Parque Natural
+					de Cabo de Gata-Níjar es el primer Parque marítimo-terrestre
+					de Andalucía.  Es ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/velablanca.jpg
+				</image>
+				<days>1</days>
+				<length>7 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+			<mountain>
+				<name>Mesa Roldán – Cabo de Gata</name>
+				<desc>
+					Subida a Mesa Roldán a través de un territorio con una
+					notable biodiversidad. El Parque Natural de Cabo de
+					Gata-Níjar es el primer Parque marítimo-terrestre de
+					Andalucía.  Es un parque de origen volcá...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/roldan.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">150</unevenness>
+				<unevenness direction="down">150</unevenness>
+			</mountain>
+			<mountain>
+				<name>Mulhacén</name>
+				<desc>
+					Su altura no es excepcional, pero es el pico más alto de
+					Europa fuera del Cáucaso y los Alpes. En cualquier caso una
+					ruta muy interesante. El Mulhacén es el pico más alto de la
+					península Ibérica, no d...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/mulhacen1.jpg
+				</image>
+				<days>2</days>
+				<length>24 Km</length>
+				<unevenness direction="up">2000</unevenness>
+				<unevenness direction="down">2000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Playa de los Genoveses – Cabo de Gata</name>
+				<desc>
+					Esta ruta nos lleva por bellas calas y acantilados hasta la
+					Playa de los Genoveses en El Parque Natural de Cabo de
+					Gata-Níjar. El Parque Natural de Cabo de Gata-Níjar es el
+					primer Parque marítimo-terr...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/genoveses.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>Playa del Plomo – Cabo de Gata</name>
+				<desc>
+					Este sendero es el que mejor recorre la costa norte del
+					parque entre Las Negras y Agua Amarga en El Parque Natural
+					de Cabo de Gata-Níjar. El Parque Natural de Cabo de
+					Gata-Níjar es el primer Parque ma...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/plomo.jpg
+				</image>
+				<days>1</days>
+				<length>11 Km</length>
+				<unevenness direction="up">500</unevenness>
+				<unevenness direction="down">500</unevenness>
+			</mountain>
+			<mountain>
+				<name>Vereda de la Estrella – Cortijo Hornillos</name>
+				<desc>
+					Agradable recorrido circular por la Vereda de la Estrella
+					hasta el Barranco de Guarnon en Granada. Sierra Nevada fue
+					declarada «Reserva de la Biosfera» por la Unesco y en 1999
+					gran parte de su territo...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/estrella.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">750</unevenness>
+				<unevenness direction="down">750</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/andorra">
+		<name>Andorra</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. Andorra cuenta con
+			65 picos de más de 2.500 m de altitud. La montaña más alta es el
+			pico...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/comapedrosaasc.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Bony d’Envalira</name>
+				<desc>
+					La vía, que se construyó en 1999, es una de las mejores vías
+					ferratas de Andorra. Vía ferrata de alta montaña en donde la
+					aproximación y el regreso son largos, aproximadamente una
+					hora de subida y una...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/bonydenvalira.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">500</unevenness>
+				<unevenness direction="down">500</unevenness>
+			</mountain>
+			<mountain>
+				<name>Coma Pedrosa</name>
+				<desc>
+					El Coma Pedrosa es el pico más alto de todo el Principado de
+					Andorra con sus 2942 metros de altura. El Coma Pedrosa está
+					situado en la parte occidental del país, muy próximo a la
+					estación de esquí de ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/comapedrosaasc.jpg
+				</image>
+				<days>1</days>
+				<length>15 Km</length>
+				<unevenness direction="up">1400</unevenness>
+				<unevenness direction="down">1400</unevenness>
+			</mountain>
+			<mountain>
+				<name>Ermita d’Enclar</name>
+				<desc>
+					Una buena excusa para hacer turismo cultural en Andorra y
+					visitar su espléndido románico. Una buena excusa para hacer
+					turismo cultural en Andorra es visitar la Ermita d’Enclar
+					accesible gracias ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/enclar.jpg
+				</image>
+				<days>1</days>
+				<length>2 Km</length>
+				<unevenness direction="up">300</unevenness>
+				<unevenness direction="down">300</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Tossa Plana de Lles</name>
+				<desc>
+					La Tossa Plana de Lles con sus 2916 metros es la segunda más
+					alta de la Cerdanya y la tercera de Andorra. La Tossa Plana
+					de Lles (2.916 m.) es la segunda montaña más elevada de toda
+					la Cerdanya, super...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tosaplanaacs.jpg
+				</image>
+				<days>1</days>
+				<length>13 Km</length>
+				<unevenness direction="up">966</unevenness>
+				<unevenness direction="down">966</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Vall d´Incles</name>
+				<desc>
+					Una ruta que asciende hacia el Refugio de Juclar,
+					recorriendo l’Estany Primer, l’Estany Segon hasta l’Estany
+					Juglar. Andorra, la gran desconocida, siempre nos sorprende
+					cuando hacemos caminatas. Parec...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/incles0.jpg
+				</image>
+				<days>1</days>
+				<length>17 Km</length>
+				<unevenness direction="up">623</unevenness>
+				<unevenness direction="down">623</unevenness>
+			</mountain>
+			<mountain>
+				<name>Lago de Siscaró</name>
+				<desc>
+					Ruta al lago del Siscaró a 2325m, uno de los tres lagos en
+					el Valle de Incles. Andorra se caracteriza por sus cumbres
+					de materiales paleozoicos, que se elevan por encima de los
+					2.600 msnm y culminan a...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/siscaro.jpg
+				</image>
+				<days>1</days>
+				<length>7 Km</length>
+				<unevenness direction="up">580</unevenness>
+				<unevenness direction="down">580</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pic Negre d´Envalira</name>
+				<desc>
+					Ascensión al Pic Negre d´Envalira, el segundo más alto del
+					grupo montañoso después de su vecino el Pico de Envalira
+					(2827m). Los picos de Envalira, es un cresta de cuatro picos
+					que forman la divisoria...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/picnegreenvaliraasc.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">770</unevenness>
+				<unevenness direction="down">770</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pic Negre d´Envalira desde Porta</name>
+				<desc>
+					Ascensión al Pic Negre d´Envalira, el segundo más alto del
+					grupo montañoso después de su vecino el Pico de Envalira
+					(2827m). Los picos de Envalira, es un cresta de cuatro picos
+					que forman la divisoria...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/picnegreenvaliraasc.jpg
+				</image>
+				<days>1</days>
+				<length>21 Km</length>
+				<unevenness direction="up">1200</unevenness>
+				<unevenness direction="down">1200</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pic de la Colilla</name>
+				<desc>
+					Ascensión al Pic de la Colilla co 2836 metros de altura y
+					situada entre Lles de Cerdanya y Escaldes-Engordany en
+					Andorra. Se trata de una cumbre que está situada que entre
+					la Cerdanya y Andorra, muy c...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/picdelacolilla1.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">700</unevenness>
+				<unevenness direction="down">700</unevenness>
+			</mountain>
+			<mountain>
+				<name>Porta – Pas de la Casa</name>
+				<desc>
+					Ruta circular que discurre en parte por El Camí dels Bons
+					Homes cerca de Porta, Francia. Esta ruta circular discurre
+					en parte por El Camí dels Bons Homes justo en la
+					intersección de los tres países po...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/porta.jpg
+				</image>
+				<days>2</days>
+				<length>32 Km</length>
+				<unevenness direction="up">689</unevenness>
+				<unevenness direction="down">1128</unevenness>
+			</mountain>
+			<mountain>
+				<name>Roc de Quer</name>
+				<desc>
+					Ferrata con buenas vistas a Canillo, un desplomado muy
+					expuesto y unas instalaciones entretenidas en la Parroquia
+					de Canillo, Andorra. Esta es la ferrata más famosa de las
+					tres que hay en esta pared. ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/rocquer.jpg
+				</image>
+				<days>1</days>
+				<length>5 Km</length>
+				<unevenness direction="up">350</unevenness>
+				<unevenness direction="down">350</unevenness>
+			</mountain>
+			<mountain>
+				<name>Tossa del Cap de Siscaró</name>
+				<desc>
+					La ascensión a la Tossa del Cap de Siscaró (2818) y al Pico
+					de la Cabaneta (2818) desde el Valle de Incles, en Andorra,
+					permite gozar de uno de los paisajes más hermosos del
+					Pirineo. El camino empieza...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/siscaro.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">900</unevenness>
+				<unevenness direction="down">900</unevenness>
+			</mountain>
+			<mountain>
+				<name>Valles del Perafita y del Madriu</name>
+				<desc>
+					En este itinerario encontraremos algunas de las
+					espectaculares bordas más representativas del principado de
+					Andorra. Los valles de Perafita y Madriu son unos de los
+					parajes más bellos de todo el peque...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/perafitamadriu1.jpg
+				</image>
+				<days>2</days>
+				<length>23 Km</length>
+				<unevenness direction="up">1850</unevenness>
+				<unevenness direction="down">1850</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/cabo-de-gata">
+		<name>Cabo de Gata</name>
+		<desc>
+			Una de las franjas costeras de mayor belleza y riqueza ecológica
+			del Mediterráneo occidental. El Parque Natural de Cabo de
+			Gata-Níjar es el primer Parque marítimo-terrestre de Andalucía.
+			Es un parqu...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/genoveses.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Cortijo del Fraile – Cabo de Gata</name>
+				<desc>
+					La naturaleza esteparia se mantiene como telón de fondo,
+					principal aliciente del sendero. El Parque Natural de Cabo
+					de Gata-Níjar es el primer Parque marítimo-terrestre de
+					Andalucía.  Es un parque de ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fraile.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>Escullos – Isleta del Moro – Cabo de Gata</name>
+				<desc>
+					El tramo costero entre Los Escullos y la Isleta del Moro
+					tiene un recorrido fácil y agradecido. El Parque Natural de
+					Cabo de Gata-Níjar es el primer Parque marítimo-terrestre de
+					Andalucía.  Es un parq...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/escullos.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Molata – Cabo de Gata</name>
+				<desc>
+					Tal vez sean los colores los que embaucan los sentidos
+					mientras se recorre este sendero costero. El Parque Natural
+					de Cabo de Gata-Níjar es el primer Parque marítimo-terrestre
+					de Andalucía.  Es un par...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/molata.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Vela Blanca – Cabo de Gata</name>
+				<desc>
+					Los parajes por donde nos lleva este sendero siempre guardan
+					gratas sorpresas para quien los transita. El Parque Natural
+					de Cabo de Gata-Níjar es el primer Parque marítimo-terrestre
+					de Andalucía.  Es ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/velablanca.jpg
+				</image>
+				<days>1</days>
+				<length>7 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+			<mountain>
+				<name>Mesa Roldán – Cabo de Gata</name>
+				<desc>
+					Subida a Mesa Roldán a través de un territorio con una
+					notable biodiversidad. El Parque Natural de Cabo de
+					Gata-Níjar es el primer Parque marítimo-terrestre de
+					Andalucía.  Es un parque de origen volcá...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/roldan.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">150</unevenness>
+				<unevenness direction="down">150</unevenness>
+			</mountain>
+			<mountain>
+				<name>Playa de los Genoveses – Cabo de Gata</name>
+				<desc>
+					Esta ruta nos lleva por bellas calas y acantilados hasta la
+					Playa de los Genoveses en El Parque Natural de Cabo de
+					Gata-Níjar. El Parque Natural de Cabo de Gata-Níjar es el
+					primer Parque marítimo-terr...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/genoveses.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>Playa del Plomo – Cabo de Gata</name>
+				<desc>
+					Este sendero es el que mejor recorre la costa norte del
+					parque entre Las Negras y Agua Amarga en El Parque Natural
+					de Cabo de Gata-Níjar. El Parque Natural de Cabo de
+					Gata-Níjar es el primer Parque ma...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/plomo.jpg
+				</image>
+				<days>1</days>
+				<length>11 Km</length>
+				<unevenness direction="up">500</unevenness>
+				<unevenness direction="down">500</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/camino-de-santiago">
+		<name>Camino de Santiago</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. El Camino de
+			Santiago, es un viaje de casi 800 kilómetros hacia el oeste, con
+			la Vía Lác...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fisterra.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Bolvir de Cerdanya a Isòvol</name>
+				<desc>
+					Este itinerario recorre una parte de la sección del Camino
+					de Santiago que cruza la Cerdanya. El itinerario recorre una
+					parte de la sección del Camino de Santiago que cruza la
+					Cerdanya. Hemos escogido...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/isovol.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>Camino de Fisterra-Muxía</name>
+				<desc>
+					Desde Santido de Compostela a Costa da Morte, frente a las
+					bravas aguas del océano Atlántico. La peregrinación jacobea
+					como tal concluye en la ciudad de Santiago de
+					Compostela. Sin embargo, casi desde...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fisterra.jpg
+				</image>
+				<days>4</days>
+				<length>118 Km</length>
+				<unevenness direction="up">1000</unevenness>
+				<unevenness direction="down">1000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Camino de Santiago (Camino Francés)</name>
+				<desc>
+					El Camino Francés o la ruta de las estrellas, es el Camino
+					de Santiago por excelencia. Partiendo de Roncesvalles, es un
+					viaje de casi 800 kilómetros hacia el oeste, con la Vía
+					Láctea que acompaña desd...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/caminosantiagofrances.jpg
+				</image>
+				<days>32</days>
+				<length>797 Km</length>
+				<unevenness direction="up">3000</unevenness>
+				<unevenness direction="down">3000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Zarautz – Getaria – Zumaia</name>
+				<desc>
+					Este itinerario discurre entre los municipios de Zarautz –
+					Getaria – Zumaia en la provincia de Guipúzcoa. El primer
+					tramo del recorrido, entre Zarautz – Getaria, el camino
+					discurre paralelo a la...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/zarautz1.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/castellon">
+		<name>Castellón</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. Castellón es una
+			de la provincias más montañosas de España, bañada a su vez por
+			el mar a...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/penagolosaintro.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Cabezo de las Cruces</name>
+				<desc>
+					Con 1710 m de altitud es el segundo pico más alto de
+					Castellón y el tercero del Valencia. La ascensión al Cabezo
+					de las Cruces empieza en Cortes de Arenoso. Localidad de la
+					provincia de Castellón, en...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/cabezodelascruces.jpg
+				</image>
+				<days>1</days>
+				<length>24 Km</length>
+				<unevenness direction="up">725</unevenness>
+				<unevenness direction="down">725</unevenness>
+			</mountain>
+			<mountain>
+				<name>Cascada del Arquero – Puertomingalvo</name>
+				<desc>
+					Su denominación proviene del arcoíris que producen las gotas
+					de agua en suspensión al caer y reflejar el sol. La cascada
+					del Arquero es un salto de agua del rio Linares que se
+					encuentra a pocos kilóme...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/arquero.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">600</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+			<mountain>
+				<name>Castillo de Villamalefa</name>
+				<desc>
+					Lo más destacado de los alrededores del Castillo es
+					Peñagolosa y toda la red de senderos. Extendido a los pies
+					de los restos de su castillo, en lo más alto de una loma que
+					domina el valle del Río Vill...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/vistacastillo.jpg
+				</image>
+				<days>9</days>
+				<length>56 Km</length>
+				<unevenness direction="up">1100</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+			<mountain>
+				<name>Castillo de Villamalefa – Cedramán</name>
+				<desc>
+					Antiguo sendero que une El Castillo de Villamalefa con
+					Cedramán, en la comarca del Alto Mijares, Castellón. Para
+					acceder a esta ruta salimos desde el pueblo de Formiguerà,
+					Cerdanya francesa, por la D-...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/vistacastillo.jpg
+				</image>
+				<days>1</days>
+				<length>7 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">300</unevenness>
+			</mountain>
+			<mountain>
+				<name>Parque Natural de la Sierra de Espadán</name>
+				<desc>
+					Descubre la fascinante Sierra de Espadán, gran macizo
+					montañoso con frescos barrancos y frondosos bosques. El
+					Parque Natural de la Sierra de Espadán se encuentra
+					localizado al sur de la Provincia de C...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/sierraespadan.jpg
+				</image>
+				<days>3</days>
+				<length>Km</length>
+				<unevenness direction="up"></unevenness>
+				<unevenness direction="down"></unevenness>
+			</mountain>
+			<mountain>
+				<name>Parque Natural del Desert de les Palmes</name>
+				<desc>
+					Enclavado en una serranía litoral de la comarca de la Plana
+					Alta, paralela a la costa es uno de los lugares más
+					singulares de la provincia de Castellón. El Parque Natural
+					del Desert de les Palmes está...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/desertpalmes.gif
+				</image>
+				<days>8</days>
+				<length>51 Km</length>
+				<unevenness direction="up">2250</unevenness>
+				<unevenness direction="down">2250</unevenness>
+			</mountain>
+			<mountain>
+				<name>Peñagolosa</name>
+				<desc>
+					Punto emblemático del montañismo valenciano, con sus 1813
+					metros de altura la convierten en la segunda cima de la
+					Comunidad Valenciana. Ubicado en la comarca castellonense de
+					El Maestrat, es visible d...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/penagolosaintro.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">300</unevenness>
+				<unevenness direction="down">300</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pico Calderón</name>
+				<desc>
+					Fácil ascensión al El pico Calderón o Alto de Barracas que
+					se encuentra en el Macizo de Javalambre. Situado entre la
+					provincia de Teruel y de Valencia. Es en la cumbre más
+					elevada de la Comunidad Vale...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/calderon.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">300</unevenness>
+				<unevenness direction="down">300</unevenness>
+			</mountain>
+			<mountain>
+				<name>Rio Villahermosa – Cedraman</name>
+				<desc>
+					Travesía por un tramo del cauce del río Villahermosa entre
+					El Castillo de Villamalefa y Cedraman en la provincia de
+					Castellón. Extendido a los pies de los restos de su
+					castillo, en lo más alto de una ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/vistacastillo.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">125</unevenness>
+				<unevenness direction="down">125</unevenness>
+			</mountain>
+			<mountain>
+				<name>Senderismo en Castellón</name>
+				<desc>
+					Os presentamos un listado de rutas en Castellón, una de la
+					provincias más montañosas de España. Castellón es una de la
+					provincias más montañosas de España, bañada a su vez por el
+					mar a lo largo de 113...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/penagolosaintro.jpg
+				</image>
+				<days>57</days>
+				<length>0 Km</length>
+				<unevenness direction="up">0</unevenness>
+				<unevenness direction="down">0</unevenness>
+			</mountain>
+			<mountain>
+				<name>Villahermosa del Rio – San Juan de Peñagolosa</name>
+				<desc>
+					Este sendero nos llevará desde Villahermosa del Río hasta el
+					Santuario de Sant Joan de Penyagolosa por las Masías del
+					Carbo a través del GR7. El GR-7 es un Sendero de Gran
+					Recorrido que parte de Andor...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/sanjuan.jpg
+				</image>
+				<days>1</days>
+				<length>14 Km</length>
+				<unevenness direction="up">850</unevenness>
+				<unevenness direction="down">300</unevenness>
+			</mountain>
+			<mountain>
+				<name>Villahermosa del Río – San Bartolomé</name>
+				<desc>
+					Este sendero nos llevará desde Villahermosa del Río hasta la
+					Ermita de San Bartolomé por el GR-7. El GR-7 es un Sendero
+					de Gran Recorrido que parte de Andorra al estrecho de
+					Gibraltar. Como sendero de...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/bartolome.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">600</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/cordillera-montes-tatras">
+		<name>Cordillera Montes Tatras</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. Los Montes Tatras
+			son una cordillera que separa Eslovaquia de Polonia, aunque solo
+			el 30...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tatras.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Montes Tatras</name>
+				<desc>
+					Recorrido por los Montes Tatras de Este a Oeste, desde Zdiar
+					a Zuberec, espectacular travesía de 9 días. Los Montes
+					Tatras son una cordillera que separa Eslovaquia de Polonia,
+					aunque solo el 30% está ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tatras.jpg
+				</image>
+				<days>8</days>
+				<length>141 Km</length>
+				<unevenness direction="up">10000</unevenness>
+				<unevenness direction="down">10000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pico Giewont</name>
+				<desc>
+					Este pico está situado entre los valles de Kondratowa, Laki
+					Małej y Strążyska cerca ciudad de Zakopane en Polonia. El
+					Pico Giewont es una montaña de la cordillera de los Tatras
+					de Polonia. Se compone...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/giewont.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">700</unevenness>
+				<unevenness direction="down">700</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pico Klin</name>
+				<desc>
+					En esta excursión ascenderemos al Pico Klin a sus 2145
+					metros situado en la Cordillera de los Montes Tatras. En
+					esta excursión se coronan el Pico Klin situado en los Montes
+					Tatras, justo en la fronter...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/klin.jpg
+				</image>
+				<days>1</days>
+				<length>18 Km</length>
+				<unevenness direction="up">1100</unevenness>
+				<unevenness direction="down">1100</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pico Rysy</name>
+				<desc>
+					El Rysy tiene tres picos: el de en medio tiene 2503 metros,
+					el noroeste 2499 metros y el sureste 2473 metros. El Pico
+					Rysy es una montaña situada en los Montes Tatra,
+					concretamente en los Altos Tatras...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/rysy.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">1000</unevenness>
+				<unevenness direction="down">1000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pico Salatín</name>
+				<desc>
+					En esta dura excursión, en un sólo día, se coronan los Pico
+					Prislop, Banikov, Pachol’a, Espálená y Salatín. En esta
+					excursion, en un sólo día, se coronan los . Estos cuatro
+					picos (Pico Prislop, ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/salatin.jpg
+				</image>
+				<days>1</days>
+				<length>18 Km</length>
+				<unevenness direction="up">1200</unevenness>
+				<unevenness direction="down">1200</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pico Swinica</name>
+				<desc>
+					Ascensión al Pico Swinica, situado en los Montes Tratas,
+					justo en la frontera entre Polonia y Eslovaquia. El Pico
+					Swinica con dos vértices, que difieren en altura de tan sólo
+					10 metros, tienen forma d...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/swinica.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">650</unevenness>
+				<unevenness direction="down">650</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pico de Kondratowa</name>
+				<desc>
+					En esta dura excursion, en un sólo día, se coronan los pico
+					de Kondratowa, Malplúcniak, Kresanica y Temniak. En esta
+					excursion, en un sólo día, se coronan los pico de
+					Kondratowa, Malplúcniak, Kresanic...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/kondratowa.jpg
+				</image>
+				<days>1</days>
+				<length>13 Km</length>
+				<unevenness direction="up">1300</unevenness>
+				<unevenness direction="down">1300</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/costa-brava">
+		<name>Costa Brava</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. La Costa Brava es
+			el nombre asignado a la zona costera de Cataluña que empieza en
+			la des...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/sagaro1.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Aiguamolls del Empordà</name>
+				<desc>
+					Itinerario breve que nos permite disfrutar de una muestra
+					muy completa del Parque dels Aiguamolls del Empordà. El
+					Parque Natural de los Aiguamolls del Empordà es una de las
+					zonas naturales más conocid...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/emporda.jpg
+				</image>
+				<days>1</days>
+				<length>5 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>Cala del Molí</name>
+				<desc>
+					Vía Ferrata fácil, muy recomendable para la iniciación en
+					estas vías, con impresionantes vistas de la Costa Brava. La
+					Via Ferrata Cala Del Molí es una ruta bastante sencilla,
+					aunque sí podemos destaca...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/calamoli.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>Canigó desde Cortalets</name>
+				<desc>
+					Ruta al Canigó desde Cotalets, una de las montañas más
+					emblemática y mítica del Pirineo Catalàn. El Canigó, montaña
+					emblemática y mítica, comienzo de la cadena pirenaica por la
+					vertiente Oriental, es ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/canigoasc.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">630</unevenness>
+				<unevenness direction="down">630</unevenness>
+			</mountain>
+			<mountain>
+				<name>Cap de Creus</name>
+				<desc>
+					Este sendero circular discurre por el Parque Natural del Cap
+					de Creus, donde la montaña y el mar se fusionan. Este
+					sendero circular discurre por el Parque Natural del Cap de
+					Creus situado en la provin...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/capdecreus.gif
+				</image>
+				<days>2</days>
+				<length>38 Km</length>
+				<unevenness direction="up">400</unevenness>
+				<unevenness direction="down">400</unevenness>
+			</mountain>
+			<mountain>
+				<name>Castillo de Montgrí</name>
+				<desc>
+					Sencilla ruta al macizo del Montgrí, con visita a la
+					fortificación militar del Castillo de Montgrí. El macizo del
+					Montgrí es un macizo montañoso al borde del mar Mediterráneo
+					en Cataluña. Se sitúa ent...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/montgri1.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">370</unevenness>
+				<unevenness direction="down">370</unevenness>
+			</mountain>
+			<mountain>
+				<name>Cruïlles a Sant Joan de Salelles</name>
+				<desc>
+					En esta excursión descubriremos Sant Miquel de Cruïlles,
+					monasterio benedictino edificado a mediados del siglo
+					XI. Sant Miquel de Cruilles fue un monasterio benedictino,
+					edificado a mediados del siglo...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/cruilles1.jpg
+				</image>
+				<days>1</days>
+				<length>5 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>De Camprodon a Sant Antoni</name>
+				<desc>
+					Sendero que nos lleva desde Camprodón hasta La Ermita de
+					Sant Antoni que data de 1702, desde donde se divisa una
+					espectacular vista. Camprodon es uno de los lugares clásicos
+					de Cataluña para hacer exc...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/santantoni.jpg
+				</image>
+				<days>1</days>
+				<length>7 Km</length>
+				<unevenness direction="up">400</unevenness>
+				<unevenness direction="down">400</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Camí de Ronda de S’Agaró</name>
+				<desc>
+					El Camí de Ronda es el camino que discurre por la Costa
+					Brava y que era utilizado para controlar la frontera
+					marítima. Camí de Ronda (Camino de Ronda) es el nombre por
+					el que se conoce el trayecto que...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/sagaro1.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>GR 92 – Camino de Ronda</name>
+				<desc>
+					GR que discurre a lo largo de toda la línea litoral con
+					grandes vistas sobre la Costa Brava. Sendero de Gran
+					Recorrido que avanza a lo largo de toda la línea litoral y
+					prelitoral, con grandes vistas s...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/gr92.jpg
+				</image>
+				<days>11</days>
+				<length>100 Km</length>
+				<unevenness direction="up">1000</unevenness>
+				<unevenness direction="down">1000</unevenness>
+			</mountain>
+			<mountain>
+				<name>GR 92: Portbou – Roses</name>
+				<desc>
+					El GR 92 es un sendero que atraviesa toda Cataluña de norte
+					a sur siguiendo la costa, este es el tramo correspondiente
+					al Parque Natural de Cap de Creus. El GR 92 es un sendero
+					que atraviesa toda Cata...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/gr92(0).jpg
+				</image>
+				<days>2</days>
+				<length>49 Km</length>
+				<unevenness direction="up">350</unevenness>
+				<unevenness direction="down">350</unevenness>
+			</mountain>
+			<mountain>
+				<name>Macizo del Montgrí</name>
+				<desc>
+					El macizo del Montgrí nos descubre un lugar natural único
+					que parte desde Torroella de Montgrí. El macizo del Montgrí
+					es un macizo montañoso al borde del mar Mediterráneo en
+					Cataluña. Se sitúa entre l...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/montgri1.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">370</unevenness>
+				<unevenness direction="down">370</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/costa-oeste-eeuu">
+		<name>Costa Oeste EEUU</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. La geografía de
+			California es muy diversa. California cuenta con montañas
+			alpinas, costa...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/yosemite.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Gran Cañon del Colorado</name>
+				<desc>
+					Considerado como una de las maravillas naturales del mundo
+					está situado dentro del Parque Natural del Gran Cañón,
+					EEUU. El Gran Cañon (the Grand Canyon) es una vistosa y
+					escarpada garganta excavada po...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/grancanon.jpg
+				</image>
+				<days>3</days>
+				<length>Km</length>
+				<unevenness direction="up"></unevenness>
+				<unevenness direction="down"></unevenness>
+			</mountain>
+			<mountain>
+				<name>Parque Nacional de Yosemite</name>
+				<desc>
+					El PN de Yosemite se ubica a aproximadamente 320 km al este
+					de San Francisco, en California y es uno de los lugares
+					emblemáticos del montañismo estadounidense. El parque cubre
+					un área de 3.081 km² y s...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/yosemite.jpg
+				</image>
+				<days>4</days>
+				<length>Km</length>
+				<unevenness direction="up"></unevenness>
+				<unevenness direction="down"></unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/dolomitas">
+		<name>Dolomitas</name>
+		<desc>
+			Dolomitas son una cadena montañosa del norte de Italia,
+			pertenecientes al sector oriental del arco alpino y localizados
+			en la vertiente meridional del eje axial del mismo macizo. El
+			nombre proviene de...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/dolomitas.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Alta Vía 2</name>
+				<desc>
+					La Alta Vía 2 se encuentra en los altos Dolomitas, y empieza
+					en población de Bressanone y acaba en Feltre. Se tarda unas
+					10 jornadas en completarla con mas de 150 km y un desnivel
+					acumulado total de m...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/altavia2.jpg
+				</image>
+				<days>10</days>
+				<length>160 Km</length>
+				<unevenness direction="up">9251</unevenness>
+				<unevenness direction="down">11337</unevenness>
+			</mountain>
+			<mountain>
+				<name>Cadini di Misurina</name>
+				<desc>
+					Vía con espectaculares vistas sobre lago de Misuria, las
+					tres Cimas de Lavaredo y el Cristalino d’Ampezzo. Ya el
+					mismo acceso al punto de partida de esta vía ferrata es un
+					auténtico placer pos...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/candini.jpg
+				</image>
+				<days>1</days>
+				<length>15 Km</length>
+				<unevenness direction="up">1000</unevenness>
+				<unevenness direction="down">1000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Ivano Dibona</name>
+				<desc>
+					La vía ferrata Ivano Dibona es una ruta de senderismo a lo
+					largo de la cresta de Zurlon, la cresta principal de
+					Cristallo, un grupo montañoso en los Dolomitas italianos, al
+					noreste de Cortina d&apos;Ampezz...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/dibona.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">1500</unevenness>
+			</mountain>
+			<mountain>
+				<name>Lagazuoi Piccolo</name>
+				<desc>
+					Esta ruta transcurre por Las Dolomitas, declarados
+					Patrimonio de la Humanidad por la UNESCO en el año 2009. Los
+					Dolomitas son una cadena montañosa del norte de Italia,
+					pertenecientes al sector orient...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/piccolo.jpg
+				</image>
+				<days>1</days>
+				<length>2 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+			<mountain>
+				<name>Malga Ra Stua</name>
+				<desc>
+					Malga Ra Stua es un destino apreciado por los senderistas
+					por su belleza excepcional, situado en los Dolomitas en
+					Italia. Malga Ra Stua (1.695 m) está integrada, dentro del
+					Parque de la Los Domolias d...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/malga.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">250</unevenness>
+				<unevenness direction="down">250</unevenness>
+			</mountain>
+			<mountain>
+				<name>Marino Bianchi – Monte Cristallo</name>
+				<desc>
+					El Marino Bianchi es un ferrata de grado medio muy popular y
+					clásica. El cuidado y la atención que requiere es la nieve y
+					el hielo se pueden encontrar incluso a mediados de verano
+					dado la altitud y la...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/mariano.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">370</unevenness>
+				<unevenness direction="down">370</unevenness>
+			</mountain>
+			<mountain>
+				<name>Monte Paterno</name>
+				<desc>
+					El Monte Paterno es una montaña en los Dolomitas, en la
+					frontera entre el Tirol del Sur  y la Provincia de
+					Belluno. Tiene una altitud de 2.746m. El monte Paterno se
+					alza en los Dolomitas de Sesto, al ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/paterno.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">800</unevenness>
+				<unevenness direction="down">800</unevenness>
+			</mountain>
+			<mountain>
+				<name>Punta Penia</name>
+				<desc>
+					Exigente ascensión a la cresta del Punta Penia, compuesta
+					por varias cumbres, decreciendo en altitud de oeste a
+					este. Ascensión con Vía Ferrata incluida con un grado de
+					dificultad a la cima del Punta ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/altavia2.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">834</unevenness>
+				<unevenness direction="down">1435</unevenness>
+			</mountain>
+			<mountain>
+				<name>Punta Penia Ferrata</name>
+				<desc>
+					Vía Ferrata a la cima del Punta Penia en los Dolomitas en
+					Italia, por una Vía Ferrata con un grado de dificultad
+					alto. Ascensión con Vía Ferrata incluida con un grado de
+					dificultad a la cima del Punta...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/altavia2.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">834</unevenness>
+				<unevenness direction="down">1435</unevenness>
+			</mountain>
+			<mountain>
+				<name>Sendero Alfredo Benini</name>
+				<desc>
+					Los Dolomitas de Brenta son unas espectaculares montañas
+					situado en la provincia de Trento, en el norte de
+					Italia. Aunque geográficamente no pertenecen a los
+					Dolomitas, se las considera parte de ese m...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/benini.jpg
+				</image>
+				<days>1</days>
+				<length>11 Km</length>
+				<unevenness direction="up">800</unevenness>
+				<unevenness direction="down">800</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/el-magreb">
+		<name>El Magreb</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. La parte del
+			continente africano comprendida entre el Atlántico y el desierto
+			de Libia, ...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/marruecos.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Marruecos</name>
+				<desc>
+					Elige entre sus cuatro cordilleras: el Rif, el Atlas Medio,
+					el Gran Atlas y el Antiatlas y disfrutarla con sus parajes
+					únicos. La montaña más alta es el Toubkal, que alcanza los
+					4.162 metros de altitu...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/marruecos.jpg
+				</image>
+				<days>3</days>
+				<length>Km</length>
+				<unevenness direction="up"></unevenness>
+				<unevenness direction="down"></unevenness>
+			</mountain>
+			<mountain>
+				<name>Túnez</name>
+				<desc>
+					El punto más alto de Túnez es el monte Jebel Chambi, al
+					norte de la ciudad de Kasserine, con sus 1544 msnm. Túnez se
+					encuentra en el norte de África, entre el Mar Mediterráneo y
+					el Desierto del Sahara...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tunez1.jpg
+				</image>
+				<days>1</days>
+				<length>Km</length>
+				<unevenness direction="up"></unevenness>
+				<unevenness direction="down"></unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/excursiones-cerca-de-barcelona">
+		<name>Excursiones cerca de Barcelona</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. Os presentamos
+			unas serie de excursiones cerca de Barcelona. Principalmente
+			estas excurs...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Aiguamolls del Empordà</name>
+				<desc>
+					Itinerario breve que nos permite disfrutar de una muestra
+					muy completa del Parque dels Aiguamolls del Empordà. El
+					Parque Natural de los Aiguamolls del Empordà es una de las
+					zonas naturales más conocid...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/emporda.jpg
+				</image>
+				<days>1</days>
+				<length>5 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>Baumes Corcades</name>
+				<desc>
+					Baumes Corcades sube hasta la cima de la colina de
+					Puigsagordi por los bancales de piedra más verticales. El
+					cerro del Puigsagordi de 972 metros de altitud se situa en
+					los términos municipales de Cent...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/baumes.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">330</unevenness>
+				<unevenness direction="down">330</unevenness>
+			</mountain>
+			<mountain>
+				<name>Cala del Molí</name>
+				<desc>
+					Vía Ferrata fácil, muy recomendable para la iniciación en
+					estas vías, con impresionantes vistas de la Costa Brava. La
+					Via Ferrata Cala Del Molí es una ruta bastante sencilla,
+					aunque sí podemos destaca...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/calamoli.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>Camí dels Degotalls</name>
+				<desc>
+					El Camí dels Degotalls es en el punto de salida hacia el
+					Camino de Santiago desde el Monasterio de Montserrat. El
+					recorrido está ornamentado con monumentos a artistas de
+					renombre en memoria de algunos...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/degotalls.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">150</unevenness>
+				<unevenness direction="down">150</unevenness>
+			</mountain>
+			<mountain>
+				<name>Can Massana – Refugi Vicenç Barbé</name>
+				<desc>
+					Ruta que nos lleva al Refugio Agulles Vicenç Barbé a 900
+					metros de altura en la montaña de Montserrat. La montaña de
+					Montserrat, Con una altura máxima de 1.236 metros sobre el
+					nivel del mar, está a 20...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/massana.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+			<mountain>
+				<name>Can Massana – Roca Foradada</name>
+				<desc>
+					La Roca Foradada es de esos pequeños rincones de postal
+					donde todo parece puesto para impresionar al visitante. La
+					montaña de Montserrat, Con una altura máxima de 1.236 metros
+					sobre el nivel del mar, ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">170</unevenness>
+				<unevenness direction="down">170</unevenness>
+			</mountain>
+			<mountain>
+				<name>Canal de Cristal</name>
+				<desc>
+					Este paraje es uno de los rincones más maravillosos de la
+					Serra del Cadí-Moixeró y de las montañas catalanas. El
+					Parque Natural de montaña del Cadí-Moixeró se creó en julio
+					de 1983 fruto de la necesid...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/pratscadi1.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">900</unevenness>
+				<unevenness direction="down">900</unevenness>
+			</mountain>
+			<mountain>
+				<name>Canal de Las Damas</name>
+				<desc>
+					Esta vía ferrata nos ofrece un entretenido recorrido donde
+					no falta un pequeño desplomado y una difícil chimenea. Esta
+					vía ferrata se sitúa en la Montaña de Montserrat y es más
+					accesible que la famosa...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/damas.jpg
+				</image>
+				<days>1</days>
+				<length>1 Km</length>
+				<unevenness direction="up">250</unevenness>
+				<unevenness direction="down">250</unevenness>
+			</mountain>
+			<mountain>
+				<name>Collbató – Monasterio de Montserrat</name>
+				<desc>
+					El Itinerario comienza en la población de Collbató y nos
+					lleva hasta el Monasterio de Montserrat. La montaña de
+					Montserrat, Con una altura máxima de 1.236 metros sobre el
+					nivel del mar, está a 20 Km. ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">700</unevenness>
+				<unevenness direction="down">700</unevenness>
+			</mountain>
+			<mountain>
+				<name>Collbató – Vinya Nova</name>
+				<desc>
+					Paisaje agrícola al pie de la Montaña de Montserrat a través
+					de una ruta circular con salida desde Collbató. El paisaje
+					agrícola condicionado por la proximidad de una montaña
+					mediterránea enriscadas c...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbato.jpg
+				</image>
+				<days>1</days>
+				<length>5 Km</length>
+				<unevenness direction="up">700</unevenness>
+				<unevenness direction="down">700</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Bruc – Coll de Port</name>
+				<desc>
+					Desde el Bruc hasta el Coll de Port a través del singular
+					paraje de Frares Encantats con frondosa vegetación. El
+					itinerario se inicia entre campos de olivos y algún pino,
+					pero muy pronto la vegetación...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/colldeport.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">550</unevenness>
+				<unevenness direction="down">550</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Bruc – Monistrol</name>
+				<desc>
+					Duro itinerario que permite captar muchos de los peñascos y
+					canales que dan forma a la sierra de Montserrat. La zona,
+					áspera y solitaria, contrasta con el ambiente ruidoso y
+					ajetreado de los alrededor...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+				</image>
+				<days>1</days>
+				<length>18 Km</length>
+				<unevenness direction="up">532</unevenness>
+				<unevenness direction="down">871</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Bruc – Sant Pau Vell</name>
+				<desc>
+					La iglesia de Sant Pau Vell recuerda que en este lugar se
+					encontraba uno de los Cinco Castillos de Montserrat. A lo
+					largo del recorrido pasaremos entre pinares de pino
+					carrasco, pinos negrales y olivo...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/colldeport.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">400</unevenness>
+				<unevenness direction="down">400</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Camí de Ronda de S’Agaró</name>
+				<desc>
+					El Camí de Ronda es el camino que discurre por la Costa
+					Brava y que era utilizado para controlar la frontera
+					marítima. Camí de Ronda (Camino de Ronda) es el nombre por
+					el que se conoce el trayecto que...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/sagaro1.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Montcau</name>
+				<desc>
+					El macizo de Sant Llorenç del Munt i l’Obac se encuentra al
+					Norte de Terrassa. Se sitúa sobre la depresión del Vallès y
+					alcanza su altura máxima en la Mola, con 1.103 metros. Junto
+					con el macizo de Mo...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/montcau.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+			<mountain>
+				<name>Ermitas Románicas de Montserrat</name>
+				<desc>
+					La Ermita de Sant Esteve de Marganell es un claro exponente
+					del arte románico rural catalán. La Ermita de Sant Jaume del
+					siglo XII, ya aparece citada en 1104, en un documento en que
+					los propietarios l...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/ermitas.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">150</unevenness>
+				<unevenness direction="down">150</unevenness>
+			</mountain>
+			<mountain>
+				<name>Fageda en Jordà y volcanes</name>
+				<desc>
+					Itinerario muy recomendable por su sencillez y por el hecho
+					de pasar por tres enclaves de gran valor natural. Este
+					itinerario es muy recomendable tanto por su sencillez como
+					por el hecho de que pasa p...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/jorda.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">150</unevenness>
+				<unevenness direction="down">150</unevenness>
+			</mountain>
+			<mountain>
+				<name>Font Gran – Font de Guilleumes</name>
+				<desc>
+					Fuente de las Guilleumes en un entorno privilegiado, donde
+					el agua nace del torrente de las Guilleumes. La Font Gran:
+					En el cauce del torrente de las Guilleumes, en el pueblo de
+					Monistrol, nace un man...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fontgran.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">350</unevenness>
+				<unevenness direction="down">350</unevenness>
+			</mountain>
+			<mountain>
+				<name>Font del Rajolí</name>
+				<desc>
+					La Font del Rajolí está situada en un apacible hayedo cerca
+					del puebo de Cantonigròs. La Virgen de la Pertusa es una
+					ermita románica situada en Corçà (Àger), entre el Coll de la
+					Pertusa y el Noguera R...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fontdelrajoli.jpg
+				</image>
+				<days>1</days>
+				<length>11 Km</length>
+				<unevenness direction="up">250</unevenness>
+				<unevenness direction="down">250</unevenness>
+			</mountain>
+			<mountain>
+				<name>GR 178 – La Ruta de Serrallonga</name>
+				<desc>
+					Ruta basada en la biografía del mítico bandolero del siglo
+					XVII Joan de Serrallonga. De la llanura de la Selva al
+					pantano de Sau, atravesando el macizo de
+					Guilleries. Caminamos por el interior de la c...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/gr178.jpg
+				</image>
+				<days>2</days>
+				<length>56 Km</length>
+				<unevenness direction="up">1000</unevenness>
+				<unevenness direction="down">1000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Iglesia Sant Martí de Sau a Tavertet</name>
+				<desc>
+					Es una de las excursiones clásicas de las Guillerias y de
+					Collsacabara desde la Iglesia Sant Martí de Sau a
+					Tavertet. Es una de las excursiones clásicas de las
+					Guillerias y de Collsacabara, pero en se...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tavertet1.jpg
+				</image>
+				<days>1</days>
+				<length>13 Km</length>
+				<unevenness direction="up">400</unevenness>
+				<unevenness direction="down">400</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Font Horta</name>
+				<desc>
+					El lugar más emblemático del parque es el pantano de Foix,
+					donde llega el agua del río Foix y de varias rieras. El
+					Parque del Foix está situado en el Alt Penedès y se trata de
+					la zona húmeda más impor...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/horta.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Mola</name>
+				<desc>
+					En la cima de La Mola podremos disfrutar del Monasterio
+					románico de Sant Llorenç de Munt. La Mola es la montaña más
+					alta del Parque Natural de Sant Llorenç del Munt i l’Obac
+					con 1.104 metros de ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/lamola.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">500</unevenness>
+				<unevenness direction="down">500</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Mola y El Montcau</name>
+				<desc>
+					Excursión fácil que sube las dos cumbres más famosas del
+					Parque Natural de Sant Llorenç de Munt i la Serra l’Obac. La
+					Mola está situada entre las Comarcas Barcelonesas del Vallés
+					Occidental y del Bàge...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/mola.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">410</unevenness>
+				<unevenness direction="down">410</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/excursiones-cerca-de-puigcerda">
+		<name>Excursiones cerca de Puigcerdà</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. Puigcerdà esta
+			situada en la comarca de la Baixa Cerdanya, se sitúa en las
+			provincias de...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/comabonaasc.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Acercamiento al Pic de la Pelada</name>
+				<desc>
+					Fácil travesía a la base del Pic de la Pelada, situada en la
+					Cerdanya Francesa cerca de Formiguères. Para acceder a esta
+					ruta salimos desde el pueblo de Formiguerà, Cerdanya
+					francesa, por la D-4G, car...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/picdelapelada1.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>Bolvir de Cerdanya a Isòvol</name>
+				<desc>
+					Este itinerario recorre una parte de la sección del Camino
+					de Santiago que cruza la Cerdanya. El itinerario recorre una
+					parte de la sección del Camino de Santiago que cruza la
+					Cerdanya. Hemos escogido...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/isovol.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>Bony d’Envalira</name>
+				<desc>
+					La vía, que se construyó en 1999, es una de las mejores vías
+					ferratas de Andorra. Vía ferrata de alta montaña en donde la
+					aproximación y el regreso son largos, aproximadamente una
+					hora de subida y una...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/bonydenvalira.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">500</unevenness>
+				<unevenness direction="down">500</unevenness>
+			</mountain>
+			<mountain>
+				<name>Canal de Cristal</name>
+				<desc>
+					Este paraje es uno de los rincones más maravillosos de la
+					Serra del Cadí-Moixeró y de las montañas catalanas. El
+					Parque Natural de montaña del Cadí-Moixeró se creó en julio
+					de 1983 fruto de la necesid...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/pratscadi1.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">900</unevenness>
+				<unevenness direction="down">900</unevenness>
+			</mountain>
+			<mountain>
+				<name>Canigó desde Cortalets</name>
+				<desc>
+					Ruta al Canigó desde Cotalets, una de las montañas más
+					emblemática y mítica del Pirineo Catalàn. El Canigó, montaña
+					emblemática y mítica, comienzo de la cadena pirenaica por la
+					vertiente Oriental, es ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/canigoasc.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">630</unevenness>
+				<unevenness direction="down">630</unevenness>
+			</mountain>
+			<mountain>
+				<name>Canigó desde Marialles</name>
+				<desc>
+					Ruta al Canigó desde Marialles, una de las montañas más
+					emblemática y mítica del Pirineo Catalàn. El Canigó, montaña
+					emblemática y mítica, comienzo de la cadena pirenaica por la
+					vertiente Oriental, es...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/canigoasc.jpg
+				</image>
+				<days>1</days>
+				<length>19 Km</length>
+				<unevenness direction="up">1100</unevenness>
+				<unevenness direction="down">1100</unevenness>
+			</mountain>
+			<mountain>
+				<name>Carlit</name>
+				<desc>
+					El Carlit es la cima culminante del departamento francés de
+					los Pirineos Orientales, exigente excursión con inmejorables
+					vistas. El Carlit forma parte del macizo granítico de
+					Capcir, que se encuentra ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/carlitasc.jpg
+				</image>
+				<days>1</days>
+				<length>15 Km</length>
+				<unevenness direction="up">900</unevenness>
+				<unevenness direction="down">900</unevenness>
+			</mountain>
+			<mountain>
+				<name>Cavalls del vent</name>
+				<desc>
+					Travesía entre 8 refugios guardados dentro del parque
+					natural del Cadí-Moixeró. El Parque Natural de Cadí-Moixeró
+					es el más grande de Cataluña y se sitúa entre las provincias
+					de Barcelona, Gerona y Lé...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/cv1.jpg
+				</image>
+				<days>7</days>
+				<length>67 Km</length>
+				<unevenness direction="up">2890</unevenness>
+				<unevenness direction="down">4400</unevenness>
+			</mountain>
+			<mountain>
+				<name>Col de Puymorens – Lago de Lanós</name>
+				<desc>
+					Esta travesía comienza en el Col de Puymorens y nos lleva
+					hasta el Lago de Lanós en Porté-Puymorens. Esta travesía
+					comienza en el Col de Puymorens situado en la carretera que
+					lleva de Puigcerdà al Pas...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/puymorenslanos1.jpg
+				</image>
+				<days>1</days>
+				<length>17 Km</length>
+				<unevenness direction="up">1100</unevenness>
+				<unevenness direction="down">500</unevenness>
+			</mountain>
+			<mountain>
+				<name>Coll de Jou</name>
+				<desc>
+					El Coll de Jou situado en el municipio de Guixers, a 1461,5
+					m de altitud, en la sierra de Querol. Aparte de un
+					importante nudo de comunicación es también partición de
+					aguas entre las cuencas del Ebro ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/jou.jpg
+				</image>
+				<days>1</days>
+				<length>9 Km</length>
+				<unevenness direction="up">650</unevenness>
+				<unevenness direction="down">650</unevenness>
+			</mountain>
+			<mountain>
+				<name>Collada Verda</name>
+				<desc>
+					Itinerario circular de 16 Km y un desnivel de 700 metros que
+					se desarrolla muy suavemente. Desde el pueblo de Camprodón
+					cogemos la carretera a Setcases i Vallter. Una vez pasada la
+					población de Llanar...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/colladaverda.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">700</unevenness>
+				<unevenness direction="down">700</unevenness>
+			</mountain>
+			<mountain>
+				<name>Coma Pedrosa</name>
+				<desc>
+					El Coma Pedrosa es el pico más alto de todo el Principado de
+					Andorra con sus 2942 metros de altura. El Coma Pedrosa está
+					situado en la parte occidental del país, muy próximo a la
+					estación de esquí de ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/comapedrosaasc.jpg
+				</image>
+				<days>1</days>
+				<length>15 Km</length>
+				<unevenness direction="up">1400</unevenness>
+				<unevenness direction="down">1400</unevenness>
+			</mountain>
+			<mountain>
+				<name>Coma d´Or</name>
+				<desc>
+					El Coma d´Or es una montaña de fácil acceso, pero de altura
+					considerable. Los Pirineos son una cordillera montañosa
+					situada al norte de la Península Ibérica, entre España,
+					Andorra y Francia. Se extien...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/comadorasc.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">1000</unevenness>
+				<unevenness direction="down">1000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Comabona</name>
+				<desc>
+					En esta ascensión descubriremos la sierra del Cadí, que
+					forma parte del parque natural del Cadí-Moixeró. El Parque
+					Natural de Cadí-Moixeró es el más grande de Cataluña y se
+					sitúa entre las provincias ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/comabonaasc.jpg
+				</image>
+				<days>1</days>
+				<length>7 Km</length>
+				<unevenness direction="up">580</unevenness>
+				<unevenness direction="down">580</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Coll de Finestrelles</name>
+				<desc>
+					El Coll de Finestrelles es un collado situado a 2604m,
+					frontera del Ripollès y la Alta Cerdanya. Este Coll se llama
+					Coll de les Finestrelles porque en catalan “Finestra” quiere
+					decir “Ventana”, y el C...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/finestrelles1.jpg
+				</image>
+				<days>1</days>
+				<length>13 Km</length>
+				<unevenness direction="up">1050</unevenness>
+				<unevenness direction="down">1050</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Puigllançada – Els prats de la Molina</name>
+				<desc>
+					El Puigllançada es una montaña de 2409m que se encuentra en
+					el municipio de Bagà en El Berguedà. El Puigllançada es el
+					pico que se alza por encima del ultimo telesilla de la
+					estación de esquí de la Mo...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/puigllancada1.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">650</unevenness>
+				<unevenness direction="down">650</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Roc de la Calm</name>
+				<desc>
+					Una vez en la cima descubriremos una mesa redonda
+					orientativa donde descubriremos la magnificencia del
+					paisaje. Para los que no conocen la Cerdanya, este paseo por
+					el altiplano de la Calma, una vasta ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/elrocdelacalm1.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">300</unevenness>
+				<unevenness direction="down">300</unevenness>
+			</mountain>
+			<mountain>
+				<name>Ermita d’Enclar</name>
+				<desc>
+					Una buena excusa para hacer turismo cultural en Andorra y
+					visitar su espléndido románico. Una buena excusa para hacer
+					turismo cultural en Andorra es visitar la Ermita d’Enclar
+					accesible gracias ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/enclar.jpg
+				</image>
+				<days>1</days>
+				<length>2 Km</length>
+				<unevenness direction="up">300</unevenness>
+				<unevenness direction="down">300</unevenness>
+			</mountain>
+			<mountain>
+				<name>Estanque de Les Besines</name>
+				<desc>
+					Recorrido que une la población de L’Hospitalet Apres
+					l’Andorre con el pequeño estanque de Les Besines. Los
+					Pirineos son una cordillera montañosa situada al norte de la
+					Península Ibérica, e...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/besines1.jpg
+				</image>
+				<days>1</days>
+				<length>14 Km</length>
+				<unevenness direction="up">500</unevenness>
+				<unevenness direction="down">500</unevenness>
+			</mountain>
+			<mountain>
+				<name>Estanys de Malniu</name>
+				<desc>
+					Excursion con escaso desnivel que nos llevará hasta el
+					Estany de Malniu a 2290 metros de altitud. Esta excursión
+					tiene todos los requisitos para considerarse una excursión
+					ideal para una salida famili...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/malniu.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">160</unevenness>
+				<unevenness direction="down">160</unevenness>
+			</mountain>
+			<mountain>
+				<name>Fontviva</name>
+				<desc>
+					Esta travesía comienza en el pequeño pueblo de
+					Porté-Puymorens y nos lleva al hermoso lago de
+					Fontviva. Esta travesía comienza en el pequeño pueblo
+					francés de Porte, situado en la carretera que lleva ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fontviva1.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+			<mountain>
+				<name>Gorges de Carança</name>
+				<desc>
+					El valle pirenaico de Carança está bien dotado de atractivos
+					naturales, aunque el mayor de todos es el recorrido de las
+					Gorges de Carança. Bosques, lagos de montaña y cumbres
+					agrestes, el valle pirena...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/refugicaransa.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">1000</unevenness>
+				<unevenness direction="down">1000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Gorges de Carança (Circular)</name>
+				<desc>
+					El valle pirenaico de Carança está bien dotado de atractivos
+					naturales, aunque el mayor de todos es el recorrido de las
+					Gorges de Carança. Bosques, lagos de montaña y cumbres
+					agrestes, el valle pirena...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/carancacircular1.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">300</unevenness>
+				<unevenness direction="down">300</unevenness>
+			</mountain>
+			<mountain>
+				<name>Éller – Cortàs – Ordèn</name>
+				<desc>
+					A lo largo de este recorrido visitaremos los pequeños
+					pueblos de Éller, Cortàs y Orden. Y las iglesias de Santa
+					Eulàlia d’Éller y Sant Policarp de Cortàs. La iglesia de
+					Santa Eulàlia d’Éller est...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/eller.jpg
+				</image>
+				<days>1</days>
+				<length>108 Km</length>
+				<unevenness direction="up">210</unevenness>
+				<unevenness direction="down">210</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/grecia-bulgaria-rumania">
+		<name>Grecia, Bulgaria, Rumanía</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. Toda esta zona
+			esta condicionada por la presencia de los Montes Balcanes. Estas
+			montañas...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/bulgaria.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Bulgaria</name>
+				<desc>
+					Los tres parques nacionales de Bulgaria son el PN Central de
+					los Balcanes, el PN Rila y el PN de Pirin. Bulgaria se
+					encuentra en una encrucijada de culturas, como cabe esperar
+					del hecho de contar con ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/bulgaria.jpg
+				</image>
+				<days>4</days>
+				<length>Km</length>
+				<unevenness direction="up"></unevenness>
+				<unevenness direction="down"></unevenness>
+			</mountain>
+			<mountain>
+				<name>Grecia</name>
+				<desc>
+					Grecia es mayoritariamente montañosa y cuenta con varias
+					cadenas entre ellas los Alpes Dináricos. Geográfica y
+					climáticamente el territorio griego es muy variado. Contando
+					con 9.000 islas, islotes y a...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/grecia.jpg
+				</image>
+				<days>7</days>
+				<length>Km</length>
+				<unevenness direction="up"></unevenness>
+				<unevenness direction="down"></unevenness>
+			</mountain>
+			<mountain>
+				<name>Rumanía</name>
+				<desc>
+					El Delta del Danubio ha sido incluido en el listado de la
+					UNESCO de Reservas de la Biosfera. Rumania está dividido en
+					tres regiones principales, la meseta de Transilvania, en el
+					centro del país; los C...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/rumania.jpg
+				</image>
+				<days>4</days>
+				<length>Km</length>
+				<unevenness direction="up"></unevenness>
+				<unevenness direction="down"></unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/islas-azores">
+		<name>Islas Azores</name>
+		<desc>
+			Para los amantes de la naturaleza, las Azores son el cielo en la
+			tierra: increíbles lagos y lagunas dan forma a las asombrosas
+			vistas sobre el océano a partir de los profundos cráteres de
+			antiguos vol...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/azores.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Isla de Faial</name>
+				<desc>
+					Geográficamente, la isla está dominada por un gran cráter de
+					unos 2 km de diámetro y 400 metros, espectacular Isla De
+					Faial. La “Ilha Azul” es conocida con este sobrenombre por
+					la gran cantidad de set...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/faial.jpg
+				</image>
+				<days>5</days>
+				<length>37 Km</length>
+				<unevenness direction="up">1050</unevenness>
+				<unevenness direction="down">1175</unevenness>
+			</mountain>
+			<mountain>
+				<name>Isla de Sao Jorge</name>
+				<desc>
+					São Jorge es la isla de los acantilados y de las fajãs, una
+					de las más verdes del archipiélago de las Azores y el lugar
+					perfecto para unas vacaciones en contacto con la naturaleza
+					y el mar....
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/saojorge.jpg
+				</image>
+				<days>6</days>
+				<length>60 Km</length>
+				<unevenness direction="up">1750</unevenness>
+				<unevenness direction="down">2750</unevenness>
+			</mountain>
+			<mountain>
+				<name>Isla do Pico</name>
+				<desc>
+					Alzándose en esta isla, Pico Alto con 2,352 m es la montaña
+					más alta de Portugal y le confiere un un carácter totalmente
+					diferente al resto del archipiélago. Pico, también famosa
+					por su tradición ball...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/pico.jpg
+				</image>
+				<days>7</days>
+				<length>63 Km</length>
+				<unevenness direction="up">1350</unevenness>
+				<unevenness direction="down">2650</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Graciosa – Azores</name>
+				<desc>La Isla Graciosa, clasificada por la Unesco como Reserva
+				Mundial de la Biosfera, es la isla más al norte de las cinco
+				que componen el Grupo Central del archipiélago de las Azores.
+				
+				Se la conoce como...</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/graciosaazores.jpg
+				</image>
+				<days>3</days>
+				<length>22 Km</length>
+				<unevenness direction="up">250</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pico Alto – Azores</name>
+				<desc>
+					Alzándose en esta isla, Pico Alto con 2,352 m es la montaña
+					más alta de Portugal y le confiere un un carácter totalmente
+					diferente al resto del archipiélago. Pico, también famosa
+					por su tradición ball...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/pico.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">1200</unevenness>
+				<unevenness direction="down">1200</unevenness>
+			</mountain>
+			<mountain>
+				<name>San Miguel</name>
+				<desc>
+					Además de la capital, es muy recomendable la zona de las
+					lagunas de Sete Cidades, uno de los lugares mas
+					espectaculares de todo el archipiélago de las Azores. La
+					isla de San Miguel a pesar de contar c...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/sanmiguel.jpg
+				</image>
+				<days>14</days>
+				<length>97 Km</length>
+				<unevenness direction="up">3000</unevenness>
+				<unevenness direction="down">4500</unevenness>
+			</mountain>
+			<mountain>
+				<name>Terceira</name>
+				<desc>La isla Terceira, uno de los principales puntos de
+				entrada de las Azores, forma junto con las islas de Graciosa,
+				São Jorge, Pico y Faial el grupo central del archipiélago.
+				
+				Tal como el propio nombre...</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/terceira.jpg
+				</image>
+				<days>7</days>
+				<length>47 Km</length>
+				<unevenness direction="up">2000</unevenness>
+				<unevenness direction="down">1800</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/islas-canarias">
+		<name>Islas Canarias</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. No importa a qué
+			isla viajes. El clima, la gente, el paisaje… todo te invita a
+			sentirte ...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/teideasc.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>El Hierro</name>
+				<desc>
+					A comienzos del año 2000 fue declarada reserva de las
+					biosfera con el 60% de su territorio protegido. La isla de
+					El Hierro es la más occidental de las siete grandes islas
+					que conformar que esté archip...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/elhierro.jpg
+				</image>
+				<days>5</days>
+				<length>40 Km</length>
+				<unevenness direction="up">1300</unevenness>
+				<unevenness direction="down">1300</unevenness>
+			</mountain>
+			<mountain>
+				<name>Fuerteventura</name>
+				<desc>
+					Fuerteventura posee una belleza única: paisajes totalmente
+					desérticos, grandes planicies y maravillosos acantilados
+					sobre el mar. Fuerteventura, con 1.658 Kilómetros cuadrados
+					de extensión, es la segu...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fuerteventura.jpg
+				</image>
+				<days>7</days>
+				<length>87 Km</length>
+				<unevenness direction="up">1100</unevenness>
+				<unevenness direction="down">1100</unevenness>
+			</mountain>
+			<mountain>
+				<name>Gran Canaria</name>
+				<desc>
+					Gran Canaria es Reserva de la Biosfera declarada por la
+					UNESCO abarcando un total del 46% de su territorio. La isla
+					de Gran Canaria es la tercera en extensión y la segunda en
+					población del archipiélag...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/grancanaria.jpg
+				</image>
+				<days>3</days>
+				<length>33 Km</length>
+				<unevenness direction="up">2000</unevenness>
+				<unevenness direction="down">2000</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Gomera</name>
+				<desc>
+					La isla posee el espectacular Parque Nacional de Garajonay
+					declarado en 1981 y nombrado Patrimonio de la Humanidad. La
+					Gomera tiene una superficie de 369,76 km cuadrados y su
+					punto más alto es el Gara...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/lagomera.jpg
+				</image>
+				<days>7</days>
+				<length>55 Km</length>
+				<unevenness direction="up">2695</unevenness>
+				<unevenness direction="down">2695</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Graciosa (Lanzarote)</name>
+				<desc>
+					La Graciosa es la más desconocida y la que derrocha más
+					serenidad de las Islas Canarias. La isla de La Graciosa
+					forma parte del archipiélago Chinijo -perteneciente a
+					Canarias y a la Provincia de Las ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/graciosa.jpg
+				</image>
+				<days>12</days>
+				<length>100 Km</length>
+				<unevenness direction="up">600</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Palma</name>
+				<desc>
+					La isla posee dos de los rincones más espectaculares de las
+					Islas Canarias, el Parque Natural de Cumbre Vieja y el
+					Parque Natural de Las Nieves. La Palma es una isla de
+					contrastes gracias a su desnive...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/lapalma.jpg
+				</image>
+				<days>5</days>
+				<length>91 Km</length>
+				<unevenness direction="up">4150</unevenness>
+				<unevenness direction="down">4950</unevenness>
+			</mountain>
+			<mountain>
+				<name>Lanzarote</name>
+				<desc>
+					Lanzarote posee El Parque Nacional de Timanfaya, declarado
+					Parque Nacional el 9 de agosto de 1974. “El día 1 de
+					septiembre 1730, entre las nueve y las diez de la noche, la
+					tierra se abrió en Timanfaya...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/Lanzarote.jpg
+				</image>
+				<days>12</days>
+				<length>110 Km</length>
+				<unevenness direction="up">2100</unevenness>
+				<unevenness direction="down">2100</unevenness>
+			</mountain>
+			<mountain>
+				<name>Teide</name>
+				<desc>
+					Ascensión a la montaña más alta de España, situado en el
+					maravilloso Parque Nacional del Teide en el centro
+					geográfico de la isla de Tenerife. El Teide es un volcán
+					situado en la isla de Tenerife. Con...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/teideasc.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">1300</unevenness>
+				<unevenness direction="down">1300</unevenness>
+			</mountain>
+			<mountain>
+				<name>Tenerife</name>
+				<desc>
+					Descubre las excursiones más emblemáticas de la Isla de
+					Tenerife y su Parque Nacional declarado en 1954. Tenerife es
+					una isla muy abrupta y volcánica, cuyo relieve ha sido
+					esculpido por sucesivas erup...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tenerife.jpg
+				</image>
+				<days>3</days>
+				<length>28 Km</length>
+				<unevenness direction="up">1900</unevenness>
+				<unevenness direction="down">1900</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/macizo-del-pedraforca">
+		<name>Macizo del Pedraforca</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. El Pedraforca es
+			una de las montañas más emblemáticas de Cataluña. Esta montaña
+			tiene un...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/pedraforcaasc.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>La Gallina Pelada</name>
+				<desc>
+					La Serra d’Ensija en el Alt Berguedà, es una zona de alto
+					interés situada entre el Pedraforca y els Rassos de
+					Peguera. La Serra d’Ensija es un lugar muy hermoso, ya que
+					estas montañas recogen lo...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/gallinapelada.jpg
+				</image>
+				<days>1</days>
+				<length>7 Km</length>
+				<unevenness direction="up">730</unevenness>
+				<unevenness direction="down">730</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pedraforca</name>
+				<desc>
+					Ruta circular alrededor del Pedraforca, emblemática montaña
+					de Cataluña. El Pedraforca tiene una forma muy particular
+					con dos picos (el pico superior de 2.497 metros y el
+					Calderer de 2.491 metros). Lo...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/pedraforcaasc.jpg
+				</image>
+				<days>1</days>
+				<length>7 Km</length>
+				<unevenness direction="up">1000</unevenness>
+				<unevenness direction="down">1000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Vuelta al Pedraforca</name>
+				<desc>
+					Ruta que discurre alrededor del macizo del Pedraforca por
+					bosques y caminos históricos como el Camí dels Bons
+					Homes. Itinerario circular por la emblemática montaña del
+					Pedraforca, dentro del Parque Na...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/vueltapedraforca1.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">570</unevenness>
+				<unevenness direction="down">570</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/mallorca">
+		<name>Mallorca</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. Mallorca es una
+			isla que presenta una variedad de paisajes increíble y por lo
+			tanto es u...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/mallorca.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Cases de Neu – Mallorca</name>
+				<desc>
+					Ruta desde el Monasterio de Lluc hasta Las Casas de Nieve en
+					la Sierra de Tramuntana de la isla de Mallorca. Esta ruta
+					nos llevará desde el Monasterio de Lluc hasta Las Casas de
+					Nieve (Cases de Neu) e...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/casesdeneu.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">700</unevenness>
+				<unevenness direction="down">700</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Camí des Correu</name>
+				<desc>
+					Este camino real datado desde 1401, discurre entre espesos
+					encinares y fabulosas vistas de la costa norte
+					mallorquina. El Camí des Correu, es una antiquísima via de
+					comunicación entre los pueblos de E...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/correu.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">320</unevenness>
+				<unevenness direction="down">400</unevenness>
+			</mountain>
+			<mountain>
+				<name>Pedra en Sec – GR-221</name>
+				<desc>
+					La mítica Pedra en Sec es una ruta de 283 km que discurre
+					por la Sierra de Tramuntana de Mallorca. La Ruta de Pedra en
+					Sec o el GR-221 es un sendero de gran recorrido que traviesa
+					laSerra de Tramuntan...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/pedraensec.jpg
+				</image>
+				<days>5</days>
+				<length>80 Km</length>
+				<unevenness direction="up">2900</unevenness>
+				<unevenness direction="down">3000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Puig d’en Galileu</name>
+				<desc>
+					Ascensión al Puig d’en Galileu, espolón norte del macizo de
+					Massanella en la Isla de Mallorca. El Puig d’en Galileu es
+					una montaña de Mallorca que tiene una altura de 1180
+					m. Pertenece al ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/puiggalileu.jpg
+				</image>
+				<days>1</days>
+				<length>14 Km</length>
+				<unevenness direction="up">680</unevenness>
+				<unevenness direction="down">680</unevenness>
+			</mountain>
+			<mountain>
+				<name>Sant Josep – Sa Talaia</name>
+				<desc>Ibiza aporta unas vistas hermosas, pero para presenciar
+				estas vistas, es necesario hacer un poco de senderismo para
+				disfrutar de los puntos más altos de esta isla.
+				
+				Este sendero nos permite subir al...</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/bosque-ibiza.jpg
+				</image>
+				<days>1</days>
+				<length>15 Km</length>
+				<unevenness direction="up">600</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+			<mountain>
+				<name>Sóller – Embalse Cúber – Font des Noguer</name>
+				<desc>
+					La ruta parte de Sóller en Mallorca hasta ascender Coll de
+					l’Ofre situado a 900 metros de altitud. El camino que os
+					proponemos en esta ruta, parte de la población de Sóller en
+					la Isla de Mallorca hast...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/cuber.jpg
+				</image>
+				<days>1</days>
+				<length>24 Km</length>
+				<unevenness direction="up">1100</unevenness>
+				<unevenness direction="down">1100</unevenness>
+			</mountain>
+			<mountain>
+				<name>Valldemossa – Mirador Ses Puntes</name>
+				<desc>
+					Fragmento de La Ruta de Pedra en Sec, GR que atraviesa la
+					Serra de Tramuntana de Mallorca de punta a punta. Este
+					sendero circular parte de Valldemossa y recorre parte del
+					sendero que une las poblacion...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/valldemossa.jpg
+				</image>
+				<days>1</days>
+				<length>13 Km</length>
+				<unevenness direction="up">475</unevenness>
+				<unevenness direction="down">475</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/montana-de-montserrat">
+		<name>Montaña de Montserrat</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. La montaña de
+			Montserrat, Con una altura máxima de 1.236 metros sobre el nivel
+			del mar, ...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Camí dels Degotalls</name>
+				<desc>
+					El Camí dels Degotalls es en el punto de salida hacia el
+					Camino de Santiago desde el Monasterio de Montserrat. El
+					recorrido está ornamentado con monumentos a artistas de
+					renombre en memoria de algunos...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/degotalls.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">150</unevenness>
+				<unevenness direction="down">150</unevenness>
+			</mountain>
+			<mountain>
+				<name>Can Massana – Refugi Vicenç Barbé</name>
+				<desc>
+					Ruta que nos lleva al Refugio Agulles Vicenç Barbé a 900
+					metros de altura en la montaña de Montserrat. La montaña de
+					Montserrat, Con una altura máxima de 1.236 metros sobre el
+					nivel del mar, está a 20...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/massana.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+			<mountain>
+				<name>Can Massana – Roca Foradada</name>
+				<desc>
+					La Roca Foradada es de esos pequeños rincones de postal
+					donde todo parece puesto para impresionar al visitante. La
+					montaña de Montserrat, Con una altura máxima de 1.236 metros
+					sobre el nivel del mar, ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">170</unevenness>
+				<unevenness direction="down">170</unevenness>
+			</mountain>
+			<mountain>
+				<name>Canal de Las Damas</name>
+				<desc>
+					Esta vía ferrata nos ofrece un entretenido recorrido donde
+					no falta un pequeño desplomado y una difícil chimenea. Esta
+					vía ferrata se sitúa en la Montaña de Montserrat y es más
+					accesible que la famosa...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/damas.jpg
+				</image>
+				<days>1</days>
+				<length>1 Km</length>
+				<unevenness direction="up">250</unevenness>
+				<unevenness direction="down">250</unevenness>
+			</mountain>
+			<mountain>
+				<name>Collbató – Monasterio de Montserrat</name>
+				<desc>
+					El Itinerario comienza en la población de Collbató y nos
+					lleva hasta el Monasterio de Montserrat. La montaña de
+					Montserrat, Con una altura máxima de 1.236 metros sobre el
+					nivel del mar, está a 20 Km. ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+				</image>
+				<days>1</days>
+				<length>16 Km</length>
+				<unevenness direction="up">700</unevenness>
+				<unevenness direction="down">700</unevenness>
+			</mountain>
+			<mountain>
+				<name>Collbató – Vinya Nova</name>
+				<desc>
+					Paisaje agrícola al pie de la Montaña de Montserrat a través
+					de una ruta circular con salida desde Collbató. El paisaje
+					agrícola condicionado por la proximidad de una montaña
+					mediterránea enriscadas c...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbato.jpg
+				</image>
+				<days>1</days>
+				<length>5 Km</length>
+				<unevenness direction="up">700</unevenness>
+				<unevenness direction="down">700</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Bruc – Coll de Port</name>
+				<desc>
+					Desde el Bruc hasta el Coll de Port a través del singular
+					paraje de Frares Encantats con frondosa vegetación. El
+					itinerario se inicia entre campos de olivos y algún pino,
+					pero muy pronto la vegetación...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/colldeport.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">550</unevenness>
+				<unevenness direction="down">550</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Bruc – Monistrol</name>
+				<desc>
+					Duro itinerario que permite captar muchos de los peñascos y
+					canales que dan forma a la sierra de Montserrat. La zona,
+					áspera y solitaria, contrasta con el ambiente ruidoso y
+					ajetreado de los alrededor...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+				</image>
+				<days>1</days>
+				<length>18 Km</length>
+				<unevenness direction="up">532</unevenness>
+				<unevenness direction="down">871</unevenness>
+			</mountain>
+			<mountain>
+				<name>El Bruc – Sant Pau Vell</name>
+				<desc>
+					La iglesia de Sant Pau Vell recuerda que en este lugar se
+					encontraba uno de los Cinco Castillos de Montserrat. A lo
+					largo del recorrido pasaremos entre pinares de pino
+					carrasco, pinos negrales y olivo...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/colldeport.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">400</unevenness>
+				<unevenness direction="down">400</unevenness>
+			</mountain>
+			<mountain>
+				<name>Ermitas Románicas de Montserrat</name>
+				<desc>
+					La Ermita de Sant Esteve de Marganell es un claro exponente
+					del arte románico rural catalán. La Ermita de Sant Jaume del
+					siglo XII, ya aparece citada en 1104, en un documento en que
+					los propietarios l...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/ermitas.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">150</unevenness>
+				<unevenness direction="down">150</unevenness>
+			</mountain>
+			<mountain>
+				<name>Font Gran – Font de Guilleumes</name>
+				<desc>
+					Fuente de las Guilleumes en un entorno privilegiado, donde
+					el agua nace del torrente de las Guilleumes. La Font Gran:
+					En el cauce del torrente de las Guilleumes, en el pueblo de
+					Monistrol, nace un man...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fontgran.jpg
+				</image>
+				<days>1</days>
+				<length>4 Km</length>
+				<unevenness direction="up">350</unevenness>
+				<unevenness direction="down">350</unevenness>
+			</mountain>
+			<mountain>
+				<name>Monasterio de Montserrat – Sant Jeroni</name>
+				<desc>
+					Sant Jeroni es la cima culminante de la montaña de
+					Montserrat y una de las cimas emblemáticas del montañismo
+					catalán. La cima de Sant Jeroni es en la confluencia de los
+					límites de los términos municip...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+				</image>
+				<days>1</days>
+				<length>7 Km</length>
+				<unevenness direction="up">250</unevenness>
+				<unevenness direction="down">250</unevenness>
+			</mountain>
+			<mountain>
+				<name>Monistrol – Can Maçana</name>
+				<desc>
+					Esta ruta es una versión expandida de la travesía de la
+					montaña de Montserrat. La montaña de Montserrat, Con una
+					altura máxima de 1.236 metros sobre el nivel del mar, está a
+					20 Km. de Barcelona entre ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/monistrol.jpg
+				</image>
+				<days>1</days>
+				<length>18 Km</length>
+				<unevenness direction="up">975</unevenness>
+				<unevenness direction="down">500</unevenness>
+			</mountain>
+			<mountain>
+				<name>Monistrol – Monasterio de Montserrat</name>
+				<desc>
+					Exigente recorrido por el PR-C 19 com mas de 24 kilómetros y
+					un desnivel de más de 800 metros. En el centro de Monistrol
+					de Montserrat, destaca la Plaza porticada del Bo-Bo, que
+					data del siglo XVII. y...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+				</image>
+				<days>1</days>
+				<length>24 Km</length>
+				<unevenness direction="up">800</unevenness>
+				<unevenness direction="down">800</unevenness>
+			</mountain>
+			<mountain>
+				<name>Piedra Seca – Montserrat</name>
+				<desc>
+					Os presentamos una guía para recorrer el encantador pueblo
+					de Collbató y su entorno natural. La montaña de Montserrat,
+					Con una altura máxima de 1.236 metros sobre el nivel del
+					mar, está a 20 Km. de Ba...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbatomontserratasc.jpg
+				</image>
+				<days>1</days>
+				<length>5 Km</length>
+				<unevenness direction="up">150</unevenness>
+				<unevenness direction="down">150</unevenness>
+			</mountain>
+			<mountain>
+				<name>Riera de Marganell</name>
+				<desc>
+					Paseo para relajarse y contemplar la fauna y la flora de la
+					riera de Marganell en los alrededores de la montaña de
+					Montserrat. La montaña de Montserrat, Con una altura máxima
+					de 1.236 metros sobre el ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/marganell.jpg
+				</image>
+				<days>1</days>
+				<length>2 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>Santa Cecilia a Montserrat</name>
+				<desc>
+					Sendero hasta el Monasterio de Santa Cecília de Montserrat,
+					una antigua abadía benedictina en la localidad de Marganell
+					en la Montaña de Montserrat. El monasterio de Santa Cecília
+					de Montserrat es una...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/santacecila.jpg
+				</image>
+				<days>1</days>
+				<length>10 Km</length>
+				<unevenness direction="up">270</unevenness>
+				<unevenness direction="down">270</unevenness>
+			</mountain>
+			<mountain>
+				<name>Vuelta a la Montaña de Montserrat</name>
+				<desc>
+					Itinerario clásico de la vuelta a la montaña de Montserrat,
+					largo y con desnivel pero muy interesante. La montaña de
+					Montserrat, Con una altura máxima de 1.236 metros sobre el
+					nivel del mar, está a 20...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/collbato.jpg
+				</image>
+				<days>1</days>
+				<length>24 Km</length>
+				<unevenness direction="up">875</unevenness>
+				<unevenness direction="down">875</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/montseny">
+		<name>Montseny</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. El parque natural
+			del Montseny y el de Sant Llorenç de Munt i l’Obac son los
+			parques nat...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/turohomeasc.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Baumes Corcades</name>
+				<desc>
+					Baumes Corcades sube hasta la cima de la colina de
+					Puigsagordi por los bancales de piedra más verticales. El
+					cerro del Puigsagordi de 972 metros de altitud se situa en
+					los términos municipales de Cent...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/baumes.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">330</unevenness>
+				<unevenness direction="down">330</unevenness>
+			</mountain>
+			<mountain>
+				<name>GR 2 – Del Pirineo al Montseny</name>
+				<desc>
+					El GR 2 nace en La Jonquera y se dirige al Parque Natural
+					del Montseny pasando por el Parque Natural de la Zona
+					Volcánica de la Garrotxa. El GR2 pasa por zonas de gran
+					belleza natural, como el Parque ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/costabona1.jpg
+				</image>
+				<days>6</days>
+				<length>108 Km</length>
+				<unevenness direction="up">2000</unevenness>
+				<unevenness direction="down">2000</unevenness>
+			</mountain>
+			<mountain>
+				<name>La Mola y El Montcau</name>
+				<desc>
+					Excursión fácil que sube las dos cumbres más famosas del
+					Parque Natural de Sant Llorenç de Munt i la Serra l’Obac. La
+					Mola está situada entre las Comarcas Barcelonesas del Vallés
+					Occidental y del Bàge...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/mola.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">410</unevenness>
+				<unevenness direction="down">410</unevenness>
+			</mountain>
+			<mountain>
+				<name>Les Agudes</name>
+				<desc>
+					Excursión en Les Aguda, montaña de 1705 metros que forma
+					parte del Macizo del Montseny. Les Agudes es una montaña de
+					1.705 metros que forma parte del Macizo del Montseny. Está
+					caballo de los municipio...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/lesagudes.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">644</unevenness>
+				<unevenness direction="down">644</unevenness>
+			</mountain>
+			<mountain>
+				<name>Matagalls desde Collformic</name>
+				<desc>
+					El Matagalls con 1699 m de altitud, situado en Osona dentro
+					del Parque Natural del Montseny, es una de las cimas míticas
+					de Cataluña. El Matagalls con una altura de 1.699 metros de
+					altitud y situado e...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/matagallsasc.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">637</unevenness>
+				<unevenness direction="down">637</unevenness>
+			</mountain>
+			<mountain>
+				<name>Matagalls desde Sant Marçal Montseny</name>
+				<desc>
+					El Matagalls es una clásica ascensión y sin duda una de las
+					montañas del Montseny más apreciada por los montañeros. La
+					ascensión al Matagalls atravesaremos el hayedo de Matagalls,
+					el Coll Pregon (curi...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/matagallsmarcal1.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">600</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+			<mountain>
+				<name>Puig de Sant Miquel de les Formigueres</name>
+				<desc>
+					La excursión nos lleva al techo de las Guillerias, el pico
+					mas alto, Sant Miquel de les Formigues a 1202 metros de
+					altitud. Esta es una ascensión que puede hacerse desde
+					muchos puntos de salida y sigu...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/santmiquel1.jpg
+				</image>
+				<days>1</days>
+				<length>9 Km</length>
+				<unevenness direction="up">304</unevenness>
+				<unevenness direction="down">304</unevenness>
+			</mountain>
+			<mountain>
+				<name>Tagamanent</name>
+				<desc>
+					Ascensión muy popular para principiantes por su sencillez,
+					ubicada en el Parque Natural del Montseny. El Tagamanent,
+					con una altitud de 1.056 metros, es un pequeño pico situado
+					en la comarca del Vallé...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tagamanentasc.jpg
+				</image>
+				<days>1</days>
+				<length>18 Km</length>
+				<unevenness direction="up">726</unevenness>
+				<unevenness direction="down">726</unevenness>
+			</mountain>
+			<mountain>
+				<name>Turó del Home</name>
+				<desc>
+					Popular Ascensión al Turó del Home, con 1706 metros de
+					altitud está situado en el parque natural del Montseny en
+					Barcelona. El Turó de l’Home es la montaña más alta del
+					macizo del Montseny con u...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/turohomeasc.jpg
+				</image>
+				<days>1</days>
+				<length>5 Km</length>
+				<unevenness direction="up">586</unevenness>
+				<unevenness direction="down">586</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/nepal-india">
+		<name>Nepal, India</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. El Himalaya es una
+			cordillera situada en el continente asiático, y se extiende por
+			los p...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/__3_0748.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Ladakh – Lamayuru a Chiling</name>
+				<desc>
+					Lamayuru a Chiling es una dura ruta que se centra
+					principalmente en los famosos monasterios. Total de 65
+					km. Desniveles de 3500m .a casi 5000m. La dificultad por la
+					Altura y el calor. En este trekking...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/trekking_ladak.jpg
+				</image>
+				<days>6</days>
+				<length>66 Km</length>
+				<unevenness direction="up">3330</unevenness>
+				<unevenness direction="down">3515</unevenness>
+			</mountain>
+			<mountain>
+				<name>Santuario de los Annapurnas</name>
+				<desc>
+					La ruta del Santuario del Annapurna es la mejor para verse
+					rodeado por los gigantes del Himalaya. El Santuario esta
+					situado en la Región del Annaùrna, limitando al oeste con el
+					Barbunh Khola y Doplo, ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/__3_0748.jpg
+				</image>
+				<days>9</days>
+				<length>200 Km</length>
+				<unevenness direction="up">4000</unevenness>
+				<unevenness direction="down">4000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Valle de Lantang y Lago de Gosaikund</name>
+				<desc>
+					El Valle de Lantang es un Valle plagado de maravillosas
+					gentes y montañas que parecen salidas de un cuento de
+					hadas. Al llegar a Katmandú si el tiempo lo permite lo
+					primero que ves son las espectacula...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/trekking_ladak.jpg
+				</image>
+				<days>14</days>
+				<length>90 Km</length>
+				<unevenness direction="up">5870</unevenness>
+				<unevenness direction="down">6120</unevenness>
+			</mountain>
+			<mountain>
+				<name>Valle del Khumbu – Kalla Pattar</name>
+				<desc>
+					Recorrido por el Valle del Khumbu, hogar del famoso pueblo
+					sherpa, el Solu-Khumbu, un paraíso de sublimes montañas. La
+					Región del Everest es juntamente con la Región de los
+					Annapurna la más visita del...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/everest.jpg
+				</image>
+				<days>12</days>
+				<length>94 Km</length>
+				<unevenness direction="up">3485</unevenness>
+				<unevenness direction="down">3420</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/ordesa-y-monte-perdido">
+		<name>Ordesa y Monte Perdido</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. El Parque Nacional
+			de Ordesa y Monte Perdido fue declaro en 1918. Su superficie
+			comprend...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fajaderancun.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Aneto</name>
+				<desc>
+					El Aneto con una altitud de 3.404m es el pico más alto de
+					toda la cordillera Pirenaica. El Aneto con una altitud de
+					3.404 metros sobre el nivel del mar es el pico más alto de
+					toda la cordillera Pirena...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/aneto1.jpg
+				</image>
+				<days>1</days>
+				<length>14 Km</length>
+				<unevenness direction="up">1500</unevenness>
+				<unevenness direction="down">1500</unevenness>
+			</mountain>
+			<mountain>
+				<name>Cañon de Añisclo – Parque de Ordesa</name>
+				<desc>
+					Uno de los parajes más espectaculares de Aragón; una
+					profunda garganta producto de la erosión. El Cañón de
+					Añisclo esta situado en el Pirineo de Huesca (al Sur del
+					Monte Perdido), discurriendo en dire...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/anisclo1.jpg
+				</image>
+				<days>1</days>
+				<length>26 Km</length>
+				<unevenness direction="up">1500</unevenness>
+				<unevenness direction="down">1500</unevenness>
+			</mountain>
+			<mountain>
+				<name>Monte Perdido</name>
+				<desc>
+					Monte Perdido con sus 3355m es el macizo calcáreo más alto
+					del Pirineo y de Europa y toda una experiencia para
+					cualquier montañero. El macizo de Monte Perdido, conocido
+					por Las Tres Sorores o Treserol...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/monteperdidoasc.jpg
+				</image>
+				<days>1</days>
+				<length>8 Km</length>
+				<unevenness direction="up">1200</unevenness>
+				<unevenness direction="down">1200</unevenness>
+			</mountain>
+			<mountain>
+				<name>P.N. de Ordesa – Cola de Caballo</name>
+				<desc>
+					Clásica y popular excursión que recorre el valle de Ordesa
+					desde la Pradera hasta la cascada de Cola de Caballo. El
+					Parque Nacional de Ordesa y Monte Perdido fue declaro en
+					1918. Su superficie compren...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/coladecaballo.jpg
+				</image>
+				<days>1</days>
+				<length>14 Km</length>
+				<unevenness direction="up">300</unevenness>
+				<unevenness direction="down">300</unevenness>
+			</mountain>
+			<mountain>
+				<name>P.N. de Ordesa – Faja de Racún</name>
+				<desc>
+					Recorrido por los bosques del valle de Ordesa en su
+					vertiente sur, al pie de las murallas del Gallinero. El
+					Parque Nacional de Ordesa y Monte Perdido fue declaro en
+					1918. Su superficie comprende, adem...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/fajaderancun.jpg
+				</image>
+				<days>1</days>
+				<length>15 Km</length>
+				<unevenness direction="up">550</unevenness>
+				<unevenness direction="down">400</unevenness>
+			</mountain>
+			<mountain>
+				<name>P.N. de Ordesa – Senda de los Cazadores</name>
+				<desc>
+					Itinerario clave entre los recorridos del Parque Nacional de
+					Ordesa y Monte Perdido. El Parque Nacional de Ordesa y Monte
+					Perdido fue declaro en 1918. Su superficie comprende, además
+					del Valle de Orde...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/sendadeloscazadores.jpg
+				</image>
+				<days>1</days>
+				<length>21 Km</length>
+				<unevenness direction="up">600</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+			<mountain>
+				<name>Sorrosal</name>
+				<desc>
+					Sencilla vía Ferrata situada en Broto, pequeña población del
+					pirineo aragonés, a los pies del Parque Nacional de
+					Ordesa. Broto es un pequeño pueblo del pirineo aragonés, se
+					encuentra a los pies del Pa...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/sorrosal.jpg
+				</image>
+				<days>1</days>
+				<length>3 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/pantano-de-sau">
+		<name>Pantano de Sau</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. El Pantano de Sau,
+			en el término municipal de Vilanova de Sau, y al pie de la
+			cordillera...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/pantanodesau.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>GR 178 – La Ruta de Serrallonga</name>
+				<desc>
+					Ruta basada en la biografía del mítico bandolero del siglo
+					XVII Joan de Serrallonga. De la llanura de la Selva al
+					pantano de Sau, atravesando el macizo de
+					Guilleries. Caminamos por el interior de la c...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/gr178.jpg
+				</image>
+				<days>2</days>
+				<length>56 Km</length>
+				<unevenness direction="up">1000</unevenness>
+				<unevenness direction="down">1000</unevenness>
+			</mountain>
+			<mountain>
+				<name>Iglesia Sant Martí de Sau a Tavertet</name>
+				<desc>
+					Es una de las excursiones clásicas de las Guillerias y de
+					Collsacabara desde la Iglesia Sant Martí de Sau a
+					Tavertet. Es una de las excursiones clásicas de las
+					Guillerias y de Collsacabara, pero en se...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tavertet1.jpg
+				</image>
+				<days>1</days>
+				<length>13 Km</length>
+				<unevenness direction="up">400</unevenness>
+				<unevenness direction="down">400</unevenness>
+			</mountain>
+			<mountain>
+				<name>Tavertet a Rupit</name>
+				<desc>
+					Esta es una de las excursiones más clásicas de la zona de
+					Collsacabra, y a la vez una de las más espectaculares. Esta
+					excursión esta planteada solo de ida, recorrido caminando de
+					Tavertet a Rupit, y r...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tavertetarupit1.jpg
+				</image>
+				<days>1</days>
+				<length>9 Km</length>
+				<unevenness direction="up">320</unevenness>
+				<unevenness direction="down">320</unevenness>
+			</mountain>
+			<mountain>
+				<name>Vuelta de Esponellà – Girona</name>
+				<desc>
+					Itinerario sencillo y agradable que pasa junto al río Fluvià
+					y por el pueblo de Esponellà, que conserva su carácter
+					rural. La primera parte del itinerario se conoce como Camí
+					de les Rescloses (camino ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/esponella.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">200</unevenness>
+				<unevenness direction="down">200</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+	<zone href="https://entremontanas.com/zonas/parque-natural-de-la-sierra-de-guara">
+		<name>Parque Natural de la Sierra de Guara</name>
+		<desc>
+			Mucho antes de que el hombre pensara en conquistar las montañas,
+			las montañas ya habían conquistado al hombre. La sierra de Guara
+			está situada entre el Valle del Ebro y los Pirineos. Es la zona
+			prepi...
+		</desc>
+		<image type="external-link">
+			https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/virgendelavina1.jpg
+		</image>
+		<mountains>
+			<mountain>
+				<name>Barranco de Mascún – Sierra de Guara</name>
+				<desc>
+					Espectacular ruta en el Parque Natural de la Sierra y
+					cañones de Guara. La sierra de Guara está situada entre el
+					Valle del Ebro y los Pirineos. Es la zona prepirinaica de la
+					provincia de Huesca, la má...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/mascun1.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">800</unevenness>
+				<unevenness direction="down">800</unevenness>
+			</mountain>
+			<mountain>
+				<name>Castillo de Naya – Sierra de Guara</name>
+				<desc>
+					De este castillo sólo queda la roca sobre la que se
+					levantaba, no conservándose ningún vestigio del mismo. La
+					sierra de Guara está situada entre el Valle del Ebro y los
+					Pirineos. Es la zona prepirinai...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/tresuns1.jpg
+				</image>
+				<days>1</days>
+				<length>12 Km</length>
+				<unevenness direction="up">600</unevenness>
+				<unevenness direction="down">600</unevenness>
+			</mountain>
+			<mountain>
+				<name>Chimiachas – Alquézar – Sierra de Guara</name>
+				<desc>
+					Ruta por el Somontano, zona prepirinaica de la provincia de
+					Huesca en el Parque Natural de la Sierra de Guara. La sierra
+					de Guara está situada entre el Valle del Ebro y los
+					Pirineos. Es la zona prepir...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/chimiachas1.jpg
+				</image>
+				<days>1</days>
+				<length>13 Km</length>
+				<unevenness direction="up">620</unevenness>
+				<unevenness direction="down">620</unevenness>
+			</mountain>
+			<mountain>
+				<name>Real de Mascún – Sierra de Guara</name>
+				<desc>
+					Recorrer los rincones de este barranco es como sumergirse en
+					un sugerente mundo de formas minerales. La sierra de Guara
+					está situada entre el Valle del Ebro y los Pirineos. Es la
+					zona prepirinaica de ...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/mascun1.jpg
+				</image>
+				<days>1</days>
+				<length>17 Km</length>
+				<unevenness direction="up">480</unevenness>
+				<unevenness direction="down">480</unevenness>
+			</mountain>
+			<mountain>
+				<name>Virgen Del Castillo – Sierra de Guara</name>
+				<desc>
+					De Rodellar parte el sendero que conduce a la ermita de La
+					Virgen del Castillo, de unas 3 horas de duración. La sierra
+					de Guara está situada entre el Valle del Ebro y los
+					Pirineos. Es la zona prepirin...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/virgendelcastillo1.jpg
+				</image>
+				<days>1</days>
+				<length>5 Km</length>
+				<unevenness direction="up">100</unevenness>
+				<unevenness direction="down">100</unevenness>
+			</mountain>
+			<mountain>
+				<name>Virgen de la Trinidad – Sierra de Guara</name>
+				<desc>
+					Este sendero de fácil recorrido nos lleva en un agradable
+					paseo hasta la Ermita de la Virgen de la Trinidad. La sierra
+					de Guara está situada entre el Valle del Ebro y los
+					Pirineos. Es la zona prepirin...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/virgentrinidad1.jpg
+				</image>
+				<days>1</days>
+				<length>6 Km</length>
+				<unevenness direction="up">50</unevenness>
+				<unevenness direction="down">50</unevenness>
+			</mountain>
+			<mountain>
+				<name>Virgen de la Viña – Sierra de Guara</name>
+				<desc>
+					De las Almunias a la Ermita de La Virgen de la Viña a través
+					de caminos tradicionales. La sierra de Guara está situada
+					entre el Valle del Ebro y los Pirineos. Es la zona
+					prepirinaica de la provincia d...
+				</desc>
+				<image type="external-link">
+					https://entremontanas.com/wp-content/themes/Bigemployee-child/imagesuploads/virgendelavina1.jpg
+				</image>
+				<days>1</days>
+				<length>18 Km</length>
+				<unevenness direction="up">800</unevenness>
+				<unevenness direction="down">800</unevenness>
+			</mountain>
+		</mountains>
+	</zone>
+</zones>

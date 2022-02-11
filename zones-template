@@ -1,0 +1,16 @@
+<zone href="{f4}">
+  <name>{f13}</name>
+  <desc>{f14}</desc>
+  <image type="external-link">https://entremontanas.com{f12}</image>
+  <mountains>
+    <mountain>
+      <{h5}>{f5}</{h5}>
+      <{h11}>{f11}</{h11}>
+      <image type="external-link">https://entremontanas.com{f6}</image>
+      <{h7}>{f7}</{h7}>
+      <{h8}>{f8}</{h8}>
+      <unevenness direction="up">{f9}</unevenness>
+      <unevenness direction="down">{f10}</unevenness>
+    </mountain>
+  </mountains>
+</zone>
