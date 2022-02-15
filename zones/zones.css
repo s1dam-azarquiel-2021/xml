@@ -1,0 +1,112 @@
+.card-img-top {
+	width: 100%;
+	height: 15vw;
+	object-fit: cover;
+}
+
+.transition-2 {
+	transition: 2s;
+}
+
+.bg-1 {
+	background-color: #dfffcc;
+}
+
+.bg-1-2 {
+	background-color: #DEF9DC;
+}
+
+.hover-bg-g1-2 {
+	transition: .2s;
+}
+
+.hover-bg-g1-2:hover {
+	background-color: #cef6cb;
+}
+
+.bg-2 {
+	background-color: #c1f4be;
+}
+
+.bg-3 {
+	background-color: #d7e3fc;
+}
+
+.bg-4 {
+	background-color: #c4dbfa;
+}
+
+.bg-5 {
+	background-color: #a6c5f7;
+}
+
+.hover-bg-b5 {
+	transition: .5s;
+	border-color: #a6c5f7;
+}
+
+.hover-bg-b5:hover {
+	background-color: #8EB6F5;
+}
+
+.bg-2-gradient-bg-3 {
+	background-image: linear-gradient(#c1f4be, #d7e3fc);
+	width: 100%
+}
+
+.fg-1 {
+	color: #216E41 !important;
+}
+
+.fg-2 {
+	color: #174F30;
+}
+
+.fg-3 {
+	color: #0B3983;
+}
+
+.fg-4 {
+	color: #020813;
+}
+
+.hover-bg-g3 {
+	transition: .5s;
+}
+
+.hover-bg-g3:hover {
+	background-color: #a3e8b0;
+}
+
+.h-2 {
+	height: 1rem;
+}
+
+.gap-1 {
+	gap: 1rem;
+}
+
+.gap-2 {
+	gap: 2rem;
+}
+
+.rounded-0 {
+	border-radius: 0;
+}
+
+.rounded-1 {
+	border-radius: .5rem !important;
+}
+
+.rounded-2 {
+	border-radius: 1rem !important;
+}
+
+.mb--4 {
+	margin-bottom: -1.5rem;
+}
+
+.border-1 {
+	border-width: 5px;
+	border-style: solid;
+}
