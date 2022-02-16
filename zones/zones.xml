@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="zones.xsl" type="text/xsl"?>
 <zones>
-	<zone href="https://entremontanas.com/zonas/alpes">
+	<zone source="https://entremontanas.com/zonas/alpes">
 		<name>Alpes</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -237,7 +237,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/andalucia-oriental">
+	<zone source="https://entremontanas.com/zonas/andalucia-oriental">
 		<name>Andalucía Oriental</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -417,7 +417,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/andorra">
+	<zone source="https://entremontanas.com/zonas/andorra">
 		<name>Andorra</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -611,7 +611,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/cabo-de-gata">
+	<zone source="https://entremontanas.com/zonas/cabo-de-gata">
 		<name>Cabo de Gata</name>
 		<desc>
 			Una de las franjas costeras de mayor belleza y riqueza ecológica
@@ -721,7 +721,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/camino-de-santiago">
+	<zone source="https://entremontanas.com/zonas/camino-de-santiago">
 		<name>Camino de Santiago</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -789,7 +789,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/castellon">
+	<zone source="https://entremontanas.com/zonas/castellon">
 		<name>Castellón</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -969,7 +969,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/cordillera-montes-tatras">
+	<zone source="https://entremontanas.com/zonas/cordillera-montes-tatras">
 		<name>Cordillera Montes Tatras</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -1079,7 +1079,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/costa-brava">
+	<zone source="https://entremontanas.com/zonas/costa-brava">
 		<name>Costa Brava</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -1245,7 +1245,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/costa-oeste-eeuu">
+	<zone source="https://entremontanas.com/zonas/costa-oeste-eeuu">
 		<name>Costa Oeste EEUU</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -1285,7 +1285,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/dolomitas">
+	<zone source="https://entremontanas.com/zonas/dolomitas">
 		<name>Dolomitas</name>
 		<desc>
 			Dolomitas son una cadena montañosa del norte de Italia,
@@ -1437,7 +1437,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/el-magreb">
+	<zone source="https://entremontanas.com/zonas/el-magreb">
 		<name>El Magreb</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -1477,7 +1477,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/excursiones-cerca-de-barcelona">
+	<zone source="https://entremontanas.com/zonas/excursiones-cerca-de-barcelona">
 		<name>Excursiones cerca de Barcelona</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -1825,7 +1825,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/excursiones-cerca-de-puigcerda">
+	<zone source="https://entremontanas.com/zonas/excursiones-cerca-de-puigcerda">
 		<name>Excursiones cerca de Puigcerdà</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -2173,7 +2173,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/grecia-bulgaria-rumania">
+	<zone source="https://entremontanas.com/zonas/grecia-bulgaria-rumania">
 		<name>Grecia, Bulgaria, Rumanía</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -2227,7 +2227,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/islas-azores">
+	<zone source="https://entremontanas.com/zonas/islas-azores">
 		<name>Islas Azores</name>
 		<desc>
 			Para los amantes de la naturaleza, las Azores son el cielo en la
@@ -2335,7 +2335,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/islas-canarias">
+	<zone source="https://entremontanas.com/zonas/islas-canarias">
 		<name>Islas Canarias</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -2473,7 +2473,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/macizo-del-pedraforca">
+	<zone source="https://entremontanas.com/zonas/macizo-del-pedraforca">
 		<name>Macizo del Pedraforca</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -2527,7 +2527,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/mallorca">
+	<zone source="https://entremontanas.com/zonas/mallorca">
 		<name>Mallorca</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -2636,7 +2636,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/montana-de-montserrat">
+	<zone source="https://entremontanas.com/zonas/montana-de-montserrat">
 		<name>Montaña de Montserrat</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -2900,7 +2900,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/montseny">
+	<zone source="https://entremontanas.com/zonas/montseny">
 		<name>Montseny</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -3038,7 +3038,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/nepal-india">
+	<zone source="https://entremontanas.com/zonas/nepal-india">
 		<name>Nepal, India</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -3106,7 +3106,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/ordesa-y-monte-perdido">
+	<zone source="https://entremontanas.com/zonas/ordesa-y-monte-perdido">
 		<name>Ordesa y Monte Perdido</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -3216,7 +3216,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/pantano-de-sau">
+	<zone source="https://entremontanas.com/zonas/pantano-de-sau">
 		<name>Pantano de Sau</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
@@ -3284,7 +3284,7 @@
 			</mountain>
 		</mountains>
 	</zone>
-	<zone href="https://entremontanas.com/zonas/parque-natural-de-la-sierra-de-guara">
+	<zone source="https://entremontanas.com/zonas/parque-natural-de-la-sierra-de-guara">
 		<name>Parque Natural de la Sierra de Guara</name>
 		<desc>
 			Mucho antes de que el hombre pensara en conquistar las montañas,
