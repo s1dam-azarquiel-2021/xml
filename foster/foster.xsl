@@ -33,15 +33,11 @@
 					integrity="{$b-css-sha}"
 					crossorigin="anonymous" />
 				<link rel="stylesheet" href="./foster.css" />
-				<script
-					src="https://kit.fontawesome.com/67c49606c5.js"
-					crossorigin="anonymous">
-				</script>
 				<title>Foster</title>
 			</head>
 			<body class="bg-1">
 				<div class="container-fluid p-0">
-					<ul class="navbar m-0 navbar-expand-lg navbar-light bg-blue-dark">
+					<ul class="navbar m-0 navbar-expand-xl navbar-light bg-blue-dark">
 						<a class="navbar-brand" href="#">
 							<img alt="LOGO" src="./img/logo.png" />
 						</a>
