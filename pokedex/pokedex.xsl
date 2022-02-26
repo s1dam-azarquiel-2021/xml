@@ -70,13 +70,13 @@
 							<xsl:for-each select="pokedex/pokemon">
 								<div class="col-12 col-lg-6 col-xl-4 mb-5 flex-fill">
 									<div class="card p-2 bg-transparent border-light border-2 rounded-1 text-left d-flex flex-row h-100">
-										<div class="d-flex flex-column justify-content-center">
+										<div class="flex-grow-0 d-flex flex-column justify-content-center">
 											<img
 												alt="{.}"
 												src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/{dex}.png"
 												class="mx-auto img-fluid" />
 										</div>
-										<div class="d-flex flex-column justify-content-center">
+										<div class="flex-grow-1 d-flex flex-column justify-content-center">
 											<h5>
 												<xsl:value-of select="species" />
 											</h5>
