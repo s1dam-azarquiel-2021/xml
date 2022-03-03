@@ -1,0 +1,5 @@
+#+TITLE: Practicas XML
+- [[https://s1dam-azarquiel-2021.github.io/aru-xml/zones/zones][Zonas Montaniosas]]
+- [[https://s1dam-azarquiel-2021.github.io/aru-xml/foster/foster][Foster's Hollywood]]
+- [[https://s1dam-azarquiel-2021.github.io/aru-xml/pokedex/pokedex][Pokedex]]
+- [[https://s1dam-azarquiel-2021.github.io/aru-xml/escrutinio/escrutinio][Escrutinio]]
