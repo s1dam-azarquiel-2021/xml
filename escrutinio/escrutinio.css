@@ -1,0 +1,45 @@
+.img-fondo {
+	background-image: url(./img/fondo_header_body.gif);
+	background-repeat: no-repeat;
+	background-size: 100vw 40vh;
+}
+
+.img-fondo-naranjita {
+	background-image: url(./img/fondo_header.jpg);
+	background-size: 100% 20px;
+}
+
+.img-fondo-e12 {
+	background-image: url(./img/ico-e12.png);
+	background-repeat: no-repeat;
+	background-position-x: right;
+	background-position-y: center;
+}
+
+.bg-amarillito {
+	background-color: #f2a83b;
+}
+
+.bg-marroncio {
+	background-color: #97342f;
+}
+
+.fg-marroncio {
+	color: #97342f;
+}
+
+.bg-wevo-clarito {
+	background-color: #f5f5dd;
+}
+
+.w-fit-content {
+	width: fit-content;
+}
+
+.b-b-white {
+	border-bottom: 1px solid white;
+}
+
+.b-b-marroncio {
+	border-bottom: 1px solid #97342f;
+}
