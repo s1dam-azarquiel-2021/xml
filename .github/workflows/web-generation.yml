@@ -1,0 +1,64 @@
+name: Web generation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  RunNpmBuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch new changes
+        uses: actions/checkout@v2
+        with:
+          path: changes
+          ref: main
+
+      - name: Fetch generated branch
+        uses: actions/checkout@v2
+        with:
+          path: generated
+          ref: generated
+          
+      - name: Get Node.js v12
+        uses: actions/setup-node@v1
+        with:
+          version: 12.x
+
+      - name: Get sass
+        run: |
+          sudo gem install sass
+      
+      - name: Run npm build
+        run: |
+          for i in $(ls -d1p changes/* | grep -E "/$"); do
+            if [ -f $i/package.json ]; then
+              pushd $i
+              npm install
+              npm run build
+              popd
+            fi
+          done
+          
+      - name: Move changes to generated
+        run: |
+          rm -rf $(ls -A1dp generated/{*,.*} | grep -vE "\/\.git\/|\/\.*\/")
+          rm -rf changes/.git
+          cd changes/
+          mv -t ../generated/ $(ls -A .)
+          cd ..
+
+      - name: Push generated files
+        run: |
+          cd generated/
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          sed -Ei '/reduced\.css/d' .gitignore
+          echo "*.csv" >> .gitignore
+          echo "package.json" >> .gitignore
+          echo "*.scss" >> .gitignore
+          rm -rf $(git ls-files -i -c --exclude-from=.gitignore)
+          git add -A
+          git commit -m "[workflow] Generated"
+          git push
