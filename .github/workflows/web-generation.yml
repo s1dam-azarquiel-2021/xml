@@ -57,6 +57,7 @@ jobs:
           sed -Ei '/reduced\.css/d' .gitignore
           echo "*.csv" >> .gitignore
           echo "package.json" >> .gitignore
+          git rm -r --cached .
           git add -A
           git commit -m "[workflow] Generated"
           git push
