@@ -56,7 +56,9 @@ jobs:
           cd generated/
           git config user.name github-actions
           git config user.email github-actions@github.com
-          sed -Ei '/generated\.css\.map|reduced\.css/d' .gitignore
+          sed -Ei '/reduced\.css/d' .gitignore
+          echo "*.csv" >> .gitignore
+          echo "package.json" >> .gitignore
           git add .
           git commit -m "[workflow] Generated"
           git push
