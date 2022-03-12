@@ -1,0 +1,41 @@
+.bg-img-fondo {
+	background-image: url(./img/fondo.png);
+	background-size: contain;
+}
+
+.bg-img-header {
+	background-image: url(./img/header.jpeg);
+	background-size: cover;
+}
+
+.bg-gray-overlay {
+	background-color: rgba(0,0,0,.5);
+}
+
+.bg-light-gray-overlay {
+	background-color: rgba(255,255,255,.3);
+}
+
+.text-transparent-white {
+	color: rgba(255,255,255,.5);
+}
+
+.border-2 {
+	border-width: 2px;
+}
+
+.rounded-1 {
+	border-radius: .5rem !important;
+}
+
+.shadow-light {
+	box-shadow: 0 1rem 3rem rgba(255,255,255,.4);
+}
+
+.h-min-content {
+	height: min-content;
+}
+
+.opacity-0 {
+	opacity: 0;
+}
