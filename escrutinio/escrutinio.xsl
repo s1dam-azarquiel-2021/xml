@@ -111,6 +111,19 @@
 						</div>
 					</div>
 				</div>
+				<!-- Cosas a importar -->
+				<script
+					src="{$jq-cdn}/jquery-{$jq-ver}.slim.min.js"
+					integrity="{$jq-sha}"
+					crossorigin="anonymous"></script>
+				<script
+					src="{$pp-cdn}/{$pp-ver}/umd/popper.min.js"
+					integrity="{$pp-sha}"
+					crossorigin="anonymous"></script>
+				<script
+					src="{$b-cdn}/{$b-ver}/js/bootstrap.min.js"
+					integrity="{$b-js-sha}"
+					crossorigin="anonymous"></script>
 			</body>
 		</html>
 	</xsl:template>
