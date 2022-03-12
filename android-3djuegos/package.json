@@ -11,8 +11,8 @@
     "purgecss": "^4.1.3"
   },
   "scripts": {
-    "generate-css": "sass -t compressed --update ./styles/custom.scss:./styles/custom.css",
-    "reduce-css": "purgecss --css styles/custom.css --content android-3djuegos.xsl --output styles/reduced.css",
+    "generate-css": "sass -t compressed --update ./styles/custom.scss:./styles/generated.css",
+    "reduce-css": "purgecss --css styles/generated.css --content android-3djuegos.xsl --output styles/reduced.css",
     "build": "npm run generate-css && npm run reduce-css"
   }
 }

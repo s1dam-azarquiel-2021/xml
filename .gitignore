@@ -1,3 +1,6 @@
 node_modules/
 .sass-cache/
 package-lock.json
+generated.css
+generated.css.map
+reduced.css
