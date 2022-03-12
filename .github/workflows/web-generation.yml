@@ -43,9 +43,7 @@ jobs:
           
       - name: Move changes to generated
         run: |
-          for x in $(ls -A generated/); do \
-            [[ "$x" != ".git" ]] && rm -rf "generated/$x" \
-          ; done
+          rm -rf $(ls -A1dp generated/{*,.*} | grep -vE "\/\.git\/|\/\.*\/")
           rm -rf changes/.git
           cd changes/
           mv -t ../generated/ $(ls -A .)
@@ -59,6 +57,6 @@ jobs:
           sed -Ei '/reduced\.css/d' .gitignore
           echo "*.csv" >> .gitignore
           echo "package.json" >> .gitignore
-          git add .
+          git add -A
           git commit -m "[workflow] Generated"
           git push
