@@ -5,3 +5,4 @@ generated.css
 generated.css.map
 *.csv
 package.json
+*.scss
