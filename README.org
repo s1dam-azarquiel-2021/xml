@@ -1,4 +1,7 @@
 #+TITLE: Practicas XML
+[[https://github.com/s1dam-azarquiel-2021/aru-xml/actions/workflows/web-generation.yml][https://github.com/s1dam-azarquiel-2021/aru-xml/actions/workflows/web-generation.yml/badge.svg]]
+[[https://github.com/s1dam-azarquiel-2021/aru-xml/actions/workflows/pages/pages-build-deployment][https://github.com/s1dam-azarquiel-2021/aru-xml/actions/workflows/pages/pages-build-deployment/badge.svg]]
+
 - [[https://s1dam-azarquiel-2021.github.io/aru-xml/zones/zones][Zonas Montaniosas]]
 - [[https://s1dam-azarquiel-2021.github.io/aru-xml/foster/foster][Foster's Hollywood]]
 - [[https://s1dam-azarquiel-2021.github.io/aru-xml/pokedex/pokedex][Pokedex]]
