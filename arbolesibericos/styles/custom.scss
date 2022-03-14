@@ -1,0 +1,33 @@
+$primary: #117a8b;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.bg-header {
+	background-image: url(../img/header.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.p-10 {
+	padding: 10em;
+}
+
+.bg-transparent-dark {
+	background-color: rgba($color: #000000, $alpha: .4);
+}
+
+.border-shadow {
+	box-shadow: 0 6px 10px -4px rgba(0,0,0,.15);
+}
+
+.hover-boing {
+	transition-duration: .2s;
+}
+
+.hover-boing:hover {
+	transform: translateY(-15px);
+}
+
+.w-fit-content {
+	width: fit-content;
+}
