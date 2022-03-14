@@ -79,7 +79,7 @@
 									</ul>
 								</div>
 							</ul>
-							<div class="p-10">
+							<div class="py-10">
 								<h1 class="text-center text-white font-weight-bolder">
 									Generos
 								</h1>
