@@ -68,6 +68,7 @@
 									</a>
 									<div class="dropdown-menu bg-1-2" aria-labelledby="dropdownId">
 										<xsl:for-each select="zones/zone">
+											<xsl:sort select="name" />
 											<a class="dropdown-item hover-bg-g1-2" href="#zone{position()}">
 												<xsl:value-of select="name" />
 											</a>
@@ -81,6 +82,7 @@
 						<div class="col-xl-10 col-md-11 col-12 mx-auto pb-5">
 							<div class="accordion transition-2 d-flex flex-column gap-2" id="accordionZones">
 								<xsl:for-each select="zones/zone">
+									<xsl:sort select="name" />
 									<div class="card rounded-2 border-0" id="zone{position()}">
 										<div class="card-header row bg-2 py-3">
 											<div class="col-lg-6 col-md-8 col-sm-10 col-12 mx-auto text-center">
@@ -114,6 +116,7 @@
 											<div class="card-body mb--4">
 												<div class="row">
 													<xsl:for-each select="mountains/mountain">
+														<xsl:sort select="name" />
 														<div class="col-md-6 col-12 flex-fill d-flex">
 															<div class="card border-0 rounded-2 bg-4 flex-fill mb-4 overflow-hidden">
 																<img

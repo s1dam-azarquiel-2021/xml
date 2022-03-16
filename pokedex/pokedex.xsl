@@ -51,6 +51,7 @@
 						<h2 class="text-transparent-white">TYPES</h2>
 						<div class="row justify-content-center">
 							<xsl:for-each select="pokedex/types/type">
+								<xsl:sort select="." />
 								<div class="col-6 col-md-4 col-lg-3 col-xl-2 mb-4">
 									<div class="card pt-2 pb-1 bg-transparent border-light border-2 rounded-1">
 										<img
@@ -68,6 +69,7 @@
 						<h2 class="text-transparent-white">POKEMONS</h2>
 						<div class="row justify-content-center">
 							<xsl:for-each select="pokedex/pokemon">
+								<xsl:sort data-type="number" select="dex" />
 								<div class="col-12 col-lg-6 col-xl-4 mb-5 flex-fill">
 									<div class="card p-2 bg-transparent border-light border-2 rounded-1 text-left d-flex flex-row h-100">
 										<div class="flex-grow-0 d-flex flex-column justify-content-center">
