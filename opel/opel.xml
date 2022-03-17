@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="opel.xsl" type="text/xsl"?>
+<opel origen="OPEL ESPAÑA">
+  <modelo id="1" nombre="Astra 5 puertas">
+    <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_astra_hatchback_hero_my2200_576x324.png</imagen>
+    <acabados></acabados>
+  </modelo>
+  <modelo id="2" nombre="Astra Hybrid">
+    <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_astra_hatchback_hybrid_hero_my2200_576x324.png</imagen>
+    <acabados>
+      <acabado id="1" nombre="EDITION">
+        <item>Cargador embarcado Monofásico (7,4 KW)</item>
+        <item>Sistema de Infoentretenimiento de 7&quot; (18 cm) con Bluetooth, Sistema de Radio Digital (DAB) y Compatibilidad con Android Auto?y Apple Car?</item>
+        <item>Climatizador automático</item>
+        <item>Freno de Mano Eléctrico</item>
+      </acabado>
+      <acabado id="2" nombre="ELEGANCE">
+        <item>Cargador embarcado Monofásico (7,4 KW)</item>
+        <item>Llanta de aleación 16&quot; (41cm)</item>
+        <item>Salpicadero Digital con centro de información al conductor de 7&quot; (18cm) a color</item>
+        <item>Faros Delanteros ECO LED</item>
+        <item>Luces traseras LED</item>
+        <item>Sensor de luces y lluvia</item>
+        <item>Volante de base plana de 3 radios en cuero e inserciones cromadas</item>
+        <item>Asientos Confort</item>
+      </acabado>
+      <acabado id="3" nombre="GS LINE">
+        <item>Pure Panel®</item>
+        <item>Llantas de aleación de 17&quot;  (43cm), Kadett</item>
+        <item>Sensores de luces y lluvia</item>
+        <item>Sensores de aparcamiento delanteros y traseros</item>
+        <item>Control de Crucero Adaptativo</item>
+        <item>Faros delanteros y traseros LED</item>
+      </acabado>
+      <acabado id="4" nombre="ULTIMATE">
+        <item>Parachoques delanteros y traseros específicos</item>
+        <item>Llantas de aleación 17&quot; (43cm) Kadett en color Negro</item>
+        <item>Asientos deportivos</item>
+        <item>Techo exterior bitono</item>
+        <item>Intelli-View 360º</item>
+        <item>Volante deportivo de cuero perforado</item>
+      </acabado>
+    </acabados>
+    <modelo id="3" nombre="Corsa">
+      <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_corsa-f_hero_side_my2000_576x324.png</imagen>
+      <acabados></acabados>
+    </modelo>
+    <modelo id="4" nombre="Corsa-E">
+      <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_corsa_side_my20_576x324.png</imagen>
+      <acabados>
+        <acabado id="5" nombre="EDITION">
+          <item>
+            <nombre>Cargador embarcado Monofásico (7,4 KW)</nombre>
+          </item>
+          <item>
+            <nombre>Sistema de Infoentretenimiento de 7&quot; (18 cm) con Bluetooth, Sistema de Radio Digital (DAB) y Compatibilidad con Android Auto?y Apple Car?</nombre>
+          </item>
+          <item>
+            <nombre>Climatizador automático</nombre>
+          </item>
+          <item>
+            <nombre>Freno de Mano Eléctrico</nombre>
+          </item>
+        </acabado>
+        <acabado id="6" nombre="ELEGANCE">
+          <item>
+            <nombre>Cargador embarcado Monofásico (7,4 KW)</nombre>
+          </item>
+          <item>
+            <nombre>Llanta de aleación 16&quot; (41cm)</nombre>
+          </item>
+          <item>
+            <nombre>Salpicadero Digital con centro de información al conductor de 7&quot; (18cm) a color</nombre>
+          </item>
+          <item>
+            <nombre>Faros Delanteros ECO LED</nombre>
+          </item>
+          <item>
+            <nombre>Luces traseras LED</nombre>
+          </item>
+          <item>
+            <nombre>Sensor de luces y lluvia</nombre>
+          </item>
+          <item>
+            <nombre>Volante de base plana de 3 radios en cuero e inserciones cromadas</nombre>
+          </item>
+          <item>
+            <nombre>Asientos Confort</nombre>
+          </item>
+        </acabado>
+        <acabado id="7" nombre="GS LINE">
+          <item>
+            <nombre>Pure Panel®</nombre>
+          </item>
+          <item>
+            <nombre>Llantas de aleación de 17&quot;  (43cm), Kadett</nombre>
+          </item>
+          <item>
+            <nombre>Sensores de luces y lluvia</nombre>
+          </item>
+          <item>
+            <nombre>Sensores de aparcamiento delanteros y traseros</nombre>
+          </item>
+          <item>
+            <nombre>Control de Crucero Adaptativo</nombre>
+          </item>
+          <item>
+            <nombre>Faros delanteros y traseros LED</nombre>
+          </item>
+        </acabado>
+        <acabado id="8" nombre="ULTIMATE">
+          <item>
+            <nombre>Parachoques delanteros y traseros específicos</nombre>
+          </item>
+          <item>
+            <nombre>Llantas de aleación 17&quot; (43cm) Kadett en color Negro</nombre>
+          </item>
+          <item>
+            <nombre>Asientos deportivos</nombre>
+          </item>
+          <item>
+            <nombre>Techo exterior bitono</nombre>
+          </item>
+          <item>
+            <nombre>Intelli-View 360º</nombre>
+          </item>
+          <item>
+            <nombre>Volante deportivo de cuero perforado</nombre>
+          </item>
+        </acabado>
+      </acabados>
+    </modelo>
+  </modelo>
+  <modelo id="5" nombre="Combo-e Life">
+    <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_combo-e-life_hero_side_my2200_576x324.png</imagen>
+    <acabados>
+      <acabado id="9" nombre="EDITION">
+        <item>Cargador embarcado Monofásico (7,4 KW)</item>
+        <item>Sistema de Infoentretenimiento de 7&quot; (18 cm) con Bluetooth, Sistema de Radio Digital (DAB) y Compatibilidad con Android Auto?y Apple Car?</item>
+        <item>Climatizador automático</item>
+        <item>Freno de Mano Eléctrico</item>
+      </acabado>
+      <acabado id="10" nombre="ELEGANCE">
+        <item>Cargador embarcado Monofásico (7,4 KW)</item>
+        <item>Llanta de aleación 16&quot; (41cm)</item>
+        <item>Salpicadero Digital con centro de información al conductor de 7&quot; (18cm) a color</item>
+        <item>Faros Delanteros ECO LED</item>
+        <item>Luces traseras LED</item>
+        <item>Sensor de luces y lluvia</item>
+        <item>Volante de base plana de 3 radios en cuero e inserciones cromadas</item>
+        <item>Asientos Confort</item>
+      </acabado>
+      <acabado id="11" nombre="ELEGANCE PLUS">
+        <item>Moldura en color negro y cromado</item>
+        <item>Tapicería Alcántara con función masaje</item>
+        <item>Faros matriciales LED Intellilux</item>
+        <item>Faros antiniebla delanteros tipo LED</item>
+        <item>Navi Pro de 10&quot; (25cm)</item>
+        <item>Volante y asientos delanteros calefactables</item>
+        <item>Carrocería bitono con techo color negro</item>
+        <item>Climatizador digital automático</item>
+        <item>Sensores de aparcamiento traseros</item>
+      </acabado>
+    </acabados>
+  </modelo>
+  <modelo id="6" nombre="Crossland">
+    <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_crossland_hero_side_my2100_576x324.png</imagen>
+    <acabados></acabados>
+  </modelo>
+  <modelo id="7" nombre="Grandland">
+    <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_grandland_hero_side_my22_576x32_ice.png</imagen>
+    <acabados>
+      <acabado id="12" nombre="BUSINESS EDITION">
+        <item>Faros Pixel LED Intelli-Lux®</item>
+        <item>Llantas de aleación 18&quot; (46cm) Pentagon</item>
+        <item>Pack de Tapicería Alcántara - AGR conductor y acompañante</item>
+        <item>Navegación conectada</item>
+        <item>Head-up Display Ampliado</item>
+        <item>Intelli-Drive 1.0</item>
+      </acabado>
+      <acabado id="13" nombre="GS LINE">
+        <item>Pure Panel®</item>
+        <item>Llantas de aleación de 17&quot;  (43cm), Kadett</item>
+        <item>Sensores de luces y lluvia</item>
+        <item>Sensores de aparcamiento delanteros y traseros</item>
+        <item>Control de Crucero Adaptativo</item>
+        <item>Faros delanteros y traseros LED</item>
+      </acabado>
+      <acabado id="14" nombre="ULTIMATE">
+        <item>Parachoques delanteros y traseros específicos</item>
+        <item>Llantas de aleación 17&quot; (43cm) Kadett en color Negro</item>
+        <item>Asientos deportivos</item>
+        <item>Techo exterior bitono</item>
+        <item>Intelli-View 360º</item>
+        <item>Volante deportivo de cuero perforado</item>
+      </acabado>
+    </acabados>
+  </modelo>
+  <modelo id="8" nombre="Grandland Hybrid">
+    <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_grandland_hero_side_my22_576x324.png</imagen>
+    <acabados>
+      <acabado id="15" nombre="BUSINESS EDITION">
+        <item>Faros Pixel LED Intelli-Lux®</item>
+        <item>Llantas de aleación 18&quot; (46cm) Pentagon</item>
+        <item>Pack de Tapicería Alcántara - AGR conductor y acompañante</item>
+        <item>Navegación conectada</item>
+        <item>Head-up Display Ampliado</item>
+        <item>Intelli-Drive 1.0</item>
+      </acabado>
+      <acabado id="16" nombre="GS LINE">
+        <item>Pure Panel®</item>
+        <item>Llantas de aleación de 17&quot;  (43cm), Kadett</item>
+        <item>Sensores de luces y lluvia</item>
+        <item>Sensores de aparcamiento delanteros y traseros</item>
+        <item>Control de Crucero Adaptativo</item>
+        <item>Faros delanteros y traseros LED</item>
+      </acabado>
+      <acabado id="17" nombre="ULTIMATE">
+        <item>Parachoques delanteros y traseros específicos</item>
+        <item>Llantas de aleación 17&quot; (43cm) Kadett en color Negro</item>
+        <item>Asientos deportivos</item>
+        <item>Techo exterior bitono</item>
+        <item>Intelli-View 360º</item>
+        <item>Volante deportivo de cuero perforado</item>
+      </acabado>
+    </acabados>
+  </modelo>
+  <modelo id="9" nombre="Insignia Grand Sport">
+    <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_insignia_grandsports_hero_side_my2175_576x324.png</imagen>
+    <acabados>
+      <acabado id="18" nombre="EDITION">
+        <item>Cargador embarcado Monofásico (7,4 KW)</item>
+        <item>Sistema de Infoentretenimiento de 7&quot; (18 cm) con Bluetooth, Sistema de Radio Digital (DAB) y Compatibilidad con Android Auto?y Apple Car?</item>
+        <item>Climatizador automático</item>
+        <item>Freno de Mano Eléctrico</item>
+      </acabado>
+      <acabado id="19" nombre="BUSINESS">
+        <item>Llantas de aleación de 16&quot; (41cm)</item>
+        <item>Radio digital DAB, pantalla a color táctil de 7&quot; (18cm), cuadro instrumentos a color de 7&quot; (18cm), 4 altavoces, entrada aux de audio/iPod, MP3, conexión USB, Bluetooth®</item>
+        <item>Faros ECO-Leds</item>
+        <item>Climatizador Digital Bizona</item>
+        <item>Nuevo Opel Vizor</item>
+        <item>Aire acondicionado con filtro de partículas</item>
+      </acabado>
+      <acabado id="20" nombre="GS LINE">
+        <item>Pure Panel®</item>
+        <item>Llantas de aleación de 17&quot;  (43cm), Kadett</item>
+        <item>Sensores de luces y lluvia</item>
+        <item>Sensores de aparcamiento delanteros y traseros</item>
+        <item>Control de Crucero Adaptativo</item>
+        <item>Faros delanteros y traseros LED</item>
+      </acabado>
+      <acabado id="21" nombre="GSI">
+        <item>Llanta de aleación de 17&quot; (43cm) bitono-negra</item>
+        <item>Radio digital DAB, Navegador, pantalla táctil a color 7&quot; (18cm), cuadro instrumentos a color de 7&quot; (18cm), 6 altavoces, Opel Connect, Phone projection (Apple CarplayTM, Android AutoTM)</item>
+        <item>Pack cámara trasera</item>
+        <item>Sistema de Apertura y Arranque sin llave Open &amp; Start</item>
+      </acabado>
+    </acabados>
+  </modelo>
+  <modelo id="10" nombre="Mokka">
+    <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_mokka_hero_side_576x324_my2100.png</imagen>
+    <acabados></acabados>
+  </modelo>
+  <modelo id="11" nombre="Mokka-e">
+    <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/opel_mokka-e_hero_side_576x324_my2100_mokpi21_e02.png</imagen>
+    <acabados>
+      <acabado id="22" nombre="EDITION">
+        <item>Cargador embarcado Monofásico (7,4 KW)</item>
+        <item>Sistema de Infoentretenimiento de 7&quot; (18 cm) con Bluetooth, Sistema de Radio Digital (DAB) y Compatibilidad con Android Auto?y Apple Car?</item>
+        <item>Climatizador automático</item>
+        <item>Freno de Mano Eléctrico</item>
+      </acabado>
+      <acabado id="23" nombre="GS LINE PLUS">
+        <item>Asiento del conductor AGR</item>
+        <item>Control de Crucero Adaptativo</item>
+        <item>Cámara de Visión Trasera de 180º</item>
+        <item>Sistema de Apertura y Arranque sin Llave</item>
+        <item>Climatizador automático bizona</item>
+        <item>Llunas tintadas</item>
+      </acabado>
+      <acabado id="24" nombre="ELEGANCE BUSINESS">
+        <item>Llantas de aleación de 16&quot; (41m) Bitono</item>
+        <item>Parachoques deportivo trasero</item>
+        <item>Sensores de aparcamiento traseros</item>
+        <item>Techo bitono negro</item>
+        <item>Sistema de Infoentretenimiento de 7&quot; (18 cm) con Bluetooth®, Sistema de Radio Digital (DAB) y Compatibilidad con Android Auto? y Apple Car? </item>
+        <item>Faros traseros LED</item>
+      </acabado>
+      <acabado id="25" nombre="ULTIMATE">
+        <item>Parachoques delanteros y traseros específicos</item>
+        <item>Llantas de aleación 17&quot; (43cm) Kadett en color Negro</item>
+        <item>Asientos deportivos</item>
+        <item>Techo exterior bitono</item>
+        <item>Intelli-View 360º</item>
+        <item>Volante deportivo de cuero perforado</item>
+      </acabado>
+    </acabados>
+  </modelo>
+  <modelo id="12" nombre="Zafira-E Life">
+    <imagen>https://esopelcmsimages.carusseldwt.com/getImage/CommonImages/country_1540468962717/list-whithout-e.png</imagen>
+    <acabados>
+      <acabado id="26" nombre="EDITION">
+        <item>Cargador embarcado Monofásico (7,4 KW)</item>
+        <item>Sistema de Infoentretenimiento de 7&quot; (18 cm) con Bluetooth, Sistema de Radio Digital (DAB) y Compatibilidad con Android Auto?y Apple Car?</item>
+        <item>Climatizador automático</item>
+        <item>Freno de Mano Eléctrico</item>
+      </acabado>
+      <acabado id="27" nombre="ELEGANCE">
+        <item>Cargador embarcado Monofásico (7,4 KW)</item>
+        <item>Llanta de aleación 16&quot; (41cm)</item>
+        <item>Salpicadero Digital con centro de información al conductor de 7&quot; (18cm) a color</item>
+        <item>Faros Delanteros ECO LED</item>
+        <item>Luces traseras LED</item>
+        <item>Sensor de luces y lluvia</item>
+        <item>Volante de base plana de 3 radios en cuero e inserciones cromadas</item>
+        <item>Asientos Confort</item>
+      </acabado>
+      <acabado id="28" nombre="BUSINESS EDITION">
+        <item>Faros Pixel LED Intelli-Lux®</item>
+        <item>Llantas de aleación 18&quot; (46cm) Pentagon</item>
+        <item>Pack de Tapicería Alcántara - AGR conductor y acompañante</item>
+        <item>Navegación conectada</item>
+        <item>Head-up Display Ampliado</item>
+        <item>Intelli-Drive 1.0</item>
+      </acabado>
+      <acabado id="29" nombre="BUSINESS ELEGANCE">
+        <item>Llantas de 18&quot; (46cm) tritono negro/plata/rojo</item>
+        <item>Techo negro</item>
+        <item>Radio digital DAB, pantalla a color táctil de 7&quot; (18cm), cuadro instrumentos a color de 7&quot; (18cm), 6 altavoces,  Phone projection (Apple CarplayTM, Android AutoTM)</item>
+        <item>Ventanas posteriores oscurecidas</item>
+        <item>Pack Active Drive Assist</item>
+      </acabado>
+    </acabados>
+  </modelo>
+</opel>
