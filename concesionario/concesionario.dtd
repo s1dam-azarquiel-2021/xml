@@ -1,0 +1,18 @@
+<!ELEMENT concesionario (coche+,reserva+)>
+<!ATTLIST concesionario marca CDATA #REQUIRED>
+<!ELEMENT coche (modelo+)>
+<!ATTLIST coche nombre CDATA #REQUIRED>
+<!ELEMENT modelo (stock?,gasolina?,cilindrada,puertas,caballos,diesel?,km?)>
+<!ATTLIST modelo referencia CDATA #REQUIRED>
+<!ELEMENT stock (#PCDATA)>
+<!ELEMENT gasolina EMPTY>
+<!ELEMENT cilindrada (#PCDATA)>
+<!ELEMENT puertas (#PCDATA)>
+<!ELEMENT caballos (#PCDATA)>
+<!ELEMENT diesel EMPTY>
+<!ELEMENT km (#PCDATA)>
+<!ELEMENT reserva (nombre,direccion?,telefono)>
+<!ATTLIST reserva coche CDATA #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>

@@ -1,0 +1,18 @@
+<!ELEMENT escrutinio (escanios,porciento_escrutado,votos,resultados)>
+<!ATTLIST escrutinio elecciones CDATA #REQUIRED>
+<!ELEMENT escanios (#PCDATA)>
+<!ELEMENT porciento_escrutado (#PCDATA)>
+<!ELEMENT votos (contabilizados,abstenciones,nulos,blancos)>
+<!ELEMENT contabilizados (cantidad,porcentaje)>
+<!ELEMENT cantidad (#PCDATA)>
+<!ELEMENT porcentaje (#PCDATA)>
+<!ELEMENT abstenciones (cantidad,porcentaje)>
+<!ELEMENT nulos (cantidad,porcentaje)>
+<!ELEMENT blancos (cantidad,porcentaje)>
+<!ELEMENT resultados (partido+)>
+<!ELEMENT partido (electos,votos_numero,votos_porciento)>
+<!ATTLIST partido nombre CDATA #REQUIRED>
+<!ATTLIST partido carru CDATA #REQUIRED>
+<!ELEMENT electos (#PCDATA)>
+<!ELEMENT votos_numero (#PCDATA)>
+<!ELEMENT votos_porciento (#PCDATA)>
