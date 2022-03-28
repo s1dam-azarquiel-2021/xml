@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet href="escrutinio.xsl" type="text/xsl"?>
+<!DOCTYPE escrutinio SYSTEM "escrutinio.dtd">
 <escrutinio elecciones="Parlamento de Cataluña">
     <escanios>135</escanios>
     <porciento_escrutado>100</porciento_escrutado>
