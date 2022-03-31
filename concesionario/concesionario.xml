@@ -11,17 +11,17 @@
 		</modelo>
 		<modelo referencia="b">
 			<stock>3</stock>
+			<diesel></diesel>
 			<cilindrada>1600</cilindrada>
 			<puertas>5</puertas>
 			<caballos>100</caballos>
-			<diesel></diesel>
 		</modelo>
 		<modelo referencia="c">
+			<km>75000</km>
+			<diesel></diesel>
 			<cilindrada>1600</cilindrada>
 			<puertas>5</puertas>
 			<caballos>100</caballos>
-			<diesel></diesel>
-			<km>75000</km>
 		</modelo>
 	</coche>
 	<coche nombre="Laguna">
