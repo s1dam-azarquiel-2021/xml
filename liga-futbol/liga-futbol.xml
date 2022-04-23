@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="escrutinio.xsl" type="text/xsl"?>
+<!DOCTYPE liga-futbol SYSTEM "liga-futbol.dtd">
+<liga-futbol>
+	<equipos>
+		<equipo nombre="RealSociedad">
+			<escudo>
+        https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/188.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Betis">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/185.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Elche">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/954.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Mallorca">
+			<escudo>
+        https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Alaves">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png 
+			</escudo>
+		</equipo>
+		<equipo nombre="Rayo">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Valencia">
+			<escudo>
+        https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Osasuna">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Getafe">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Villarreal">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Granada">
+			<escudo>
+        https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/5683.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Levante">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/855.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Atletico">
+			<escudo>
+			  https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Espanyol">
+			<escudo>
+			  https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/177.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Athletic">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Celta">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Sevilla">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png
+			</escudo>
+		</equipo>
+		<equipo nombre="RealMadrid">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Barcelona">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png
+			</escudo>
+		</equipo>
+		<equipo nombre="Cadiz">
+			<escudo>
+				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1737.png
+			</escudo>
+		</equipo>
+	</equipos>
+	<jornadas>
+		<jornada numero="32">
+			<partidos>
+				<partido fecha="15/04/2022">
+					<local nombre="RealSociedad"><goles>0</goles></local>
+					<visitante nombre="Betis"><goles>0</goles></visitante>
+				</partido>
+				<partido fecha="16/04/2022">
+					<local nombre="Elche"><goles>3</goles></local>
+					<visitante nombre="Mallorca"><goles>0</goles></visitante>
+				</partido>
+				<partido fecha="16/04/2022">
+					<local nombre="Alaves"><goles>1</goles></local>
+					<visitante nombre="Rayo"><goles>0</goles></visitante>
+				</partido>
+				<partido fecha="16/04/2022">
+					<local nombre="Valencia"><goles>1</goles></local>
+					<visitante nombre="Osasuna"><goles>2</goles></visitante>
+				</partido>
+				<partido fecha="16/04/2022">
+					<local nombre="Getafe"><goles>1</goles></local>
+					<visitante nombre="Villarreal"><goles>2</goles></visitante>
+				</partido>
+				<partido fecha="17/04/2022">
+					<local nombre="Granada"><goles>1</goles></local>
+					<visitante nombre="Levante"><goles>4</goles></visitante>
+				</partido>
+				<partido fecha="17/04/2022">
+					<local nombre="Atletico"><goles>2</goles></local>
+					<visitante nombre="Espanyol"><goles>1</goles></visitante>
+				</partido>
+				<partido fecha="17/04/2022">
+					<local nombre="Athletic"><goles>0</goles></local>
+					<visitante nombre="Celta"><goles>2</goles></visitante>
+				</partido>
+				<partido fecha="17/04/2022">
+					<local nombre="Sevilla"><goles>2</goles></local>
+					<visitante nombre="RealMadrid"><goles>3</goles></visitante>
+				</partido>
+				<partido fecha="18/04/2022">
+					<local nombre="Barcelona"><goles>0</goles></local>
+					<visitante nombre="Cadiz"><goles>1</goles></visitante>
+				</partido>
+			</partidos>
+		</jornada>
+	</jornadas>
+</liga-futbol>

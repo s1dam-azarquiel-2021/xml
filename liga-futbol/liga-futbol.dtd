@@ -1,0 +1,23 @@
+<!ELEMENT liga-futbol (equipos,jornadas)>
+
+<!ELEMENT equipos (equipo+)>
+<!ELEMENT equipo (escudo)>
+<!ATTLIST equipo nombre ID #REQUIRED>
+<!ELEMENT escudo (#PCDATA)>
+
+<!ELEMENT jornadas (jornada+)>
+<!ATTLIST jornada numero CDATA #REQUIRED>
+<!ELEMENT jornada (partidos)>
+
+<!ELEMENT partidos (partido+)>
+
+<!ELEMENT partido (local, visitante)>
+<!ATTLIST partido fecha CDATA #REQUIRED>
+
+<!ELEMENT local (goles)>
+<!ATTLIST local nombre IDREF #REQUIRED>
+
+<!ELEMENT visitante (goles)>
+<!ATTLIST visitante nombre IDREF #REQUIRED>
+
+<!ELEMENT goles (#PCDATA)>
