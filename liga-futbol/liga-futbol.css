@@ -1,0 +1,15 @@
+.font-big {
+	font-size: 3em;
+}
+
+.gap-2 {
+	gap: 2rem;
+}
+
+.border-top-first:first-child {
+	border-top: 1px solid var(--gray);
+}
+
+.border-round-5 {
+	border-radius: 5rem;
+}

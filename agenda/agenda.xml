@@ -25,10 +25,10 @@
 		</sexo>
 		<pareja codigo="c1" />
 		<comentario>La piva del profe</comentario>
-	</contacto>	
+	</contacto>
 	<contacto codigo="c3">
 		<nombre>Ana</nombre>
 		<apellidos>Ruiz</apellidos>
 		<comentario>la de Torrijos</comentario>
-	</contacto>	
+	</contacto>
 </agenda>
