@@ -3,106 +3,26 @@
 <!DOCTYPE liga-futbol SYSTEM "liga-futbol.dtd">
 <liga-futbol>
 	<equipos>
-		<equipo nombre="RealSociedad">
-			<escudo>
-        https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/188.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Betis">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/185.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Elche">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/954.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Mallorca">
-			<escudo>
-        https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Alaves">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png 
-			</escudo>
-		</equipo>
-		<equipo nombre="Rayo">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Valencia">
-			<escudo>
-        https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Osasuna">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Getafe">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Villarreal">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Granada">
-			<escudo>
-        https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/5683.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Levante">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/855.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Atletico">
-			<escudo>
-			  https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Espanyol">
-			<escudo>
-			  https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/177.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Athletic">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Celta">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Sevilla">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png
-			</escudo>
-		</equipo>
-		<equipo nombre="RealMadrid">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Barcelona">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png
-			</escudo>
-		</equipo>
-		<equipo nombre="Cadiz">
-			<escudo>
-				https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1737.png
-			</escudo>
-		</equipo>
+		<equipo nombre="RealSociedad" id-escudo="188" />
+		<equipo nombre="Betis"        id-escudo="185" />
+		<equipo nombre="Elche"        id-escudo="954" />
+		<equipo nombre="Mallorca"     id-escudo="181" />
+		<equipo nombre="Alaves"       id-escudo="173" />
+		<equipo nombre="Rayo"         id-escudo="184" />
+		<equipo nombre="Valencia"     id-escudo="191" />
+		<equipo nombre="Osasuna"      id-escudo="450" />
+		<equipo nombre="Getafe"       id-escudo="450" />
+		<equipo nombre="Villarreal"   id-escudo="449" />
+		<equipo nombre="Granada"      id-escudo="683" />
+		<equipo nombre="Levante"      id-escudo="855" />
+		<equipo nombre="Atletico"     id-escudo="175" />
+		<equipo nombre="Espanyol"     id-escudo="177" />
+		<equipo nombre="Athletic"     id-escudo="174" />
+		<equipo nombre="Celta"        id-escudo="176" />
+		<equipo nombre="Sevilla"      id-escudo="179" />
+		<equipo nombre="RealMadrid"   id-escudo="186" />
+		<equipo nombre="Barcelona"    id-escudo="178" />
+		<equipo nombre="Cadiz"        id-escudo="1737" />
 	</equipos>
 	<jornadas>
 		<jornada numero="32">

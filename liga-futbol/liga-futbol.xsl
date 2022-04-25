@@ -106,9 +106,9 @@
 												<div class="col-4 text-left">
 													<img
 														class="img-fluid"
-														src="{/liga-futbol/equipos/equipo[
+														src="https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/{/liga-futbol/equipos/equipo[
 																 @nombre=current()/local/@nombre
-																 ]/escudo}"
+																 ]/@id-escudo}.png"
 														title="{local/@nombre}"
 														/>
 												</div>
@@ -122,9 +122,9 @@
 												<div class="col-4 text-right">
 													<img
 														class="img-fluid"
-														src="{/liga-futbol/equipos/equipo[
+														src="https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/{/liga-futbol/equipos/equipo[
 																 @nombre = current()/visitante/@nombre
-																 ]/escudo}"
+																 ]/@id-escudo}.png"
 														title="{visitante/@nombre}"
 														/>
 												</div>
@@ -171,7 +171,7 @@
 									<div class="col-md-3 mb-md-0 mb-5">
 										<img
 											class="img-fluid"
-											src="{escudo}"
+											src="https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/{@id-escudo}.png"
 											title="{@nombre}"
 											/>
 									</div>

@@ -1,9 +1,10 @@
 <!ELEMENT liga-futbol (equipos,jornadas)>
 
 <!ELEMENT equipos (equipo+)>
-<!ELEMENT equipo (escudo)>
+
+<!ELEMENT equipo EMPTY>
 <!ATTLIST equipo nombre ID #REQUIRED>
-<!ELEMENT escudo (#PCDATA)>
+<!ATTLIST equipo id-escudo CDATA #REQUIRED>
 
 <!ELEMENT jornadas (jornada+)>
 <!ATTLIST jornada numero CDATA #REQUIRED>
