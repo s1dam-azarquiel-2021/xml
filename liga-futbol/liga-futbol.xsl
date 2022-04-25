@@ -219,6 +219,11 @@
 						</xsl:for-each>
 					</div>
 				</div>
+				<footer class="text-center bg-danger text-white">
+					<h1 class="m-0 p-3">
+						Liga Futbol - Alberto
+					</h1>
+				</footer>
 				<!-- Cosas a importar -->
 				<script
 					src="{$jq-cdn}/jquery-{$jq-ver}.slim.min.js"
