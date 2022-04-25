@@ -4,6 +4,7 @@
 		method="html" encoding="utf-8"
 		doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"
 		doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
+	<xsl:key name="partidos-por-fecha" match="partido" use="@fecha"/>
 	<xsl:template match="/">
 		<xsl:variable name="lowercase">abcdefghijklmnopqrstuvwxyz</xsl:variable>
 		<xsl:variable name="uppercase">ABCDEFGHIJKLMNOPQRSTUVWXYZ</xsl:variable>
@@ -94,48 +95,54 @@
 				<div class="container mt-2">
 					<div id="jornadas">
 						<xsl:for-each select="liga-futbol/jornadas/jornada">
-							<div id="jornada-{@numero}" class="card p-5 border-round-5 my-5">
+							<div id="jornada-{@numero}" class="card pb-5 p-md-5 p-2 border-round-5 my-5">
 								<h1 class="text-center">
 									Jornada
 									<xsl:value-of select="@numero" />
 								</h1>
 								<div>
-									<div class="mt-5 d-flex flex-column gap-2">
-										<xsl:for-each select="partidos/partido">
-											<div class="row mx-auto border rounded-pill w-100 p-2">
-												<div class="col-4 text-left">
-													<img
-														class="img-fluid"
-														src="https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/{/liga-futbol/equipos/equipo[
-																 @nombre=current()/local/@nombre
-																 ]/@id-escudo}.png"
-														title="{local/@nombre}"
-														/>
+									<xsl:for-each select="partidos/partido[count(. | key('partidos-por-fecha', @fecha)[1]) = 1]">
+										<xsl:sort select="@fecha" order="ascending" />
+										<h4 class="text-center mt-5 mb-2 pb-0">
+											<xsl:value-of select="@fecha"></xsl:value-of>
+										</h4>
+										<div class="d-flex flex-column gap-2">
+											<xsl:for-each select="key('partidos-por-fecha', @fecha)">
+												<div class="row mx-auto border rounded-pill w-100 p-2">
+													<div class="col-4 text-left">
+														<img
+															class="img-fluid"
+															src="https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/{/liga-futbol/equipos/equipo[
+																	 @nombre=current()/local/@nombre
+																	 ]/@id-escudo}.png"
+															title="{local/@nombre}"
+															/>
+													</div>
+													<div class="col-4 d-flex">
+														<p class="text-center font-big p-0 m-auto">
+															<xsl:value-of select="local/goles"></xsl:value-of>
+															:
+															<xsl:value-of select="visitante/goles"></xsl:value-of>
+														</p>
+													</div>
+													<div class="col-4 text-right">
+														<img
+															class="img-fluid"
+															src="https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/{/liga-futbol/equipos/equipo[
+																	 @nombre = current()/visitante/@nombre
+																	 ]/@id-escudo}.png"
+															title="{visitante/@nombre}"
+															/>
+													</div>
 												</div>
-												<div class="col-4 d-flex">
-													<p class="text-center font-big p-0 m-auto">
-														<xsl:value-of select="local/goles"></xsl:value-of>
-														:
-														<xsl:value-of select="visitante/goles"></xsl:value-of>
-													</p>
-												</div>
-												<div class="col-4 text-right">
-													<img
-														class="img-fluid"
-														src="https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/{/liga-futbol/equipos/equipo[
-																 @nombre = current()/visitante/@nombre
-																 ]/@id-escudo}.png"
-														title="{visitante/@nombre}"
-														/>
-												</div>
-											</div>
-										</xsl:for-each>
-									</div>
+											</xsl:for-each>
+										</div>
+									</xsl:for-each>
 								</div>
 							</div>
 						</xsl:for-each>
 					</div>
-					<div id="equipos" class="mt-5 card p-5 border-round-5">
+					<div id="equipos" class="my-5 card p-5 border-round-5">
 						<h1 class="text-center">
 							Equipos
 						</h1>
