@@ -147,34 +147,38 @@
 							Equipos
 						</h1>
 						<xsl:for-each select="liga-futbol/equipos/equipo">
+							<xsl:variable
+								name="partidos"
+								select="/liga-futbol/jornadas/jornada/partidos/partido/*[
+												@nombre = current()/@nombre
+												]"></xsl:variable>
+							<xsl:variable
+								name="ganados"
+								select="$partidos[
+												goles &gt; (../*[@nombre != current()/@nombre]/goles)
+												]">
+							</xsl:variable>
+							<xsl:variable
+								name="perdidos"
+								select="$partidos[
+												goles &lt; (../*[@nombre != current()/@nombre]/goles)
+												]">
+							</xsl:variable>
+							<xsl:variable
+								name="empates"
+								select="$partidos[
+												goles = (../*[@nombre != current()/@nombre]/goles)
+												]">
+							</xsl:variable>
+							<xsl:variable name="n-ganados" select="count($ganados)"></xsl:variable>
+							<xsl:variable name="n-perdidos" select="count($perdidos)"></xsl:variable>
+							<xsl:variable name="n-empates" select="count($empates)"></xsl:variable>
+							<xsl:variable name="puntos" select="$n-ganados * 3 + $n-empates"></xsl:variable>
 							<div id="equipo-{@nombre}" class="card mt-5 p-5 border-round-5">
 								<h3 class="text-center">
 									<xsl:value-of select="@nombre"></xsl:value-of>
 								</h3>
 								<div class="row mt-5 text-center">
-									<xsl:variable
-										name="partidos"
-										select="/liga-futbol/jornadas/jornada/partidos/partido/*[
-														@nombre = current()/@nombre
-														]"></xsl:variable>
-									<xsl:variable
-										name="ganados"
-										select="$partidos[
-														goles &gt; (../*[@nombre != current()/@nombre]/goles)
-														]">
-									</xsl:variable>
-									<xsl:variable
-										name="perdidos"
-										select="$partidos[
-														goles &lt; (../*[@nombre != current()/@nombre]/goles)
-														]">
-									</xsl:variable>
-									<xsl:variable
-										name="empates"
-										select="$partidos[
-														goles = (../*[@nombre != current()/@nombre]/goles)
-														]">
-									</xsl:variable>
 									<div class="col-md-3 mb-md-0 mb-5">
 										<img
 											class="img-fluid"
@@ -187,19 +191,23 @@
 											Jugados:
 											<xsl:value-of select="count($partidos)"></xsl:value-of>
 										</p>
+										<p>
+											Puntos:
+											<xsl:value-of select="$puntos"></xsl:value-of>
+										</p>
 									</div>
 									<div class="col-md-3">
 										<p>
 											Ganados:
-											<xsl:value-of select="count($ganados)"></xsl:value-of>
+											<xsl:value-of select="$n-ganados"></xsl:value-of>
 										</p>
 										<p>
 											Perdidos:
-											<xsl:value-of select="count($perdidos)"></xsl:value-of>
+											<xsl:value-of select="$n-perdidos"></xsl:value-of>
 										</p>
 										<p>
 											Empates:
-											<xsl:value-of select="count($empates)"></xsl:value-of>
+											<xsl:value-of select="$n-empates"></xsl:value-of>
 										</p>
 									</div>
 									<div class="col-md-3">
