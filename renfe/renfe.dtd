@@ -1,0 +1,32 @@
+<!ELEMENT renfe (trenes,estaciones,entradas,salidas)>
+
+<!ATTLIST renfe localidad CDATA #REQUIRED>
+
+<!ELEMENT trenes (tren+)>
+<!ELEMENT estaciones (estacion+)>
+<!ELEMENT entradas (entrada+)>
+<!ELEMENT salidas (salida+)>
+
+<!ELEMENT tren (RF?,MD?,RegionalExpres?)>
+<!ELEMENT estacion (imagen)>
+<!ELEMENT entrada (hora,via)>
+<!ELEMENT salida (hora,via)>
+
+<!ELEMENT RF EMPTY>
+<!ELEMENT MD EMPTY>
+<!ELEMENT RegionalExpres EMPTY>
+
+<!ATTLIST tren idTren ID #REQUIRED>
+
+<!ATTLIST estacion nombre CDATA #REQUIRED>
+<!ATTLIST estacion idEstacion ID #REQUIRED>
+
+<!ATTLIST entrada tren IDREF #REQUIRED>
+<!ATTLIST entrada origen IDREF #REQUIRED>
+
+<!ATTLIST salida tren IDREF #REQUIRED>
+<!ATTLIST salida destino IDREF #REQUIRED>
+
+<!ELEMENT imagen (#PCDATA)>
+<!ELEMENT hora (#PCDATA)>
+<!ELEMENT via (#PCDATA)>

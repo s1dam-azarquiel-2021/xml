@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE renfe SYSTEM "renfe.dtd">
+<renfe localidad="Talavera de la Reina">
+	<trenes>
+		<tren idTren="t17902"><RF /><MD /></tren>
+		<tren idTren="t17012"><RF /><MD /></tren>
+		<tren idTren="t17907"><RF /><MD /></tren>
+		<tren idTren="t17025"><RF /><MD /></tren>
+		<tren idTren="t17900"><RF /><MD /></tren>
+		<tren idTren="t17901"><RF /><MD /></tren>
+		<tren idTren="t17018"><RF /><RegionalExpres /></tren>
+		<tren idTren="t17014"><RF /><RegionalExpres /></tren>
+		<tren idTren="t17021"><RF /><RegionalExpres /></tren>
+		<tren idTren="t17706"><RF /><RegionalExpres /></tren>
+		<tren idTren="t17703"><RF /><RegionalExpres /></tren>
+	</trenes>
+	<estaciones>
+		<estacion nombre="Madrid-Atocha Cercanias" idEstacion="e1">
+			<imagen>
+				https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes-cercanias-madrid/estacion-atocha/_jcr_content/root/responsivegrid/rfslidercardsexperie/rfcardexperience-2.coreimg.100.2048.jpeg/1631263845123/rodaje-madrid03.jpeg
+			</imagen>
+		</estacion>
+		<estacion nombre="Sevilla-Santa Justa" idEstacion="e2">
+			<imagen>
+				https://www.adif.es/documents/34234/3116111/a51003_sevilla.jpg/329bf03e-f762-7193-e81b-71515da03a28?t=1626869662047
+			</imagen>
+		</estacion>
+		<estacion nombre="Badajoz" idEstacion="e3">
+			<imagen>
+				https://www.adif.es/documents/34234/3116907/a37606.jpg/87ec72fa-5124-4844-d4a3-b6e141b9b11f?t=1626869240201
+			</imagen>
+		</estacion>
+		<estacion nombre="Caceres" idEstacion="e4">
+			<imagen>
+				https://www.adif.es/documents/34234/3119417/a35400.jpg/cdc68f2e-7881-75d8-5660-efeb88fdf135?t=1626869048679
+			</imagen>
+		</estacion>
+		<estacion nombre="Huelva" idEstacion="e5">
+			<imagen>
+				https://www.adif.es/documents/34234/3119997/43019_DSC0657.png/3a687900-0bd8-9a48-9b7d-52b404cd9700?t=1626801048656
+			</imagen>
+		</estacion>
+	</estaciones>
+	<entradas>
+		<entrada tren="t17902" origen="e1"><hora>11:47</hora><via>1</via></entrada>
+		<entrada tren="t17012" origen="e1"><hora>16:13</hora><via>2</via></entrada>
+		<entrada tren="t17907" origen="e2"><hora>18:44</hora><via>1</via></entrada>
+		<entrada tren="t17018" origen="e1"><hora>20:18</hora><via>4</via></entrada>
+		<entrada tren="t17025" origen="e3"><hora>20:24</hora><via>1</via></entrada>
+		<entrada tren="t17014" origen="e1"><hora>9:35</hora><via>4</via></entrada>
+		<entrada tren="t17021" origen="e4"><hora>9:38</hora><via>1</via></entrada>
+		<entrada tren="t17900" origen="e1"><hora>11:47</hora><via>1</via></entrada>
+		<entrada tren="t17902" origen="e1"><hora>11:47</hora><via>1</via></entrada>
+		<entrada tren="t17012" origen="e1"><hora>16:13</hora><via>2</via></entrada>
+		<entrada tren="t17901" origen="e2"><hora>18:44</hora><via>1</via></entrada>
+		<entrada tren="t17901" origen="e5"><hora>18:44</hora><via>1</via></entrada>
+		<entrada tren="t17907" origen="e2"><hora>18:44</hora><via>1</via></entrada>
+		<entrada tren="t17018" origen="e1"><hora>20:18</hora><via>4</via></entrada>
+		<entrada tren="t17025" origen="e3"><hora>20:24</hora><via>1</via></entrada>
+		<entrada tren="t17706" origen="e1"><hora>22:22</hora><via>4</via></entrada>
+	</entradas>
+	<salidas>
+		<salida tren="t17902" destino="e2"><hora>11:48</hora><via>1</via></salida>
+		<salida tren="t17907" destino="e1"><hora>18:45</hora><via>1</via></salida>
+		<salida tren="t17018" destino="e3"><hora>20:19</hora><via>4</via></salida>
+		<salida tren="t17025" destino="e1"><hora>20:25</hora><via>1</via></salida>
+		<salida tren="t17703" destino="e1"><hora>6:23</hora><via>2</via></salida>
+		<salida tren="t17014" destino="e3"><hora>9:36</hora><via>4</via></salida>
+		<salida tren="t17021" destino="e1"><hora>9:39</hora><via>1</via></salida>
+		<salida tren="t17900" destino="e2"><hora>11:48</hora><via>1</via></salida>
+		<salida tren="t17902" destino="e2"><hora>11:48</hora><via>1</via></salida>
+		<salida tren="t17901" destino="e1"><hora>18:45</hora><via>1</via></salida>
+		<salida tren="t17901" destino="e1"><hora>18:45</hora><via>1</via></salida>
+		<salida tren="t17907" destino="e1"><hora>18:45</hora><via>1</via></salida>
+		<salida tren="t17018" destino="e4"><hora>20:19</hora><via>4</via></salida>
+		<salida tren="t17025" destino="e1"><hora>20:25</hora><via>1</via></salida>
+	</salidas>
+</renfe>
