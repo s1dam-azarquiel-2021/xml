@@ -118,7 +118,7 @@
 													</td>
 													<td>
 														<xsl:variable name="tren" select="/renfe/trenes/tren[@idTren = current()/@tren]" />
-														<div class="d-flex gap-2">
+														<div class="d-flex flex-wrap gap-2">
 															<p class="border border-2 border-primary rounded-pill px-2 m-0">
 																<xsl:value-of select="substring(@tren,2)"></xsl:value-of>
 															</p>
