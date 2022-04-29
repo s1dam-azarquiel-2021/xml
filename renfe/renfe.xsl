@@ -194,7 +194,7 @@
 								<div class="col mb-2">
 									<div class="card h-100 text-white bg-success">
 										<img alt="Imagen estacion" src="{imagen}" class="card-img-top" />
-										<div class="card-body">
+										<div class="card-body d-flex flex-column-reverse">
 											<div class="card-title">
 												<xsl:value-of select="@nombre"></xsl:value-of>
 											</div>
@@ -209,14 +209,14 @@
 						<div class="row row-cols-lg-4 row-cols-md-3 row-cols-sm-2 row-cols-1">
 							<xsl:for-each select="renfe/trenes/tren">
 								<div class="col mb-2">
-									<div class="card h-100">
+									<div class="card h-100 text-white bg-success">
 										<div class="card-body">
 											<div class="card-title d-flex gap-2 m-0">
 												<p class="border border-2 border-primary rounded-pill px-2 m-0">
 													<xsl:value-of select="substring(@idTren,2)"></xsl:value-of>
 												</p>
 												<xsl:for-each select="./*">
-													<p class="border border-2 border-success rounded-pill px-2 m-0">
+													<p class="border border-2 border-success-light rounded-pill px-2 m-0">
 														<xsl:value-of select="name(.)"></xsl:value-of>
 													</p>
 												</xsl:for-each>
