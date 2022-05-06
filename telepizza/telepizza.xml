@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="telepizza.xsl" type="text/xsl"?>
+<entrantes fuente="Telepizza">
+  <categoria nombre="Nunca fallan">
+    <entrante nombre="Combo de Entrantes">
+      <imagen>cppc_c</imagen>
+      <precio>6.95</precio>
+    </entrante>
+    <entrante nombre="Patatas Gajo (1 ración)">
+      <imagen>pg_c</imagen>
+      <precio>3.45</precio>
+      <oferta />
+    </entrante>
+    <entrante nombre="Patatas Fritas">
+      <imagen>fdm_c</imagen>
+      <precio>2.95</precio>
+    </entrante>
+    <entrante nombre="Aros de Cebolla (6 uds)">
+      <imagen>aceb_c</imagen>
+      <precio>3.45</precio>
+      <oferta />
+    </entrante>
+    <entrante nombre="Nuggets Veguis">
+      <imagen>nuvg_c</imagen>
+      <precio>4.25</precio>
+    </entrante>
+  </categoria>
+  <categoria nombre="Para los MASA fan">
+    <entrante nombre="Pizzolinos Bacon">
+      <imagen>pbac_c</imagen>
+      <precio>4.45</precio>
+    </entrante>
+    <entrante nombre="Pizzolinos Pollo BBQ">
+      <imagen>pipo_c</imagen>
+      <precio>4.45</precio>
+    </entrante>
+    <entrante nombre="Pizzolinos Pepperoni">
+      <imagen>pipp_c</imagen>
+      <precio>4.45</precio>
+    </entrante>
+    <entrante nombre="Pan de Ajo (3 uds)">
+      <imagen>3paj_c</imagen>
+      <precio>2.45</precio>
+    </entrante>
+    <entrante nombre="Pan de Ajo (6 uds)">
+      <imagen>pajc_c</imagen>
+      <precio>3.45</precio>
+    </entrante>
+    <entrante nombre="Spiro Dog Clásico">
+      <imagen>spcl_c</imagen>
+      <precio>3.95</precio>
+    </entrante>
+  </categoria>
+  <categoria nombre="Algo con QUESO">
+    <entrante nombre="Fingers de Queso (4 uds)">
+      <imagen>fngq_c</imagen>
+      <precio>4.25</precio>
+    </entrante>
+    <entrante nombre="Bocaditos de Camembert">
+      <imagen>bdca_c</imagen>
+      <precio>4.25</precio>
+      <oferta />
+    </entrante>
+  </categoria>
+  <categoria nombre="Al rico POLLO">
+    <entrante nombre="Alitas de Pollo Smokey BBQ">
+      <imagen>asmo_c</imagen>
+      <precio>4.25</precio>
+    </entrante>
+    <entrante nombre="Alitas de Pollo Barbacoa">
+      <imagen>agri_c</imagen>
+      <precio>4.25</precio>
+    </entrante>
+    <entrante nombre="Delicias de Pollo">
+      <imagen>dpol_c</imagen>
+      <precio>4.25</precio>
+    </entrante>
+    <entrante nombre="Pops de Pollo">
+      <imagen>pops_c</imagen>
+      <precio>4.25</precio>
+      <oferta />
+    </entrante>
+  </categoria>
+  <categoria nombre="Sándwiches">
+    <entrante nombre="Top Sándwich Pollo">
+      <imagen>tsp_c</imagen>
+      <precio>5.50</precio>
+    </entrante>
+    <entrante nombre="Top Sándwich York">
+      <imagen>tsj_c</imagen>
+      <precio>5.50</precio>
+    </entrante>
+  </categoria>
+  <categoria nombre="Ensaladas">
+    <entrante nombre="Ensalada Mediterránea">
+      <imagen>emdt_c</imagen>
+      <precio>3.95</precio>
+    </entrante>
+    <entrante nombre="Ensalada Mediterránea Pollo">
+      <imagen>empo_c</imagen>
+      <precio>5.50</precio>
+    </entrante>
+  </categoria>
+  <categoria nombre="Snacks">
+    <entrante nombre="Doritos Tex Mex (140g)">
+      <imagen>dtmg_c</imagen>
+      <precio>2.00</precio>
+    </entrante>
+    <entrante nombre="Lays Sal (170g)">
+      <imagen>lsgr_c</imagen>
+      <precio>1.70</precio>
+    </entrante>
+    <entrante nombre="Ruffles Jamon (170g)">
+      <imagen>rjgr_c</imagen>
+      <precio>1.90</precio>
+    </entrante>
+    <entrante nombre="Cheetos Pandilla (75g)">
+      <imagen>chgr_c</imagen>
+      <precio>1.70</precio>
+    </entrante>
+    <entrante nombre="Cheetos Pandilla (31g)">
+      <imagen>cppe_c</imagen>
+      <precio>1.00</precio>
+      <oferta/>
+    </entrante>
+    <entrante nombre="Doritos Tex Mex (44g)">
+      <imagen>dtpe_c</imagen>
+      <precio>1.00</precio>
+    </entrante>
+    <entrante nombre="Ruffles Jamon (45g)">
+      <imagen>rjpe_c</imagen>
+      <precio>1.00</precio>
+    </entrante>
+    <entrante nombre="Lays Sal (44g)">
+      <imagen>lape_c</imagen>
+      <precio>1.00</precio>
+    </entrante>
+  </categoria>
+</entrantes>
