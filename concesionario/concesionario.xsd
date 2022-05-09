@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="concesionario">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="coche" maxOccurs="unbounded"></xs:element>
+				<xs:element ref="reserva" minOccurs="0" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="marca" type="xs:string"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="coche">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="modelo" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="nombre" type="xs:string"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="reserva">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nombre" type="xs:string"></xs:element>
+				<xs:element name="direccion" minOccurs="0" type="xs:string"></xs:element>
+				<xs:element name="telefono" type="xs:string"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="coche" type="xs:IDREF"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="modelo">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:choice>
+					<xs:element name="stock" type="xs:string"></xs:element>
+					<xs:element name="km" type="xs:string"></xs:element>
+				</xs:choice>
+				<xs:choice>
+					<xs:element name="gasolina"></xs:element>
+					<xs:element name="diesel"></xs:element>
+				</xs:choice>
+				<xs:element name="cilindrada" type="xs:string"></xs:element>
+				<xs:element name="puertas" type="xs:positiveInteger"></xs:element>
+				<xs:element name="caballos" type="xs:positiveInteger"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="referencia" type="xs:ID"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	
+</xs:schema>
