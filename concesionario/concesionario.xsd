@@ -7,7 +7,7 @@
 				<xs:element ref="coche" maxOccurs="unbounded"></xs:element>
 				<xs:element ref="reserva" minOccurs="0" maxOccurs="unbounded"></xs:element>
 			</xs:sequence>
-			<xs:attribute name="marca" type="xs:string"></xs:attribute>
+			<xs:attribute name="marca" type="xs:string" use="required"></xs:attribute>
 		</xs:complexType>
 	</xs:element>
 
@@ -16,7 +16,7 @@
 			<xs:sequence>
 				<xs:element ref="modelo" maxOccurs="unbounded"></xs:element>
 			</xs:sequence>
-			<xs:attribute name="nombre" type="xs:string"></xs:attribute>
+			<xs:attribute name="nombre" type="xs:string" use="required"></xs:attribute>
 		</xs:complexType>
 	</xs:element>
 
@@ -27,7 +27,7 @@
 				<xs:element name="direccion" minOccurs="0" type="xs:string"></xs:element>
 				<xs:element name="telefono" type="xs:string"></xs:element>
 			</xs:sequence>
-			<xs:attribute name="coche" type="xs:IDREF"></xs:attribute>
+			<xs:attribute name="coche" type="xs:IDREF" use="required"></xs:attribute>
 		</xs:complexType>
 	</xs:element>
 
@@ -46,7 +46,7 @@
 				<xs:element name="puertas" type="xs:positiveInteger"></xs:element>
 				<xs:element name="caballos" type="xs:positiveInteger"></xs:element>
 			</xs:sequence>
-			<xs:attribute name="referencia" type="xs:ID"></xs:attribute>
+			<xs:attribute name="referencia" type="xs:ID" use="required"></xs:attribute>
 		</xs:complexType>
 	</xs:element>
 	
