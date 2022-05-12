@@ -21,7 +21,7 @@
 				<xs:element ref="pareja" minOccurs="0" />
 				<xs:element name="comentario" type="xs:string" />
 			</xs:sequence>
-			<xs:attribute name="codigo" type="xs:ID"></xs:attribute>
+			<xs:attribute name="codigo" type="xs:ID" use="required"></xs:attribute>
 		</xs:complexType>
 	</xs:element>
 
