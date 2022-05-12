@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="biblioteca">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="url" type="url"></xs:element>
+				<xs:element name="email" type="email"></xs:element>
+				<xs:element ref="libros"></xs:element>
+				<xs:element ref="socios"></xs:element>
+				<xs:element ref="prestamos"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:simpleType name="url">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="https?:\/\/[a-zA-Z\d\.-]+\.[a-z]{2,}(\/[\w\./-]*)?"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="email">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[\w\.-]+@[a-zA-Z\d-]+\.[a-z]{2,}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:element name="libros">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="libro" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="libro">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="titulo" type="xs:string"></xs:element>
+				<xs:element ref="autor" maxOccurs="unbounded"></xs:element>
+				<xs:element ref="ejemplar" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="isbn" type="xs:string" use="required"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="autor">
+		<xs:complexType>
+			<xs:attribute name="nombre" type="xs:string" use="required"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="ejemplar">
+		<xs:complexType>
+			<xs:attribute name="codigo" type="xs:ID" use="required"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="socios">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="socio" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="socio">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nombre" type="xs:string"></xs:element>
+				<xs:element name="direccion" type="xs:string" minOccurs="0"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="dni" type="xs:ID" use="required"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="prestamos">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="prestamo" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="prestamo">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="fecha" type="fecha"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="ejemplar" type="xs:IDREF" use="required"></xs:attribute>
+			<xs:attribute name="socio" type="xs:IDREF" use="required"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:simpleType name="fecha">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\d{1,2}\/\d{1,2}\/\d{4}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+	
+</xs:schema>
