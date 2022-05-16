@@ -1,333 +1,333 @@
 <?xml version="1.0"?>
 <cars>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/01/51186040/540551870_g.jpg/252x172cut/</image-src>
-		<price>47.200 €</price>
-		<financed_price>43.900 €</financed_price>
-		<name>LEXUS NX 350h Business City 2WD 5p.</name>
-		<garanty>Garantía 3 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido</engine>
-		<year>2022</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2021/09/30/50170469/500898529_g.jpg/252x172cut/</image-src>
-		<price>39.000 €</price>
-		<financed_price>38.000 €</financed_price>
-		<name>BMW Serie 1 118d Business Auto. 5p.</name>
-		<garanty>Garantía 2 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Diesel</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/01/18/51057508/536114186_g.jpg/252x172cut/</image-src>
-		<price>23.300 €</price>
-		<financed_price>19.300 €</financed_price>
-		<name>SEAT Leon 1.0 TSI 81kW SS Style Go 5p.</name>
-		<garanty>Garantía 5 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Gasolina</engine>
-		<year>2021</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51256161/543603018_g.jpg/252x172cut/</image-src>
-		<price>27.644 €</price>
-		<financed_price>27.044 €</financed_price>
-		<name>PEUGEOT 508 5P Active Pack PureTech 130 SS EAT8 5p.</name>
-		<garanty>Garantía 3 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Gasolina</engine>
-		<year>2022</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/01/24/51116604/537663024_g.jpg/252x172cut/</image-src>
-		<price>36.500 €</price>
-		<financed_price>33.500 €</financed_price>
-		<name>KIA eSoul eSoul 150kW 204CV Drive Long Range 5p.</name>
-		<garanty>Garantía 6 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Eléctrico</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2021/09/22/50094805/498178908_g.jpg/252x172cut/</image-src>
-		<price>61.500 €</price>
-		<financed_price>57.900 €</financed_price>
-		<name>MERCEDES-BENZ EQA EQA 250 5p.</name>
-		<garanty>Garantía 2 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Eléctrico</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/01/12/51010344/534856653_g.jpg/252x172cut/</image-src>
-		<price>43.500 €</price>
-		<financed_price>40.500 €</financed_price>
-		<name>RENAULT Espace Zen Blue dCi 118 kW 160CV EDC 5p.</name>
-		<garanty>Garantía 2 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Diesel</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51257460/543635547_g.jpg/252x172cut/</image-src>
-		<price>58.500 €</price>
-		<financed_price>53.100 €</financed_price>
-		<name>VOLVO V90 Cross Country 2.0 B4 D AWD Auto 5p.</name>
-		<garanty>Garantía 3 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido</engine>
-		<year>2021</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/07/51234709/542478145_g.jpg/252x172cut/</image-src>
-		<price>46.165 €</price>
-		<financed_price>44.165 €</financed_price>
-		<name>JEEP Compass 1.3 PHEV 177kW 240CV Trailhawk AT AWD 5p.</name>
-		<garanty>Garantía 2 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido enchufable</engine>
-		<year>2022</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51258464/543658468_g.jpg/252x172cut/</image-src>
-		<price>19.995 €</price>
-		<financed_price>15.500 €</financed_price>
-		<name>FORD Fiesta 1.0 EcoBoost MHEV 92kW125CV STLine 5p 5p.</name>
-		<garanty>Garantía 5 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido</engine>
-		<year>2022</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/01/18/51058060/536129025_g.jpg/252x172cut/</image-src>
-		<price>27.000 €</price>
-		<financed_price>22.600 €</financed_price>
-		<name>SEAT Leon SP 1.5 TSI 96kW SS Xcellence Go L 5p.</name>
-		<garanty>Garantía 5 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Gasolina</engine>
-		<year>2021</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51256654/543628030_g.jpg/252x172cut/</image-src>
-		<price>18.700 €</price>
-		<financed_price>15.200 €</financed_price>
-		<name>FIAT Tipo HB Life 1.0 73kW 100CV 5p.</name>
-		<garanty>Garantía 2 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Gasolina</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2021/09/02/49925031/539277964_g.jpg/252x172cut/</image-src>
-		<price>41.095 €</price>
-		<financed_price>40.128 €</financed_price>
-		<name>MERCEDES-BENZ Clase A A 250 e 5p.</name>
-		<garanty>Garantía 2 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido enchufable</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51258465/543660729_g.jpg/252x172cut/</image-src>
-		<price>60.791 €</price>
-		<financed_price>54.741 €</financed_price>
-		<name>VOLVO XC60 2.0 T6 AWD Recharge Plus Bright Auto 5p.</name>
-		<garanty>Garantía 3 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido enchufable</engine>
-		<year>2022</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2021/09/29/50511678/513274866_g.jpg/252x172cut/</image-src>
-		<price>24.300 €</price>
-		<financed_price>23.275 €</financed_price>
-		<name>TOYOTA Proace Verso 1.5D 120CV VX SHUTTLE 2PL 2PT L1 5p.</name>
-		<garanty>Garantía 3 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Diesel</engine>
-		<year>2021</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2021/08/30/49891506/509862502_g.jpg/252x172cut/</image-src>
-		<price>29.990 €</price>
-		<financed_price>27.990 €</financed_price>
-		<name>CITROEN eC4 eC4 electrico 100kW Shine</name>
-		<garanty>Garantía 2 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Eléctrico</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2021/04/16/50304855/505635996_g.jpg/252x172cut/</image-src>
-		<price>31.375 €</price>
-		<financed_price>30.175 €</financed_price>
-		<name>TOYOTA CHR 2.0 180H GR Sport Black Edition 5p.</name>
-		<garanty>Garantía 5 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/01/12/51013209/534941881_g.jpg/252x172cut/</image-src>
-		<price>25.900 €</price>
-		<financed_price>23.900 €</financed_price>
-		<name>OPEL Mokka 1.2 T 96kW 130 CV GS Line Auto 5p.</name>
-		<garanty>Garantía 2 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Gasolina</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51257865/543644645_g.jpg/252x172cut/</image-src>
-		<price>18.490 €</price>
-		<financed_price>16.370 €</financed_price>
-		<name>HYUNDAI i30 1.0 TGDI 48V Klass 5p.</name>
-		<garanty>Garantía 5 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2021/08/28/50011989/494017188_g.jpg/252x172cut/</image-src>
-		<price>48.900 €</price>
-		<financed_price>45.150 €</financed_price>
-		<name>SUZUKI Across 2.5 PHEV 4WD 5p.</name>
-		<garanty>Garantía 5 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido enchufable</engine>
-		<year>2020</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/07/51229189/542317216_g.jpg/252x172cut/</image-src>
-		<price>18.145 €</price>
-		<financed_price>17.145 €</financed_price>
-		<name>PEUGEOT 208 BlueHDi 73kW 100CV Active 5p.</name>
-		<garanty>Garantía 2 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Diesel</engine>
-		<year>2022</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/01/25/51124090/537862183_g.jpg/252x172cut/</image-src>
-		<price>35.599 €</price>
-		<financed_price>33.999 €</financed_price>
-		<name>KIA eNiro eNiro 150kW 204CV Drive Long Range 5p.</name>
-		<garanty>Garantía 6 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Eléctrico</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51258673/543662456_g.jpg/252x172cut/</image-src>
-		<price>18.500 €</price>
-		<financed_price>17.300 €</financed_price>
-		<name>SKODA Fabia 1.0 TSI 81KW 110cv Style</name>
-		<garanty>Garantía 1 año</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Gasolina</engine>
-		<year>2022</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51257873/543644819_g.jpg/252x172cut/</image-src>
-		<price>20.770 €</price>
-		<financed_price>19.270 €</financed_price>
-		<name>CITROEN Berlingo Talla M BlueHDi 100 SS LIVE PACK 5p.</name>
-		<garanty>Garantía 3 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Diesel</engine>
-		<year>2021</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/01/21/51091087/537044879_g.jpg/252x172cut/</image-src>
-		<price>53.960 €</price>
-		<financed_price>null</financed_price>
-		<name>JAGUAR XF 2.0D I4 150kW 204CV RWD S Auto 4p.</name>
-		<garanty>Garantía 5 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido</engine>
-		<year>2021</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/05/51221416/542153856_g.jpg/252x172cut/</image-src>
-		<price>285.600 €</price>
-		<financed_price>285.600 €</financed_price>
-		<name>FERRARI Roma V8</name>
-		<garanty>Garantía 3 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Gasolina</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51258674/543662457_g.jpg/252x172cut/</image-src>
-		<price>23.800 €</price>
-		<financed_price>22.000 €</financed_price>
-		<name>SKODA Scala 1.5 TSI 110 KW 150 CV Sport</name>
-		<garanty>Garantía 1 año</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Gasolina</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2021/04/16/50584285/516008999_g.jpg/252x172cut/</image-src>
-		<price>31.175 €</price>
-		<financed_price>30.175 €</financed_price>
-		<name>TOYOTA CHR 2.0 180H GR Sport Black Edition 5p.</name>
-		<garanty>Garantía 5 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Híbrido</engine>
-		<year>2021</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51257875/543644822_g.jpg/252x172cut/</image-src>
-		<price>16.999 €</price>
-		<financed_price>14.800 €</financed_price>
-		<name>CITROEN C3 PureTech 60KW 83CV CSeries 5p.</name>
-		<garanty>Garantía 2 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Gasolina</engine>
-		<year>2022</year>
-		<is_new>Nuevo</is_new>
-	</car>
-	<car>
-		<image-src>https://a.ccdn.es/cnet/2022/02/10/51256160/543603017_g.jpg/252x172cut/</image-src>
-		<price>26.500 €</price>
-		<financed_price>24.000 €</financed_price>
-		<name>VOLKSWAGEN TCross Sport 1.0 TSI 81kW 110CV DSG 5p.</name>
-		<garanty>Garantía 3 años</garanty>
-		<IVA>IVA incluido</IVA>
-		<engine>Gasolina</engine>
-		<year>2021</year>
-		<is_new>null</is_new>
-	</car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/01/51186040/540551870_g.jpg/252x172cut/</image-src>
+    <price>47.200 €</price>
+    <financed_price>43.900 €</financed_price>
+    <name>LEXUS NX 350h Business City 2WD 5p.</name>
+    <garanty>Garantía 3 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido</engine>
+    <year>2022</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2021/09/30/50170469/500898529_g.jpg/252x172cut/</image-src>
+    <price>39.000 €</price>
+    <financed_price>38.000 €</financed_price>
+    <name>BMW Serie 1 118d Business Auto. 5p.</name>
+    <garanty>Garantía 2 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Diesel</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/01/18/51057508/536114186_g.jpg/252x172cut/</image-src>
+    <price>23.300 €</price>
+    <financed_price>19.300 €</financed_price>
+    <name>SEAT Leon 1.0 TSI 81kW SS Style Go 5p.</name>
+    <garanty>Garantía 5 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Gasolina</engine>
+    <year>2021</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51256161/543603018_g.jpg/252x172cut/</image-src>
+    <price>27.644 €</price>
+    <financed_price>27.044 €</financed_price>
+    <name>PEUGEOT 508 5P Active Pack PureTech 130 SS EAT8 5p.</name>
+    <garanty>Garantía 3 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Gasolina</engine>
+    <year>2022</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/01/24/51116604/537663024_g.jpg/252x172cut/</image-src>
+    <price>36.500 €</price>
+    <financed_price>33.500 €</financed_price>
+    <name>KIA eSoul eSoul 150kW 204CV Drive Long Range 5p.</name>
+    <garanty>Garantía 6 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Eléctrico</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2021/09/22/50094805/498178908_g.jpg/252x172cut/</image-src>
+    <price>61.500 €</price>
+    <financed_price>57.900 €</financed_price>
+    <name>MERCEDES-BENZ EQA EQA 250 5p.</name>
+    <garanty>Garantía 2 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Eléctrico</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/01/12/51010344/534856653_g.jpg/252x172cut/</image-src>
+    <price>43.500 €</price>
+    <financed_price>40.500 €</financed_price>
+    <name>RENAULT Espace Zen Blue dCi 118 kW 160CV EDC 5p.</name>
+    <garanty>Garantía 2 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Diesel</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51257460/543635547_g.jpg/252x172cut/</image-src>
+    <price>58.500 €</price>
+    <financed_price>53.100 €</financed_price>
+    <name>VOLVO V90 Cross Country 2.0 B4 D AWD Auto 5p.</name>
+    <garanty>Garantía 3 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido</engine>
+    <year>2021</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/07/51234709/542478145_g.jpg/252x172cut/</image-src>
+    <price>46.165 €</price>
+    <financed_price>44.165 €</financed_price>
+    <name>JEEP Compass 1.3 PHEV 177kW 240CV Trailhawk AT AWD 5p.</name>
+    <garanty>Garantía 2 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido enchufable</engine>
+    <year>2022</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51258464/543658468_g.jpg/252x172cut/</image-src>
+    <price>19.995 €</price>
+    <financed_price>15.500 €</financed_price>
+    <name>FORD Fiesta 1.0 EcoBoost MHEV 92kW125CV STLine 5p 5p.</name>
+    <garanty>Garantía 5 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido</engine>
+    <year>2022</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/01/18/51058060/536129025_g.jpg/252x172cut/</image-src>
+    <price>27.000 €</price>
+    <financed_price>22.600 €</financed_price>
+    <name>SEAT Leon SP 1.5 TSI 96kW SS Xcellence Go L 5p.</name>
+    <garanty>Garantía 5 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Gasolina</engine>
+    <year>2021</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51256654/543628030_g.jpg/252x172cut/</image-src>
+    <price>18.700 €</price>
+    <financed_price>15.200 €</financed_price>
+    <name>FIAT Tipo HB Life 1.0 73kW 100CV 5p.</name>
+    <garanty>Garantía 2 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Gasolina</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2021/09/02/49925031/539277964_g.jpg/252x172cut/</image-src>
+    <price>41.095 €</price>
+    <financed_price>40.128 €</financed_price>
+    <name>MERCEDES-BENZ Clase A A 250 e 5p.</name>
+    <garanty>Garantía 2 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido enchufable</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51258465/543660729_g.jpg/252x172cut/</image-src>
+    <price>60.791 €</price>
+    <financed_price>54.741 €</financed_price>
+    <name>VOLVO XC60 2.0 T6 AWD Recharge Plus Bright Auto 5p.</name>
+    <garanty>Garantía 3 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido enchufable</engine>
+    <year>2022</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2021/09/29/50511678/513274866_g.jpg/252x172cut/</image-src>
+    <price>24.300 €</price>
+    <financed_price>23.275 €</financed_price>
+    <name>TOYOTA Proace Verso 1.5D 120CV VX SHUTTLE 2PL 2PT L1 5p.</name>
+    <garanty>Garantía 3 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Diesel</engine>
+    <year>2021</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2021/08/30/49891506/509862502_g.jpg/252x172cut/</image-src>
+    <price>29.990 €</price>
+    <financed_price>27.990 €</financed_price>
+    <name>CITROEN eC4 eC4 electrico 100kW Shine</name>
+    <garanty>Garantía 2 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Eléctrico</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2021/04/16/50304855/505635996_g.jpg/252x172cut/</image-src>
+    <price>31.375 €</price>
+    <financed_price>30.175 €</financed_price>
+    <name>TOYOTA CHR 2.0 180H GR Sport Black Edition 5p.</name>
+    <garanty>Garantía 5 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/01/12/51013209/534941881_g.jpg/252x172cut/</image-src>
+    <price>25.900 €</price>
+    <financed_price>23.900 €</financed_price>
+    <name>OPEL Mokka 1.2 T 96kW 130 CV GS Line Auto 5p.</name>
+    <garanty>Garantía 2 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Gasolina</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51257865/543644645_g.jpg/252x172cut/</image-src>
+    <price>18.490 €</price>
+    <financed_price>16.370 €</financed_price>
+    <name>HYUNDAI i30 1.0 TGDI 48V Klass 5p.</name>
+    <garanty>Garantía 5 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2021/08/28/50011989/494017188_g.jpg/252x172cut/</image-src>
+    <price>48.900 €</price>
+    <financed_price>45.150 €</financed_price>
+    <name>SUZUKI Across 2.5 PHEV 4WD 5p.</name>
+    <garanty>Garantía 5 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido enchufable</engine>
+    <year>2020</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/07/51229189/542317216_g.jpg/252x172cut/</image-src>
+    <price>18.145 €</price>
+    <financed_price>17.145 €</financed_price>
+    <name>PEUGEOT 208 BlueHDi 73kW 100CV Active 5p.</name>
+    <garanty>Garantía 2 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Diesel</engine>
+    <year>2022</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/01/25/51124090/537862183_g.jpg/252x172cut/</image-src>
+    <price>35.599 €</price>
+    <financed_price>33.999 €</financed_price>
+    <name>KIA eNiro eNiro 150kW 204CV Drive Long Range 5p.</name>
+    <garanty>Garantía 6 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Eléctrico</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51258673/543662456_g.jpg/252x172cut/</image-src>
+    <price>18.500 €</price>
+    <financed_price>17.300 €</financed_price>
+    <name>SKODA Fabia 1.0 TSI 81KW 110cv Style</name>
+    <garanty>Garantía 1 año</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Gasolina</engine>
+    <year>2022</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51257873/543644819_g.jpg/252x172cut/</image-src>
+    <price>20.770 €</price>
+    <financed_price>19.270 €</financed_price>
+    <name>CITROEN Berlingo Talla M BlueHDi 100 SS LIVE PACK 5p.</name>
+    <garanty>Garantía 3 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Diesel</engine>
+    <year>2021</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/01/21/51091087/537044879_g.jpg/252x172cut/</image-src>
+    <price>53.960 €</price>
+    <financed_price>null</financed_price>
+    <name>JAGUAR XF 2.0D I4 150kW 204CV RWD S Auto 4p.</name>
+    <garanty>Garantía 5 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido</engine>
+    <year>2021</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/05/51221416/542153856_g.jpg/252x172cut/</image-src>
+    <price>285.600 €</price>
+    <financed_price>285.600 €</financed_price>
+    <name>FERRARI Roma V8</name>
+    <garanty>Garantía 3 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Gasolina</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51258674/543662457_g.jpg/252x172cut/</image-src>
+    <price>23.800 €</price>
+    <financed_price>22.000 €</financed_price>
+    <name>SKODA Scala 1.5 TSI 110 KW 150 CV Sport</name>
+    <garanty>Garantía 1 año</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Gasolina</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2021/04/16/50584285/516008999_g.jpg/252x172cut/</image-src>
+    <price>31.175 €</price>
+    <financed_price>30.175 €</financed_price>
+    <name>TOYOTA CHR 2.0 180H GR Sport Black Edition 5p.</name>
+    <garanty>Garantía 5 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Híbrido</engine>
+    <year>2021</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51257875/543644822_g.jpg/252x172cut/</image-src>
+    <price>16.999 €</price>
+    <financed_price>14.800 €</financed_price>
+    <name>CITROEN C3 PureTech 60KW 83CV CSeries 5p.</name>
+    <garanty>Garantía 2 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Gasolina</engine>
+    <year>2022</year>
+    <is_new>Nuevo</is_new>
+  </car>
+  <car>
+    <image-src>https://a.ccdn.es/cnet/2022/02/10/51256160/543603017_g.jpg/252x172cut/</image-src>
+    <price>26.500 €</price>
+    <financed_price>24.000 €</financed_price>
+    <name>VOLKSWAGEN TCross Sport 1.0 TSI 81kW 110CV DSG 5p.</name>
+    <garanty>Garantía 3 años</garanty>
+    <IVA>IVA incluido</IVA>
+    <engine>Gasolina</engine>
+    <year>2021</year>
+    <is_new>null</is_new>
+  </car>
 </cars>
