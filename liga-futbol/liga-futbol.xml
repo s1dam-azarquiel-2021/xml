@@ -2,1436 +2,1436 @@
 <?xml-stylesheet href="liga-futbol.xsl" type="text/xsl"?>
 <!DOCTYPE liga-futbol SYSTEM "liga-futbol.dtd">
 <liga-futbol>
-	<equipos>
-		<equipo nombre="RealSociedad" id-escudo="188" />
-		<equipo nombre="Betis"        id-escudo="185" />
-		<equipo nombre="Elche"        id-escudo="954" />
-		<equipo nombre="Mallorca"     id-escudo="181" />
-		<equipo nombre="Alaves"       id-escudo="173" />
-		<equipo nombre="Rayo"         id-escudo="184" />
-		<equipo nombre="Valencia"     id-escudo="191" />
-		<equipo nombre="Osasuna"      id-escudo="450" />
-		<equipo nombre="Getafe"       id-escudo="450" />
-		<equipo nombre="Villarreal"   id-escudo="449" />
-		<equipo nombre="Granada"      id-escudo="5683" />
-		<equipo nombre="Levante"      id-escudo="855" />
-		<equipo nombre="Atletico"     id-escudo="175" />
-		<equipo nombre="Espanyol"     id-escudo="177" />
-		<equipo nombre="Athletic"     id-escudo="174" />
-		<equipo nombre="Celta"        id-escudo="176" />
-		<equipo nombre="Sevilla"      id-escudo="179" />
-		<equipo nombre="RealMadrid"   id-escudo="186" />
-		<equipo nombre="Barcelona"    id-escudo="178" />
-		<equipo nombre="Cadiz"        id-escudo="1737" />
-	</equipos>
-	<jornadas>
-		<jornada numero="1">
-			<partidos>
-				<partido fecha="14/08/2021">
-					<local nombre="Osasuna"><goles>0</goles></local>
-					<visitante nombre="Espanyol"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="16/08/2021">
-					<local nombre="Elche"><goles>0</goles></local>
-					<visitante nombre="Athletic"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="16/08/2021">
-					<local nombre="Villarreal"><goles>0</goles></local>
-					<visitante nombre="Granada"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="13/08/2021">
-					<local nombre="Valencia"><goles>1</goles></local>
-					<visitante nombre="Getafe"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="14/08/2021">
-					<local nombre="Cadiz"><goles>1</goles></local>
-					<visitante nombre="Levante"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="14/08/2021">
-					<local nombre="Mallorca"><goles>1</goles></local>
-					<visitante nombre="Betis"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="15/08/2021">
-					<local nombre="Celta"><goles>1</goles></local>
-					<visitante nombre="Atletico"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="14/08/2021">
-					<local nombre="Alaves"><goles>1</goles></local>
-					<visitante nombre="RealMadrid"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="15/08/2021">
-					<local nombre="Sevilla"><goles>3</goles></local>
-					<visitante nombre="Rayo"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="15/08/2021">
-					<local nombre="Barcelona"><goles>4</goles></local>
-					<visitante nombre="RealSociedad"><goles>2</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="2">
-			<partidos>
-				<partido fecha="23/08/2021">
-					<local nombre="Osasuna"><goles>0</goles></local>
-					<visitante nombre="Celta"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="21/08/2021">
-					<local nombre="Espanyol"><goles>0</goles></local>
-					<visitante nombre="Villarreal"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="21/08/2021">
-					<local nombre="Alaves"><goles>0</goles></local>
-					<visitante nombre="Mallorca"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="23/08/2021">
-					<local nombre="Getafe"><goles>0</goles></local>
-					<visitante nombre="Sevilla"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="22/08/2021">
-					<local nombre="Atletico"><goles>1</goles></local>
-					<visitante nombre="Elche"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="22/08/2021">
-					<local nombre="RealSociedad"><goles>1</goles></local>
-					<visitante nombre="Rayo"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="21/08/2021">
-					<local nombre="Athletic"><goles>1</goles></local>
-					<visitante nombre="Barcelona"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="21/08/2021">
-					<local nombre="Granada"><goles>1</goles></local>
-					<visitante nombre="Valencia"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="20/08/2021">
-					<local nombre="Betis"><goles>1</goles></local>
-					<visitante nombre="Cadiz"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="22/08/2021">
-					<local nombre="Levante"><goles>3</goles></local>
-					<visitante nombre="RealMadrid"><goles>3</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="3">
-			<partidos>
-				<partido fecha="28/08/2021">
-					<local nombre="Celta"><goles>0</goles></local>
-					<visitante nombre="Athletic"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="28/08/2021">
-					<local nombre="Betis"><goles>0</goles></local>
-					<visitante nombre="RealMadrid"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="27/08/2021">
-					<local nombre="Mallorca"><goles>1</goles></local>
-					<visitante nombre="Espanyol"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="28/08/2021">
-					<local nombre="RealSociedad"><goles>1</goles></local>
-					<visitante nombre="Levante"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="28/08/2021">
-					<local nombre="Elche"><goles>1</goles></local>
-					<visitante nombre="Sevilla"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="29/08/2021">
-					<local nombre="Barcelona"><goles>2</goles></local>
-					<visitante nombre="Getafe"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="29/08/2021">
-					<local nombre="Atletico"><goles>2</goles></local>
-					<visitante nombre="Villarreal"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="29/08/2021">
-					<local nombre="Cadiz"><goles>2</goles></local>
-					<visitante nombre="Osasuna"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="27/08/2021">
-					<local nombre="Valencia"><goles>3</goles></local>
-					<visitante nombre="Alaves"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="29/08/2021">
-					<local nombre="Rayo"><goles>4</goles></local>
-					<visitante nombre="Granada"><goles>0</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="4">
-			<partidos>
-				<partido fecha="13/09/2021">
-					<local nombre="Getafe"><goles>0</goles></local>
-					<visitante nombre="Elche"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="12/09/2021">
-					<local nombre="Cadiz"><goles>0</goles></local>
-					<visitante nombre="RealSociedad"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="11/09/2021">
-					<local nombre="Levante"><goles>1</goles></local>
-					<visitante nombre="Rayo"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="21/12/2021">
-					<local nombre="Sevilla"><goles>1</goles></local>
-					<visitante nombre="Barcelona"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="14/09/2021">
-					<local nombre="Granada"><goles>1</goles></local>
-					<visitante nombre="Betis"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="12/09/2021">
-					<local nombre="Espanyol"><goles>1</goles></local>
-					<visitante nombre="Atletico"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="12/09/2021">
-					<local nombre="Osasuna"><goles>1</goles></local>
-					<visitante nombre="Valencia"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="11/09/2021">
-					<local nombre="Athletic"><goles>2</goles></local>
-					<visitante nombre="Mallorca"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="21/12/2021">
-					<local nombre="Villarreal"><goles>5</goles></local>
-					<visitante nombre="Alaves"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="12/09/2021">
-					<local nombre="RealMadrid"><goles>5</goles></local>
-					<visitante nombre="Celta"><goles>2</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="5">
-			<partidos>
-				<partido fecha="18/09/2021">
-					<local nombre="Atletico"><goles>0</goles></local>
-					<visitante nombre="Athletic"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="19/09/2021">
-					<local nombre="Mallorca"><goles>0</goles></local>
-					<visitante nombre="Villarreal"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="19/09/2021">
-					<local nombre="RealSociedad"><goles>0</goles></local>
-					<visitante nombre="Sevilla"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="18/09/2021">
-					<local nombre="Alaves"><goles>0</goles></local>
-					<visitante nombre="Osasuna"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="18/09/2021">
-					<local nombre="Elche"><goles>1</goles></local>
-					<visitante nombre="Levante"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="20/09/2021">
-					<local nombre="Barcelona"><goles>1</goles></local>
-					<visitante nombre="Granada"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="19/09/2021">
-					<local nombre="Valencia"><goles>1</goles></local>
-					<visitante nombre="RealMadrid"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="17/09/2021">
-					<local nombre="Celta"><goles>1</goles></local>
-					<visitante nombre="Cadiz"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="19/09/2021">
-					<local nombre="Betis"><goles>2</goles></local>
-					<visitante nombre="Espanyol"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="18/09/2021">
-					<local nombre="Rayo"><goles>3</goles></local>
-					<visitante nombre="Getafe"><goles>0</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="6">
-			<partidos>
-				<partido fecha="23/09/2021">
-					<local nombre="Cadiz"><goles>0</goles></local>
-					<visitante nombre="Barcelona"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="22/09/2021">
-					<local nombre="Levante"><goles>0</goles></local>
-					<visitante nombre="Celta"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="22/09/2021">
-					<local nombre="Espanyol"><goles>1</goles></local>
-					<visitante nombre="Alaves"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="22/09/2021">
-					<local nombre="Athletic"><goles>1</goles></local>
-					<visitante nombre="Rayo"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="21/09/2021">
-					<local nombre="Getafe"><goles>1</goles></local>
-					<visitante nombre="Atletico"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="23/09/2021">
-					<local nombre="Osasuna"><goles>1</goles></local>
-					<visitante nombre="Betis"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="23/09/2021">
-					<local nombre="Granada"><goles>2</goles></local>
-					<visitante nombre="RealSociedad"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="22/09/2021">
-					<local nombre="Sevilla"><goles>3</goles></local>
-					<visitante nombre="Valencia"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="23/09/2021">
-					<local nombre="Villarreal"><goles>4</goles></local>
-					<visitante nombre="Elche"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="22/09/2021">
-					<local nombre="RealMadrid"><goles>6</goles></local>
-					<visitante nombre="Mallorca"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="7">
-			<partidos>
-				<partido fecha="25/09/2021">
-					<local nombre="RealMadrid"><goles>0</goles></local>
-					<visitante nombre="Villarreal"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="26/09/2021">
-					<local nombre="RealSociedad"><goles>1</goles></local>
-					<visitante nombre="Elche"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="25/09/2021">
-					<local nombre="Alaves"><goles>1</goles></local>
-					<visitante nombre="Atletico"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="27/09/2021">
-					<local nombre="Celta"><goles>1</goles></local>
-					<visitante nombre="Granada"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="25/09/2021">
-					<local nombre="Valencia"><goles>1</goles></local>
-					<visitante nombre="Athletic"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="25/09/2021">
-					<local nombre="Sevilla"><goles>2</goles></local>
-					<visitante nombre="Espanyol"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="26/09/2021">
-					<local nombre="Betis"><goles>2</goles></local>
-					<visitante nombre="Getafe"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="26/09/2021">
-					<local nombre="Mallorca"><goles>2</goles></local>
-					<visitante nombre="Osasuna"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="26/09/2021">
-					<local nombre="Barcelona"><goles>3</goles></local>
-					<visitante nombre="Levante"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="26/09/2021">
-					<local nombre="Rayo"><goles>3</goles></local>
-					<visitante nombre="Cadiz"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="8">
-			<partidos>
-				<partido fecha="02/10/2021">
-					<local nombre="Cadiz"><goles>0</goles></local>
-					<visitante nombre="Valencia"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="02/10/2021">
-					<local nombre="Mallorca"><goles>1</goles></local>
-					<visitante nombre="Levante"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="02/10/2021">
-					<local nombre="Osasuna"><goles>1</goles></local>
-					<visitante nombre="Rayo"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="03/10/2021">
-					<local nombre="Elche"><goles>1</goles></local>
-					<visitante nombre="Celta"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="03/10/2021">
-					<local nombre="Granada"><goles>1</goles></local>
-					<visitante nombre="Sevilla"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="01/10/2021">
-					<local nombre="Athletic"><goles>1</goles></local>
-					<visitante nombre="Alaves"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="03/10/2021">
-					<local nombre="Getafe"><goles>1</goles></local>
-					<visitante nombre="RealSociedad"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="02/10/2021">
-					<local nombre="Atletico"><goles>2</goles></local>
-					<visitante nombre="Barcelona"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="03/10/2021">
-					<local nombre="Villarreal"><goles>2</goles></local>
-					<visitante nombre="Betis"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="03/10/2021">
-					<local nombre="Espanyol"><goles>2</goles></local>
-					<visitante nombre="RealMadrid"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="9">
-			<partidos>
-				<partido fecha="16/10/2021">
-					<local nombre="Levante"><goles>0</goles></local>
-					<visitante nombre="Getafe"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="18/10/2021">
-					<local nombre="Alaves"><goles>0</goles></local>
-					<visitante nombre="Betis"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="17/10/2021">
-					<local nombre="Celta"><goles>0</goles></local>
-					<visitante nombre="Sevilla"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="01/12/2021">
-					<local nombre="RealMadrid"><goles>1</goles></local>
-					<visitante nombre="Athletic"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="16/10/2021">
-					<local nombre="RealSociedad"><goles>1</goles></local>
-					<visitante nombre="Mallorca"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="17/10/2021">
-					<local nombre="Villarreal"><goles>1</goles></local>
-					<visitante nombre="Osasuna"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="18/10/2021">
-					<local nombre="Espanyol"><goles>2</goles></local>
-					<visitante nombre="Cadiz"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="17/10/2021">
-					<local nombre="Rayo"><goles>2</goles></local>
-					<visitante nombre="Elche"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="22/12/2021">
-					<local nombre="Granada"><goles>2</goles></local>
-					<visitante nombre="Atletico"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="17/10/2021">
-					<local nombre="Barcelona"><goles>3</goles></local>
-					<visitante nombre="Valencia"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="10">
-			<partidos>
-				<partido fecha="23/10/2021">
-					<local nombre="Cadiz"><goles>0</goles></local>
-					<visitante nombre="Alaves"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="25/10/2021">
-					<local nombre="Getafe"><goles>0</goles></local>
-					<visitante nombre="Celta"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="22/10/2021">
-					<local nombre="Osasuna"><goles>1</goles></local>
-					<visitante nombre="Granada"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="24/10/2021">
-					<local nombre="Barcelona"><goles>1</goles></local>
-					<visitante nombre="RealMadrid"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="23/10/2021">
-					<local nombre="Athletic"><goles>2</goles></local>
-					<visitante nombre="Villarreal"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="24/10/2021">
-					<local nombre="Atletico"><goles>2</goles></local>
-					<visitante nombre="RealSociedad"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="23/10/2021">
-					<local nombre="Valencia"><goles>2</goles></local>
-					<visitante nombre="Mallorca"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="23/10/2021">
-					<local nombre="Elche"><goles>2</goles></local>
-					<visitante nombre="Espanyol"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="24/10/2021">
-					<local nombre="Betis"><goles>3</goles></local>
-					<visitante nombre="Rayo"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="24/10/2021">
-					<local nombre="Sevilla"><goles>5</goles></local>
-					<visitante nombre="Levante"><goles>3</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="11">
-			<partidos>
-				<partido fecha="27/10/2021">
-					<local nombre="RealMadrid"><goles>0</goles></local>
-					<visitante nombre="Osasuna"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="28/10/2021">
-					<local nombre="Celta"><goles>0</goles></local>
-					<visitante nombre="RealSociedad"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="26/10/2021">
-					<local nombre="Alaves"><goles>1</goles></local>
-					<visitante nombre="Elche"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="27/10/2021">
-					<local nombre="Rayo"><goles>1</goles></local>
-					<visitante nombre="Barcelona"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="28/10/2021">
-					<local nombre="Granada"><goles>1</goles></local>
-					<visitante nombre="Getafe"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="26/10/2021">
-					<local nombre="Espanyol"><goles>1</goles></local>
-					<visitante nombre="Athletic"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="27/10/2021">
-					<local nombre="Mallorca"><goles>1</goles></local>
-					<visitante nombre="Sevilla"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="28/10/2021">
-					<local nombre="Levante"><goles>2</goles></local>
-					<visitante nombre="Atletico"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="26/10/2021">
-					<local nombre="Villarreal"><goles>3</goles></local>
-					<visitante nombre="Cadiz"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="27/10/2021">
-					<local nombre="Betis"><goles>4</goles></local>
-					<visitante nombre="Valencia"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="12">
-			<partidos>
-				<partido fecha="01/11/2021">
-					<local nombre="Rayo"><goles>0</goles></local>
-					<visitante nombre="Celta"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="01/11/2021">
-					<local nombre="Levante"><goles>0</goles></local>
-					<visitante nombre="Granada"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="31/10/2021">
-					<local nombre="Cadiz"><goles>1</goles></local>
-					<visitante nombre="Mallorca"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="30/10/2021">
-					<local nombre="Barcelona"><goles>1</goles></local>
-					<visitante nombre="Alaves"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="31/10/2021">
-					<local nombre="RealSociedad"><goles>1</goles></local>
-					<visitante nombre="Athletic"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="30/10/2021">
-					<local nombre="Elche"><goles>1</goles></local>
-					<visitante nombre="RealMadrid"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="30/10/2021">
-					<local nombre="Sevilla"><goles>2</goles></local>
-					<visitante nombre="Osasuna"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="30/10/2021">
-					<local nombre="Valencia"><goles>2</goles></local>
-					<visitante nombre="Villarreal"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="31/10/2021">
-					<local nombre="Getafe"><goles>2</goles></local>
-					<visitante nombre="Espanyol"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="31/10/2021">
-					<local nombre="Atletico"><goles>3</goles></local>
-					<visitante nombre="Betis"><goles>0</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="13">
-			<partidos>
-				<partido fecha="05/11/2021">
-					<local nombre="Athletic"><goles>0</goles></local>
-					<visitante nombre="Cadiz"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="07/11/2021">
-					<local nombre="Betis"><goles>0</goles></local>
-					<visitante nombre="Sevilla"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="07/11/2021">
-					<local nombre="Osasuna"><goles>0</goles></local>
-					<visitante nombre="RealSociedad"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="07/11/2021">
-					<local nombre="Villarreal"><goles>1</goles></local>
-					<visitante nombre="Getafe"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="06/11/2021">
-					<local nombre="Espanyol"><goles>2</goles></local>
-					<visitante nombre="Granada"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="06/11/2021">
-					<local nombre="RealMadrid"><goles>2</goles></local>
-					<visitante nombre="Rayo"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="06/11/2021">
-					<local nombre="Alaves"><goles>2</goles></local>
-					<visitante nombre="Levante"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="07/11/2021">
-					<local nombre="Mallorca"><goles>2</goles></local>
-					<visitante nombre="Elche"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="07/11/2021">
-					<local nombre="Valencia"><goles>3</goles></local>
-					<visitante nombre="Atletico"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="06/11/2021">
-					<local nombre="Celta"><goles>3</goles></local>
-					<visitante nombre="Barcelona"><goles>3</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="14">
-			<partidos>
-				<partido fecha="21/11/2021">
-					<local nombre="RealSociedad"><goles>0</goles></local>
-					<visitante nombre="Valencia"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="19/11/2021">
-					<local nombre="Levante"><goles>0</goles></local>
-					<visitante nombre="Athletic"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="21/11/2021">
-					<local nombre="Elche"><goles>0</goles></local>
-					<visitante nombre="Betis"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="20/11/2021">
-					<local nombre="Atletico"><goles>1</goles></local>
-					<visitante nombre="Osasuna"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="20/11/2021">
-					<local nombre="Barcelona"><goles>1</goles></local>
-					<visitante nombre="Espanyol"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="20/11/2021">
-					<local nombre="Celta"><goles>1</goles></local>
-					<visitante nombre="Villarreal"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="21/11/2021">
-					<local nombre="Granada"><goles>1</goles></local>
-					<visitante nombre="RealMadrid"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="20/11/2021">
-					<local nombre="Sevilla"><goles>2</goles></local>
-					<visitante nombre="Alaves"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="22/11/2021">
-					<local nombre="Rayo"><goles>3</goles></local>
-					<visitante nombre="Mallorca"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="21/11/2021">
-					<local nombre="Getafe"><goles>4</goles></local>
-					<visitante nombre="Cadiz"><goles>0</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="15">
-			<partidos>
-				<partido fecha="27/11/2021">
-					<local nombre="Mallorca"><goles>0</goles></local>
-					<visitante nombre="Getafe"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="28/11/2021">
-					<local nombre="Espanyol"><goles>1</goles></local>
-					<visitante nombre="RealSociedad"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="29/11/2021">
-					<local nombre="Osasuna"><goles>1</goles></local>
-					<visitante nombre="Elche"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="27/11/2021">
-					<local nombre="Valencia"><goles>1</goles></local>
-					<visitante nombre="Rayo"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="27/11/2021">
-					<local nombre="Alaves"><goles>1</goles></local>
-					<visitante nombre="Celta"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="27/11/2021">
-					<local nombre="Villarreal"><goles>1</goles></local>
-					<visitante nombre="Barcelona"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="28/11/2021">
-					<local nombre="Cadiz"><goles>1</goles></local>
-					<visitante nombre="Atletico"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="28/11/2021">
-					<local nombre="RealMadrid"><goles>2</goles></local>
-					<visitante nombre="Sevilla"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="26/11/2021">
-					<local nombre="Athletic"><goles>2</goles></local>
-					<visitante nombre="Granada"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="28/11/2021">
-					<local nombre="Betis"><goles>3</goles></local>
-					<visitante nombre="Levante"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="16">
-			<partidos>
-				<partido fecha="06/12/2021">
-					<local nombre="Getafe"><goles>0</goles></local>
-					<visitante nombre="Athletic"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="05/12/2021">
-					<local nombre="Levante"><goles>0</goles></local>
-					<visitante nombre="Osasuna"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="04/12/2021">
-					<local nombre="Barcelona"><goles>0</goles></local>
-					<visitante nombre="Betis"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="04/12/2021">
-					<local nombre="RealSociedad"><goles>0</goles></local>
-					<visitante nombre="RealMadrid"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="04/12/2021">
-					<local nombre="Sevilla"><goles>1</goles></local>
-					<visitante nombre="Villarreal"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="05/12/2021">
-					<local nombre="Rayo"><goles>1</goles></local>
-					<visitante nombre="Espanyol"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="04/12/2021">
-					<local nombre="Atletico"><goles>1</goles></local>
-					<visitante nombre="Mallorca"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="05/12/2021">
-					<local nombre="Celta"><goles>1</goles></local>
-					<visitante nombre="Valencia"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="03/12/2021">
-					<local nombre="Granada"><goles>2</goles></local>
-					<visitante nombre="Alaves"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="05/12/2021">
-					<local nombre="Elche"><goles>3</goles></local>
-					<visitante nombre="Cadiz"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="17">
-			<partidos>
-				<partido fecha="10/12/2021">
-					<local nombre="Mallorca"><goles>0</goles></local>
-					<visitante nombre="Celta"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="11/12/2021">
-					<local nombre="Athletic"><goles>0</goles></local>
-					<visitante nombre="Sevilla"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="11/12/2021">
-					<local nombre="Alaves"><goles>1</goles></local>
-					<visitante nombre="Getafe"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="13/12/2021">
-					<local nombre="Cadiz"><goles>1</goles></local>
-					<visitante nombre="Granada"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="12/12/2021">
-					<local nombre="RealMadrid"><goles>2</goles></local>
-					<visitante nombre="Atletico"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="12/12/2021">
-					<local nombre="Villarreal"><goles>2</goles></local>
-					<visitante nombre="Rayo"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="11/12/2021">
-					<local nombre="Valencia"><goles>2</goles></local>
-					<visitante nombre="Elche"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="12/12/2021">
-					<local nombre="Osasuna"><goles>2</goles></local>
-					<visitante nombre="Barcelona"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="12/12/2021">
-					<local nombre="Betis"><goles>4</goles></local>
-					<visitante nombre="RealSociedad"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="11/12/2021">
-					<local nombre="Espanyol"><goles>4</goles></local>
-					<visitante nombre="Levante"><goles>3</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="18">
-			<partidos>
-				<partido fecha="19/12/2021">
-					<local nombre="RealMadrid"><goles>0</goles></local>
-					<visitante nombre="Cadiz"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="19/12/2021">
-					<local nombre="Getafe"><goles>1</goles></local>
-					<visitante nombre="Osasuna"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="18/12/2021">
-					<local nombre="RealSociedad"><goles>1</goles></local>
-					<visitante nombre="Villarreal"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="18/12/2021">
-					<local nombre="Rayo"><goles>2</goles></local>
-					<visitante nombre="Alaves"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="18/12/2021">
-					<local nombre="Sevilla"><goles>2</goles></local>
-					<visitante nombre="Atletico"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="17/12/2021">
-					<local nombre="Celta"><goles>3</goles></local>
-					<visitante nombre="Espanyol"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="18/12/2021">
-					<local nombre="Barcelona"><goles>3</goles></local>
-					<visitante nombre="Elche"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="19/12/2021">
-					<local nombre="Athletic"><goles>3</goles></local>
-					<visitante nombre="Betis"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="20/12/2021">
-					<local nombre="Levante"><goles>3</goles></local>
-					<visitante nombre="Valencia"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="19/12/2021">
-					<local nombre="Granada"><goles>4</goles></local>
-					<visitante nombre="Mallorca"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="19">
-			<partidos>
-				<partido fecha="02/01/2022">
-					<local nombre="Elche"><goles>0</goles></local>
-					<visitante nombre="Granada"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="02/01/2022">
-					<local nombre="Mallorca"><goles>0</goles></local>
-					<visitante nombre="Barcelona"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="03/01/2022">
-					<local nombre="Cadiz"><goles>0</goles></local>
-					<visitante nombre="Sevilla"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="02/01/2022">
-					<local nombre="Betis"><goles>0</goles></local>
-					<visitante nombre="Celta"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="02/01/2022">
-					<local nombre="Getafe"><goles>1</goles></local>
-					<visitante nombre="RealMadrid"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="02/01/2022">
-					<local nombre="Alaves"><goles>1</goles></local>
-					<visitante nombre="RealSociedad"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="31/12/2021">
-					<local nombre="Valencia"><goles>1</goles></local>
-					<visitante nombre="Espanyol"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="03/01/2022">
-					<local nombre="Osasuna"><goles>1</goles></local>
-					<visitante nombre="Athletic"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="02/01/2022">
-					<local nombre="Atletico"><goles>2</goles></local>
-					<visitante nombre="Rayo"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="03/01/2022">
-					<local nombre="Villarreal"><goles>5</goles></local>
-					<visitante nombre="Levante"><goles>0</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="20">
-			<partidos>
-				<partido fecha="09/01/2022">
-					<local nombre="Alaves"><goles>0</goles></local>
-					<visitante nombre="Athletic"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="08/01/2022">
-					<local nombre="RealSociedad"><goles>1</goles></local>
-					<visitante nombre="Celta"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="09/01/2022">
-					<local nombre="Sevilla"><goles>1</goles></local>
-					<visitante nombre="Getafe"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="08/01/2022">
-					<local nombre="Granada"><goles>1</goles></local>
-					<visitante nombre="Barcelona"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="09/01/2022">
-					<local nombre="Rayo"><goles>1</goles></local>
-					<visitante nombre="Betis"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="10/01/2022">
-					<local nombre="Espanyol"><goles>1</goles></local>
-					<visitante nombre="Elche"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="09/01/2022">
-					<local nombre="Osasuna"><goles>2</goles></local>
-					<visitante nombre="Cadiz"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="08/01/2022">
-					<local nombre="Levante"><goles>2</goles></local>
-					<visitante nombre="Mallorca"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="09/01/2022">
-					<local nombre="Villarreal"><goles>2</goles></local>
-					<visitante nombre="Atletico"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="08/01/2022">
-					<local nombre="RealMadrid"><goles>4</goles></local>
-					<visitante nombre="Valencia"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="21">
-			<partidos>
-				<partido fecha="16/02/2022">
-					<local nombre="Atletico"><goles>0</goles></local>
-					<visitante nombre="Levante"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="24/04/2022">
-					<local nombre="Barcelona"><goles>0</goles></local>
-					<visitante nombre="Rayo"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="02/03/2022">
-					<local nombre="Mallorca"><goles>0</goles></local>
-					<visitante nombre="RealSociedad"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="16/01/2022">
-					<local nombre="Elche"><goles>1</goles></local>
-					<visitante nombre="Villarreal"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="19/01/2022">
-					<local nombre="Valencia"><goles>1</goles></local>
-					<visitante nombre="Sevilla"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="22/12/2021">
-					<local nombre="Athletic"><goles>1</goles></local>
-					<visitante nombre="RealMadrid"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="19/01/2022">
-					<local nombre="Celta"><goles>2</goles></local>
-					<visitante nombre="Osasuna"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="18/01/2022">
-					<local nombre="Cadiz"><goles>2</goles></local>
-					<visitante nombre="Espanyol"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="18/01/2022">
-					<local nombre="Betis"><goles>4</goles></local>
-					<visitante nombre="Alaves"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="20/01/2022">
-					<local nombre="Getafe"><goles>4</goles></local>
-					<visitante nombre="Granada"><goles>2</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="22">
-			<partidos>
-				<partido fecha="23/01/2022">
-					<local nombre="RealSociedad"><goles>0</goles></local>
-					<visitante nombre="Getafe"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="23/01/2022">
-					<local nombre="Rayo"><goles>0</goles></local>
-					<visitante nombre="Athletic"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="23/01/2022">
-					<local nombre="Alaves"><goles>0</goles></local>
-					<visitante nombre="Barcelona"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="23/01/2022">
-					<local nombre="Granada"><goles>0</goles></local>
-					<visitante nombre="Osasuna"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="22/01/2022">
-					<local nombre="Levante"><goles>0</goles></local>
-					<visitante nombre="Cadiz"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="21/01/2022">
-					<local nombre="Espanyol"><goles>1</goles></local>
-					<visitante nombre="Betis"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="22/01/2022">
-					<local nombre="Sevilla"><goles>2</goles></local>
-					<visitante nombre="Celta"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="23/01/2022">
-					<local nombre="RealMadrid"><goles>2</goles></local>
-					<visitante nombre="Elche"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="22/01/2022">
-					<local nombre="Villarreal"><goles>3</goles></local>
-					<visitante nombre="Mallorca"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="22/01/2022">
-					<local nombre="Atletico"><goles>3</goles></local>
-					<visitante nombre="Valencia"><goles>2</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="23">
-			<partidos>
-				<partido fecha="06/02/2022">
-					<local nombre="Valencia"><goles>0</goles></local>
-					<visitante nombre="RealSociedad"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="05/02/2022">
-					<local nombre="Osasuna"><goles>0</goles></local>
-					<visitante nombre="Sevilla"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="06/02/2022">
-					<local nombre="Betis"><goles>0</goles></local>
-					<visitante nombre="Villarreal"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="06/02/2022">
-					<local nombre="RealMadrid"><goles>1</goles></local>
-					<visitante nombre="Granada"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="05/02/2022">
-					<local nombre="Celta"><goles>2</goles></local>
-					<visitante nombre="Rayo"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="05/02/2022">
-					<local nombre="Mallorca"><goles>2</goles></local>
-					<visitante nombre="Cadiz"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="07/02/2022">
-					<local nombre="Athletic"><goles>2</goles></local>
-					<visitante nombre="Espanyol"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="04/02/2022">
-					<local nombre="Getafe"><goles>3</goles></local>
-					<visitante nombre="Levante"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="05/02/2022">
-					<local nombre="Elche"><goles>3</goles></local>
-					<visitante nombre="Alaves"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="06/02/2022">
-					<local nombre="Barcelona"><goles>4</goles></local>
-					<visitante nombre="Atletico"><goles>2</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="24">
-			<partidos>
-				<partido fecha="12/02/2022">
-					<local nombre="Villarreal"><goles>0</goles></local>
-					<visitante nombre="RealMadrid"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="12/02/2022">
-					<local nombre="Cadiz"><goles>0</goles></local>
-					<visitante nombre="Celta"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="12/02/2022">
-					<local nombre="Rayo"><goles>0</goles></local>
-					<visitante nombre="Osasuna"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="13/02/2022">
-					<local nombre="RealSociedad"><goles>2</goles></local>
-					<visitante nombre="Granada"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="11/02/2022">
-					<local nombre="Sevilla"><goles>2</goles></local>
-					<visitante nombre="Elche"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="13/02/2022">
-					<local nombre="Alaves"><goles>2</goles></local>
-					<visitante nombre="Valencia"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="13/02/2022">
-					<local nombre="Espanyol"><goles>2</goles></local>
-					<visitante nombre="Barcelona"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="13/02/2022">
-					<local nombre="Levante"><goles>2</goles></local>
-					<visitante nombre="Betis"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="14/02/2022">
-					<local nombre="Mallorca"><goles>3</goles></local>
-					<visitante nombre="Athletic"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="12/02/2022">
-					<local nombre="Atletico"><goles>4</goles></local>
-					<visitante nombre="Getafe"><goles>3</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="25">
-			<partidos>
-				<partido fecha="19/02/2022">
-					<local nombre="Osasuna"><goles>0</goles></local>
-					<visitante nombre="Atletico"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="21/02/2022">
-					<local nombre="Celta"><goles>1</goles></local>
-					<visitante nombre="Levante"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="20/02/2022">
-					<local nombre="Espanyol"><goles>1</goles></local>
-					<visitante nombre="Sevilla"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="19/02/2022">
-					<local nombre="Cadiz"><goles>1</goles></local>
-					<visitante nombre="Getafe"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="19/02/2022">
-					<local nombre="Granada"><goles>1</goles></local>
-					<visitante nombre="Villarreal"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="20/02/2022">
-					<local nombre="Valencia"><goles>1</goles></local>
-					<visitante nombre="Barcelona"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="18/02/2022">
-					<local nombre="Elche"><goles>2</goles></local>
-					<visitante nombre="Rayo"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="20/02/2022">
-					<local nombre="Betis"><goles>2</goles></local>
-					<visitante nombre="Mallorca"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="19/02/2022">
-					<local nombre="RealMadrid"><goles>3</goles></local>
-					<visitante nombre="Alaves"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="20/02/2022">
-					<local nombre="Athletic"><goles>4</goles></local>
-					<visitante nombre="RealSociedad"><goles>0</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="26">
-			<partidos>
-				<partido fecha="28/02/2022">
-					<local nombre="Granada"><goles>0</goles></local>
-					<visitante nombre="Cadiz"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="26/02/2022">
-					<local nombre="Rayo"><goles>0</goles></local>
-					<visitante nombre="RealMadrid"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="26/02/2022">
-					<local nombre="Mallorca"><goles>0</goles></local>
-					<visitante nombre="Valencia"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="27/02/2022">
-					<local nombre="RealSociedad"><goles>1</goles></local>
-					<visitante nombre="Osasuna"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="26/02/2022">
-					<local nombre="Atletico"><goles>2</goles></local>
-					<visitante nombre="Celta"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="27/02/2022">
-					<local nombre="Sevilla"><goles>2</goles></local>
-					<visitante nombre="Betis"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="26/02/2022">
-					<local nombre="Getafe"><goles>2</goles></local>
-					<visitante nombre="Alaves"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="25/02/2022">
-					<local nombre="Levante"><goles>3</goles></local>
-					<visitante nombre="Elche"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="27/02/2022">
-					<local nombre="Barcelona"><goles>4</goles></local>
-					<visitante nombre="Athletic"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="27/02/2022">
-					<local nombre="Villarreal"><goles>5</goles></local>
-					<visitante nombre="Espanyol"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="27">
-			<partidos>
-				<partido fecha="04/03/2022">
-					<local nombre="Alaves"><goles>0</goles></local>
-					<visitante nombre="Sevilla"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="05/03/2022">
-					<local nombre="Osasuna"><goles>1</goles></local>
-					<visitante nombre="Villarreal"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="06/03/2022">
-					<local nombre="Elche"><goles>1</goles></local>
-					<visitante nombre="Barcelona"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="06/03/2022">
-					<local nombre="Betis"><goles>1</goles></local>
-					<visitante nombre="Atletico"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="06/03/2022">
-					<local nombre="Cadiz"><goles>2</goles></local>
-					<visitante nombre="Rayo"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="05/03/2022">
-					<local nombre="Espanyol"><goles>2</goles></local>
-					<visitante nombre="Getafe"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="05/03/2022">
-					<local nombre="Valencia"><goles>3</goles></local>
-					<visitante nombre="Granada"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="07/03/2022">
-					<local nombre="Athletic"><goles>3</goles></local>
-					<visitante nombre="Levante"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="05/03/2022">
-					<local nombre="RealMadrid"><goles>4</goles></local>
-					<visitante nombre="RealSociedad"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="06/03/2022">
-					<local nombre="Celta"><goles>4</goles></local>
-					<visitante nombre="Mallorca"><goles>3</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="28">
-			<partidos>
-				<partido fecha="12/03/2022">
-					<local nombre="Getafe"><goles>0</goles></local>
-					<visitante nombre="Valencia"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="12/03/2022">
-					<local nombre="Granada"><goles>0</goles></local>
-					<visitante nombre="Elche"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="14/03/2022">
-					<local nombre="Mallorca"><goles>0</goles></local>
-					<visitante nombre="RealMadrid"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="13/03/2022">
-					<local nombre="Betis"><goles>1</goles></local>
-					<visitante nombre="Athletic"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="12/03/2022">
-					<local nombre="Villarreal"><goles>1</goles></local>
-					<visitante nombre="Celta"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="13/03/2022">
-					<local nombre="RealSociedad"><goles>1</goles></local>
-					<visitante nombre="Alaves"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="12/03/2022">
-					<local nombre="Levante"><goles>1</goles></local>
-					<visitante nombre="Espanyol"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="13/03/2022">
-					<local nombre="Rayo"><goles>1</goles></local>
-					<visitante nombre="Sevilla"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="11/03/2022">
-					<local nombre="Atletico"><goles>2</goles></local>
-					<visitante nombre="Cadiz"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="13/03/2022">
-					<local nombre="Barcelona"><goles>4</goles></local>
-					<visitante nombre="Osasuna"><goles>0</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="29">
-			<partidos>
-				<partido fecha="20/03/2022">
-					<local nombre="Celta"><goles>0</goles></local>
-					<visitante nombre="Betis"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="20/03/2022">
-					<local nombre="Sevilla"><goles>0</goles></local>
-					<visitante nombre="RealSociedad"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="19/03/2022">
-					<local nombre="Rayo"><goles>0</goles></local>
-					<visitante nombre="Atletico"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="19/03/2022">
-					<local nombre="Elche"><goles>0</goles></local>
-					<visitante nombre="Valencia"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="20/03/2022">
-					<local nombre="RealMadrid"><goles>0</goles></local>
-					<visitante nombre="Barcelona"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="20/03/2022">
-					<local nombre="Cadiz"><goles>1</goles></local>
-					<visitante nombre="Villarreal"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="20/03/2022">
-					<local nombre="Espanyol"><goles>1</goles></local>
-					<visitante nombre="Mallorca"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="18/03/2022">
-					<local nombre="Athletic"><goles>1</goles></local>
-					<visitante nombre="Getafe"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="19/03/2022">
-					<local nombre="Alaves"><goles>2</goles></local>
-					<visitante nombre="Granada"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="19/03/2022">
-					<local nombre="Osasuna"><goles>3</goles></local>
-					<visitante nombre="Levante"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="30">
-			<partidos>
-				<partido fecha="03/04/2022">
-					<local nombre="Valencia"><goles>0</goles></local>
-					<visitante nombre="Cadiz"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="03/04/2022">
-					<local nombre="Barcelona"><goles>1</goles></local>
-					<visitante nombre="Sevilla"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="02/04/2022">
-					<local nombre="Getafe"><goles>1</goles></local>
-					<visitante nombre="Mallorca"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="04/04/2022">
-					<local nombre="RealSociedad"><goles>1</goles></local>
-					<visitante nombre="Espanyol"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="02/04/2022">
-					<local nombre="Celta"><goles>1</goles></local>
-					<visitante nombre="RealMadrid"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="02/04/2022">
-					<local nombre="Levante"><goles>2</goles></local>
-					<visitante nombre="Villarreal"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="03/04/2022">
-					<local nombre="Athletic"><goles>2</goles></local>
-					<visitante nombre="Elche"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="03/04/2022">
-					<local nombre="Granada"><goles>2</goles></local>
-					<visitante nombre="Rayo"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="02/04/2022">
-					<local nombre="Atletico"><goles>4</goles></local>
-					<visitante nombre="Alaves"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="03/04/2022">
-					<local nombre="Betis"><goles>4</goles></local>
-					<visitante nombre="Osasuna"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="31">
-			<partidos>
-				<partido fecha="10/04/2022">
-					<local nombre="Osasuna"><goles>1</goles></local>
-					<visitante nombre="Alaves"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="10/04/2022">
-					<local nombre="Espanyol"><goles>1</goles></local>
-					<visitante nombre="Celta"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="09/04/2022">
-					<local nombre="Mallorca"><goles>1</goles></local>
-					<visitante nombre="Atletico"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="10/04/2022">
-					<local nombre="Rayo"><goles>1</goles></local>
-					<visitante nombre="Valencia"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="09/04/2022">
-					<local nombre="Villarreal"><goles>1</goles></local>
-					<visitante nombre="Athletic"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="10/04/2022">
-					<local nombre="Elche"><goles>1</goles></local>
-					<visitante nombre="RealSociedad"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="09/04/2022">
-					<local nombre="Cadiz"><goles>1</goles></local>
-					<visitante nombre="Betis"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="09/04/2022">
-					<local nombre="RealMadrid"><goles>2</goles></local>
-					<visitante nombre="Getafe"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="10/04/2022">
-					<local nombre="Levante"><goles>2</goles></local>
-					<visitante nombre="Barcelona"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="08/04/2022">
-					<local nombre="Sevilla"><goles>4</goles></local>
-					<visitante nombre="Granada"><goles>2</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-		<jornada numero="32">
-			<partidos>
-				<partido fecha="15/04/2022">
-					<local nombre="RealSociedad"><goles>0</goles></local>
-					<visitante nombre="Betis"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="16/04/2022">
-					<local nombre="Elche"><goles>3</goles></local>
-					<visitante nombre="Mallorca"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="16/04/2022">
-					<local nombre="Alaves"><goles>1</goles></local>
-					<visitante nombre="Rayo"><goles>0</goles></visitante>
-				</partido>
-				<partido fecha="16/04/2022">
-					<local nombre="Valencia"><goles>1</goles></local>
-					<visitante nombre="Osasuna"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="16/04/2022">
-					<local nombre="Getafe"><goles>1</goles></local>
-					<visitante nombre="Villarreal"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="17/04/2022">
-					<local nombre="Granada"><goles>1</goles></local>
-					<visitante nombre="Levante"><goles>4</goles></visitante>
-				</partido>
-				<partido fecha="17/04/2022">
-					<local nombre="Atletico"><goles>2</goles></local>
-					<visitante nombre="Espanyol"><goles>1</goles></visitante>
-				</partido>
-				<partido fecha="17/04/2022">
-					<local nombre="Athletic"><goles>0</goles></local>
-					<visitante nombre="Celta"><goles>2</goles></visitante>
-				</partido>
-				<partido fecha="17/04/2022">
-					<local nombre="Sevilla"><goles>2</goles></local>
-					<visitante nombre="RealMadrid"><goles>3</goles></visitante>
-				</partido>
-				<partido fecha="18/04/2022">
-					<local nombre="Barcelona"><goles>0</goles></local>
-					<visitante nombre="Cadiz"><goles>1</goles></visitante>
-				</partido>
-			</partidos>
-		</jornada>
-	</jornadas>
+  <equipos>
+    <equipo nombre="RealSociedad" id-escudo="188" />
+    <equipo nombre="Betis"        id-escudo="185" />
+    <equipo nombre="Elche"        id-escudo="954" />
+    <equipo nombre="Mallorca"     id-escudo="181" />
+    <equipo nombre="Alaves"       id-escudo="173" />
+    <equipo nombre="Rayo"         id-escudo="184" />
+    <equipo nombre="Valencia"     id-escudo="191" />
+    <equipo nombre="Osasuna"      id-escudo="450" />
+    <equipo nombre="Getafe"       id-escudo="450" />
+    <equipo nombre="Villarreal"   id-escudo="449" />
+    <equipo nombre="Granada"      id-escudo="5683" />
+    <equipo nombre="Levante"      id-escudo="855" />
+    <equipo nombre="Atletico"     id-escudo="175" />
+    <equipo nombre="Espanyol"     id-escudo="177" />
+    <equipo nombre="Athletic"     id-escudo="174" />
+    <equipo nombre="Celta"        id-escudo="176" />
+    <equipo nombre="Sevilla"      id-escudo="179" />
+    <equipo nombre="RealMadrid"   id-escudo="186" />
+    <equipo nombre="Barcelona"    id-escudo="178" />
+    <equipo nombre="Cadiz"        id-escudo="1737" />
+  </equipos>
+  <jornadas>
+    <jornada numero="1">
+      <partidos>
+        <partido fecha="14/08/2021">
+          <local nombre="Osasuna"><goles>0</goles></local>
+          <visitante nombre="Espanyol"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="16/08/2021">
+          <local nombre="Elche"><goles>0</goles></local>
+          <visitante nombre="Athletic"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="16/08/2021">
+          <local nombre="Villarreal"><goles>0</goles></local>
+          <visitante nombre="Granada"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="13/08/2021">
+          <local nombre="Valencia"><goles>1</goles></local>
+          <visitante nombre="Getafe"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="14/08/2021">
+          <local nombre="Cadiz"><goles>1</goles></local>
+          <visitante nombre="Levante"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="14/08/2021">
+          <local nombre="Mallorca"><goles>1</goles></local>
+          <visitante nombre="Betis"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="15/08/2021">
+          <local nombre="Celta"><goles>1</goles></local>
+          <visitante nombre="Atletico"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="14/08/2021">
+          <local nombre="Alaves"><goles>1</goles></local>
+          <visitante nombre="RealMadrid"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="15/08/2021">
+          <local nombre="Sevilla"><goles>3</goles></local>
+          <visitante nombre="Rayo"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="15/08/2021">
+          <local nombre="Barcelona"><goles>4</goles></local>
+          <visitante nombre="RealSociedad"><goles>2</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="2">
+      <partidos>
+        <partido fecha="23/08/2021">
+          <local nombre="Osasuna"><goles>0</goles></local>
+          <visitante nombre="Celta"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="21/08/2021">
+          <local nombre="Espanyol"><goles>0</goles></local>
+          <visitante nombre="Villarreal"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="21/08/2021">
+          <local nombre="Alaves"><goles>0</goles></local>
+          <visitante nombre="Mallorca"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="23/08/2021">
+          <local nombre="Getafe"><goles>0</goles></local>
+          <visitante nombre="Sevilla"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="22/08/2021">
+          <local nombre="Atletico"><goles>1</goles></local>
+          <visitante nombre="Elche"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="22/08/2021">
+          <local nombre="RealSociedad"><goles>1</goles></local>
+          <visitante nombre="Rayo"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="21/08/2021">
+          <local nombre="Athletic"><goles>1</goles></local>
+          <visitante nombre="Barcelona"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="21/08/2021">
+          <local nombre="Granada"><goles>1</goles></local>
+          <visitante nombre="Valencia"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="20/08/2021">
+          <local nombre="Betis"><goles>1</goles></local>
+          <visitante nombre="Cadiz"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="22/08/2021">
+          <local nombre="Levante"><goles>3</goles></local>
+          <visitante nombre="RealMadrid"><goles>3</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="3">
+      <partidos>
+        <partido fecha="28/08/2021">
+          <local nombre="Celta"><goles>0</goles></local>
+          <visitante nombre="Athletic"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="28/08/2021">
+          <local nombre="Betis"><goles>0</goles></local>
+          <visitante nombre="RealMadrid"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="27/08/2021">
+          <local nombre="Mallorca"><goles>1</goles></local>
+          <visitante nombre="Espanyol"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="28/08/2021">
+          <local nombre="RealSociedad"><goles>1</goles></local>
+          <visitante nombre="Levante"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="28/08/2021">
+          <local nombre="Elche"><goles>1</goles></local>
+          <visitante nombre="Sevilla"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="29/08/2021">
+          <local nombre="Barcelona"><goles>2</goles></local>
+          <visitante nombre="Getafe"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="29/08/2021">
+          <local nombre="Atletico"><goles>2</goles></local>
+          <visitante nombre="Villarreal"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="29/08/2021">
+          <local nombre="Cadiz"><goles>2</goles></local>
+          <visitante nombre="Osasuna"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="27/08/2021">
+          <local nombre="Valencia"><goles>3</goles></local>
+          <visitante nombre="Alaves"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="29/08/2021">
+          <local nombre="Rayo"><goles>4</goles></local>
+          <visitante nombre="Granada"><goles>0</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="4">
+      <partidos>
+        <partido fecha="13/09/2021">
+          <local nombre="Getafe"><goles>0</goles></local>
+          <visitante nombre="Elche"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="12/09/2021">
+          <local nombre="Cadiz"><goles>0</goles></local>
+          <visitante nombre="RealSociedad"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="11/09/2021">
+          <local nombre="Levante"><goles>1</goles></local>
+          <visitante nombre="Rayo"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="21/12/2021">
+          <local nombre="Sevilla"><goles>1</goles></local>
+          <visitante nombre="Barcelona"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="14/09/2021">
+          <local nombre="Granada"><goles>1</goles></local>
+          <visitante nombre="Betis"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="12/09/2021">
+          <local nombre="Espanyol"><goles>1</goles></local>
+          <visitante nombre="Atletico"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="12/09/2021">
+          <local nombre="Osasuna"><goles>1</goles></local>
+          <visitante nombre="Valencia"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="11/09/2021">
+          <local nombre="Athletic"><goles>2</goles></local>
+          <visitante nombre="Mallorca"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="21/12/2021">
+          <local nombre="Villarreal"><goles>5</goles></local>
+          <visitante nombre="Alaves"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="12/09/2021">
+          <local nombre="RealMadrid"><goles>5</goles></local>
+          <visitante nombre="Celta"><goles>2</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="5">
+      <partidos>
+        <partido fecha="18/09/2021">
+          <local nombre="Atletico"><goles>0</goles></local>
+          <visitante nombre="Athletic"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="19/09/2021">
+          <local nombre="Mallorca"><goles>0</goles></local>
+          <visitante nombre="Villarreal"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="19/09/2021">
+          <local nombre="RealSociedad"><goles>0</goles></local>
+          <visitante nombre="Sevilla"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="18/09/2021">
+          <local nombre="Alaves"><goles>0</goles></local>
+          <visitante nombre="Osasuna"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="18/09/2021">
+          <local nombre="Elche"><goles>1</goles></local>
+          <visitante nombre="Levante"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="20/09/2021">
+          <local nombre="Barcelona"><goles>1</goles></local>
+          <visitante nombre="Granada"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="19/09/2021">
+          <local nombre="Valencia"><goles>1</goles></local>
+          <visitante nombre="RealMadrid"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="17/09/2021">
+          <local nombre="Celta"><goles>1</goles></local>
+          <visitante nombre="Cadiz"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="19/09/2021">
+          <local nombre="Betis"><goles>2</goles></local>
+          <visitante nombre="Espanyol"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="18/09/2021">
+          <local nombre="Rayo"><goles>3</goles></local>
+          <visitante nombre="Getafe"><goles>0</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="6">
+      <partidos>
+        <partido fecha="23/09/2021">
+          <local nombre="Cadiz"><goles>0</goles></local>
+          <visitante nombre="Barcelona"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="22/09/2021">
+          <local nombre="Levante"><goles>0</goles></local>
+          <visitante nombre="Celta"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="22/09/2021">
+          <local nombre="Espanyol"><goles>1</goles></local>
+          <visitante nombre="Alaves"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="22/09/2021">
+          <local nombre="Athletic"><goles>1</goles></local>
+          <visitante nombre="Rayo"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="21/09/2021">
+          <local nombre="Getafe"><goles>1</goles></local>
+          <visitante nombre="Atletico"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="23/09/2021">
+          <local nombre="Osasuna"><goles>1</goles></local>
+          <visitante nombre="Betis"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="23/09/2021">
+          <local nombre="Granada"><goles>2</goles></local>
+          <visitante nombre="RealSociedad"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="22/09/2021">
+          <local nombre="Sevilla"><goles>3</goles></local>
+          <visitante nombre="Valencia"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="23/09/2021">
+          <local nombre="Villarreal"><goles>4</goles></local>
+          <visitante nombre="Elche"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="22/09/2021">
+          <local nombre="RealMadrid"><goles>6</goles></local>
+          <visitante nombre="Mallorca"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="7">
+      <partidos>
+        <partido fecha="25/09/2021">
+          <local nombre="RealMadrid"><goles>0</goles></local>
+          <visitante nombre="Villarreal"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="26/09/2021">
+          <local nombre="RealSociedad"><goles>1</goles></local>
+          <visitante nombre="Elche"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="25/09/2021">
+          <local nombre="Alaves"><goles>1</goles></local>
+          <visitante nombre="Atletico"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="27/09/2021">
+          <local nombre="Celta"><goles>1</goles></local>
+          <visitante nombre="Granada"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="25/09/2021">
+          <local nombre="Valencia"><goles>1</goles></local>
+          <visitante nombre="Athletic"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="25/09/2021">
+          <local nombre="Sevilla"><goles>2</goles></local>
+          <visitante nombre="Espanyol"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="26/09/2021">
+          <local nombre="Betis"><goles>2</goles></local>
+          <visitante nombre="Getafe"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="26/09/2021">
+          <local nombre="Mallorca"><goles>2</goles></local>
+          <visitante nombre="Osasuna"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="26/09/2021">
+          <local nombre="Barcelona"><goles>3</goles></local>
+          <visitante nombre="Levante"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="26/09/2021">
+          <local nombre="Rayo"><goles>3</goles></local>
+          <visitante nombre="Cadiz"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="8">
+      <partidos>
+        <partido fecha="02/10/2021">
+          <local nombre="Cadiz"><goles>0</goles></local>
+          <visitante nombre="Valencia"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="02/10/2021">
+          <local nombre="Mallorca"><goles>1</goles></local>
+          <visitante nombre="Levante"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="02/10/2021">
+          <local nombre="Osasuna"><goles>1</goles></local>
+          <visitante nombre="Rayo"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="03/10/2021">
+          <local nombre="Elche"><goles>1</goles></local>
+          <visitante nombre="Celta"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="03/10/2021">
+          <local nombre="Granada"><goles>1</goles></local>
+          <visitante nombre="Sevilla"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="01/10/2021">
+          <local nombre="Athletic"><goles>1</goles></local>
+          <visitante nombre="Alaves"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="03/10/2021">
+          <local nombre="Getafe"><goles>1</goles></local>
+          <visitante nombre="RealSociedad"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="02/10/2021">
+          <local nombre="Atletico"><goles>2</goles></local>
+          <visitante nombre="Barcelona"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="03/10/2021">
+          <local nombre="Villarreal"><goles>2</goles></local>
+          <visitante nombre="Betis"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="03/10/2021">
+          <local nombre="Espanyol"><goles>2</goles></local>
+          <visitante nombre="RealMadrid"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="9">
+      <partidos>
+        <partido fecha="16/10/2021">
+          <local nombre="Levante"><goles>0</goles></local>
+          <visitante nombre="Getafe"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="18/10/2021">
+          <local nombre="Alaves"><goles>0</goles></local>
+          <visitante nombre="Betis"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="17/10/2021">
+          <local nombre="Celta"><goles>0</goles></local>
+          <visitante nombre="Sevilla"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="01/12/2021">
+          <local nombre="RealMadrid"><goles>1</goles></local>
+          <visitante nombre="Athletic"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="16/10/2021">
+          <local nombre="RealSociedad"><goles>1</goles></local>
+          <visitante nombre="Mallorca"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="17/10/2021">
+          <local nombre="Villarreal"><goles>1</goles></local>
+          <visitante nombre="Osasuna"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="18/10/2021">
+          <local nombre="Espanyol"><goles>2</goles></local>
+          <visitante nombre="Cadiz"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="17/10/2021">
+          <local nombre="Rayo"><goles>2</goles></local>
+          <visitante nombre="Elche"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="22/12/2021">
+          <local nombre="Granada"><goles>2</goles></local>
+          <visitante nombre="Atletico"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="17/10/2021">
+          <local nombre="Barcelona"><goles>3</goles></local>
+          <visitante nombre="Valencia"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="10">
+      <partidos>
+        <partido fecha="23/10/2021">
+          <local nombre="Cadiz"><goles>0</goles></local>
+          <visitante nombre="Alaves"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="25/10/2021">
+          <local nombre="Getafe"><goles>0</goles></local>
+          <visitante nombre="Celta"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="22/10/2021">
+          <local nombre="Osasuna"><goles>1</goles></local>
+          <visitante nombre="Granada"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="24/10/2021">
+          <local nombre="Barcelona"><goles>1</goles></local>
+          <visitante nombre="RealMadrid"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="23/10/2021">
+          <local nombre="Athletic"><goles>2</goles></local>
+          <visitante nombre="Villarreal"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="24/10/2021">
+          <local nombre="Atletico"><goles>2</goles></local>
+          <visitante nombre="RealSociedad"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="23/10/2021">
+          <local nombre="Valencia"><goles>2</goles></local>
+          <visitante nombre="Mallorca"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="23/10/2021">
+          <local nombre="Elche"><goles>2</goles></local>
+          <visitante nombre="Espanyol"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="24/10/2021">
+          <local nombre="Betis"><goles>3</goles></local>
+          <visitante nombre="Rayo"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="24/10/2021">
+          <local nombre="Sevilla"><goles>5</goles></local>
+          <visitante nombre="Levante"><goles>3</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="11">
+      <partidos>
+        <partido fecha="27/10/2021">
+          <local nombre="RealMadrid"><goles>0</goles></local>
+          <visitante nombre="Osasuna"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="28/10/2021">
+          <local nombre="Celta"><goles>0</goles></local>
+          <visitante nombre="RealSociedad"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="26/10/2021">
+          <local nombre="Alaves"><goles>1</goles></local>
+          <visitante nombre="Elche"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="27/10/2021">
+          <local nombre="Rayo"><goles>1</goles></local>
+          <visitante nombre="Barcelona"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="28/10/2021">
+          <local nombre="Granada"><goles>1</goles></local>
+          <visitante nombre="Getafe"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="26/10/2021">
+          <local nombre="Espanyol"><goles>1</goles></local>
+          <visitante nombre="Athletic"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="27/10/2021">
+          <local nombre="Mallorca"><goles>1</goles></local>
+          <visitante nombre="Sevilla"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="28/10/2021">
+          <local nombre="Levante"><goles>2</goles></local>
+          <visitante nombre="Atletico"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="26/10/2021">
+          <local nombre="Villarreal"><goles>3</goles></local>
+          <visitante nombre="Cadiz"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="27/10/2021">
+          <local nombre="Betis"><goles>4</goles></local>
+          <visitante nombre="Valencia"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="12">
+      <partidos>
+        <partido fecha="01/11/2021">
+          <local nombre="Rayo"><goles>0</goles></local>
+          <visitante nombre="Celta"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="01/11/2021">
+          <local nombre="Levante"><goles>0</goles></local>
+          <visitante nombre="Granada"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="31/10/2021">
+          <local nombre="Cadiz"><goles>1</goles></local>
+          <visitante nombre="Mallorca"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="30/10/2021">
+          <local nombre="Barcelona"><goles>1</goles></local>
+          <visitante nombre="Alaves"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="31/10/2021">
+          <local nombre="RealSociedad"><goles>1</goles></local>
+          <visitante nombre="Athletic"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="30/10/2021">
+          <local nombre="Elche"><goles>1</goles></local>
+          <visitante nombre="RealMadrid"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="30/10/2021">
+          <local nombre="Sevilla"><goles>2</goles></local>
+          <visitante nombre="Osasuna"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="30/10/2021">
+          <local nombre="Valencia"><goles>2</goles></local>
+          <visitante nombre="Villarreal"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="31/10/2021">
+          <local nombre="Getafe"><goles>2</goles></local>
+          <visitante nombre="Espanyol"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="31/10/2021">
+          <local nombre="Atletico"><goles>3</goles></local>
+          <visitante nombre="Betis"><goles>0</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="13">
+      <partidos>
+        <partido fecha="05/11/2021">
+          <local nombre="Athletic"><goles>0</goles></local>
+          <visitante nombre="Cadiz"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="07/11/2021">
+          <local nombre="Betis"><goles>0</goles></local>
+          <visitante nombre="Sevilla"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="07/11/2021">
+          <local nombre="Osasuna"><goles>0</goles></local>
+          <visitante nombre="RealSociedad"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="07/11/2021">
+          <local nombre="Villarreal"><goles>1</goles></local>
+          <visitante nombre="Getafe"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="06/11/2021">
+          <local nombre="Espanyol"><goles>2</goles></local>
+          <visitante nombre="Granada"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="06/11/2021">
+          <local nombre="RealMadrid"><goles>2</goles></local>
+          <visitante nombre="Rayo"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="06/11/2021">
+          <local nombre="Alaves"><goles>2</goles></local>
+          <visitante nombre="Levante"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="07/11/2021">
+          <local nombre="Mallorca"><goles>2</goles></local>
+          <visitante nombre="Elche"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="07/11/2021">
+          <local nombre="Valencia"><goles>3</goles></local>
+          <visitante nombre="Atletico"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="06/11/2021">
+          <local nombre="Celta"><goles>3</goles></local>
+          <visitante nombre="Barcelona"><goles>3</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="14">
+      <partidos>
+        <partido fecha="21/11/2021">
+          <local nombre="RealSociedad"><goles>0</goles></local>
+          <visitante nombre="Valencia"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="19/11/2021">
+          <local nombre="Levante"><goles>0</goles></local>
+          <visitante nombre="Athletic"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="21/11/2021">
+          <local nombre="Elche"><goles>0</goles></local>
+          <visitante nombre="Betis"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="20/11/2021">
+          <local nombre="Atletico"><goles>1</goles></local>
+          <visitante nombre="Osasuna"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="20/11/2021">
+          <local nombre="Barcelona"><goles>1</goles></local>
+          <visitante nombre="Espanyol"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="20/11/2021">
+          <local nombre="Celta"><goles>1</goles></local>
+          <visitante nombre="Villarreal"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="21/11/2021">
+          <local nombre="Granada"><goles>1</goles></local>
+          <visitante nombre="RealMadrid"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="20/11/2021">
+          <local nombre="Sevilla"><goles>2</goles></local>
+          <visitante nombre="Alaves"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="22/11/2021">
+          <local nombre="Rayo"><goles>3</goles></local>
+          <visitante nombre="Mallorca"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="21/11/2021">
+          <local nombre="Getafe"><goles>4</goles></local>
+          <visitante nombre="Cadiz"><goles>0</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="15">
+      <partidos>
+        <partido fecha="27/11/2021">
+          <local nombre="Mallorca"><goles>0</goles></local>
+          <visitante nombre="Getafe"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="28/11/2021">
+          <local nombre="Espanyol"><goles>1</goles></local>
+          <visitante nombre="RealSociedad"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="29/11/2021">
+          <local nombre="Osasuna"><goles>1</goles></local>
+          <visitante nombre="Elche"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="27/11/2021">
+          <local nombre="Valencia"><goles>1</goles></local>
+          <visitante nombre="Rayo"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="27/11/2021">
+          <local nombre="Alaves"><goles>1</goles></local>
+          <visitante nombre="Celta"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="27/11/2021">
+          <local nombre="Villarreal"><goles>1</goles></local>
+          <visitante nombre="Barcelona"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="28/11/2021">
+          <local nombre="Cadiz"><goles>1</goles></local>
+          <visitante nombre="Atletico"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="28/11/2021">
+          <local nombre="RealMadrid"><goles>2</goles></local>
+          <visitante nombre="Sevilla"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="26/11/2021">
+          <local nombre="Athletic"><goles>2</goles></local>
+          <visitante nombre="Granada"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="28/11/2021">
+          <local nombre="Betis"><goles>3</goles></local>
+          <visitante nombre="Levante"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="16">
+      <partidos>
+        <partido fecha="06/12/2021">
+          <local nombre="Getafe"><goles>0</goles></local>
+          <visitante nombre="Athletic"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="05/12/2021">
+          <local nombre="Levante"><goles>0</goles></local>
+          <visitante nombre="Osasuna"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="04/12/2021">
+          <local nombre="Barcelona"><goles>0</goles></local>
+          <visitante nombre="Betis"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="04/12/2021">
+          <local nombre="RealSociedad"><goles>0</goles></local>
+          <visitante nombre="RealMadrid"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="04/12/2021">
+          <local nombre="Sevilla"><goles>1</goles></local>
+          <visitante nombre="Villarreal"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="05/12/2021">
+          <local nombre="Rayo"><goles>1</goles></local>
+          <visitante nombre="Espanyol"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="04/12/2021">
+          <local nombre="Atletico"><goles>1</goles></local>
+          <visitante nombre="Mallorca"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="05/12/2021">
+          <local nombre="Celta"><goles>1</goles></local>
+          <visitante nombre="Valencia"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="03/12/2021">
+          <local nombre="Granada"><goles>2</goles></local>
+          <visitante nombre="Alaves"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="05/12/2021">
+          <local nombre="Elche"><goles>3</goles></local>
+          <visitante nombre="Cadiz"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="17">
+      <partidos>
+        <partido fecha="10/12/2021">
+          <local nombre="Mallorca"><goles>0</goles></local>
+          <visitante nombre="Celta"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="11/12/2021">
+          <local nombre="Athletic"><goles>0</goles></local>
+          <visitante nombre="Sevilla"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="11/12/2021">
+          <local nombre="Alaves"><goles>1</goles></local>
+          <visitante nombre="Getafe"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="13/12/2021">
+          <local nombre="Cadiz"><goles>1</goles></local>
+          <visitante nombre="Granada"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="12/12/2021">
+          <local nombre="RealMadrid"><goles>2</goles></local>
+          <visitante nombre="Atletico"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="12/12/2021">
+          <local nombre="Villarreal"><goles>2</goles></local>
+          <visitante nombre="Rayo"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="11/12/2021">
+          <local nombre="Valencia"><goles>2</goles></local>
+          <visitante nombre="Elche"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="12/12/2021">
+          <local nombre="Osasuna"><goles>2</goles></local>
+          <visitante nombre="Barcelona"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="12/12/2021">
+          <local nombre="Betis"><goles>4</goles></local>
+          <visitante nombre="RealSociedad"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="11/12/2021">
+          <local nombre="Espanyol"><goles>4</goles></local>
+          <visitante nombre="Levante"><goles>3</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="18">
+      <partidos>
+        <partido fecha="19/12/2021">
+          <local nombre="RealMadrid"><goles>0</goles></local>
+          <visitante nombre="Cadiz"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="19/12/2021">
+          <local nombre="Getafe"><goles>1</goles></local>
+          <visitante nombre="Osasuna"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="18/12/2021">
+          <local nombre="RealSociedad"><goles>1</goles></local>
+          <visitante nombre="Villarreal"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="18/12/2021">
+          <local nombre="Rayo"><goles>2</goles></local>
+          <visitante nombre="Alaves"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="18/12/2021">
+          <local nombre="Sevilla"><goles>2</goles></local>
+          <visitante nombre="Atletico"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="17/12/2021">
+          <local nombre="Celta"><goles>3</goles></local>
+          <visitante nombre="Espanyol"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="18/12/2021">
+          <local nombre="Barcelona"><goles>3</goles></local>
+          <visitante nombre="Elche"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="19/12/2021">
+          <local nombre="Athletic"><goles>3</goles></local>
+          <visitante nombre="Betis"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="20/12/2021">
+          <local nombre="Levante"><goles>3</goles></local>
+          <visitante nombre="Valencia"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="19/12/2021">
+          <local nombre="Granada"><goles>4</goles></local>
+          <visitante nombre="Mallorca"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="19">
+      <partidos>
+        <partido fecha="02/01/2022">
+          <local nombre="Elche"><goles>0</goles></local>
+          <visitante nombre="Granada"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="02/01/2022">
+          <local nombre="Mallorca"><goles>0</goles></local>
+          <visitante nombre="Barcelona"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="03/01/2022">
+          <local nombre="Cadiz"><goles>0</goles></local>
+          <visitante nombre="Sevilla"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="02/01/2022">
+          <local nombre="Betis"><goles>0</goles></local>
+          <visitante nombre="Celta"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="02/01/2022">
+          <local nombre="Getafe"><goles>1</goles></local>
+          <visitante nombre="RealMadrid"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="02/01/2022">
+          <local nombre="Alaves"><goles>1</goles></local>
+          <visitante nombre="RealSociedad"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="31/12/2021">
+          <local nombre="Valencia"><goles>1</goles></local>
+          <visitante nombre="Espanyol"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="03/01/2022">
+          <local nombre="Osasuna"><goles>1</goles></local>
+          <visitante nombre="Athletic"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="02/01/2022">
+          <local nombre="Atletico"><goles>2</goles></local>
+          <visitante nombre="Rayo"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="03/01/2022">
+          <local nombre="Villarreal"><goles>5</goles></local>
+          <visitante nombre="Levante"><goles>0</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="20">
+      <partidos>
+        <partido fecha="09/01/2022">
+          <local nombre="Alaves"><goles>0</goles></local>
+          <visitante nombre="Athletic"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="08/01/2022">
+          <local nombre="RealSociedad"><goles>1</goles></local>
+          <visitante nombre="Celta"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="09/01/2022">
+          <local nombre="Sevilla"><goles>1</goles></local>
+          <visitante nombre="Getafe"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="08/01/2022">
+          <local nombre="Granada"><goles>1</goles></local>
+          <visitante nombre="Barcelona"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="09/01/2022">
+          <local nombre="Rayo"><goles>1</goles></local>
+          <visitante nombre="Betis"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="10/01/2022">
+          <local nombre="Espanyol"><goles>1</goles></local>
+          <visitante nombre="Elche"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="09/01/2022">
+          <local nombre="Osasuna"><goles>2</goles></local>
+          <visitante nombre="Cadiz"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="08/01/2022">
+          <local nombre="Levante"><goles>2</goles></local>
+          <visitante nombre="Mallorca"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="09/01/2022">
+          <local nombre="Villarreal"><goles>2</goles></local>
+          <visitante nombre="Atletico"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="08/01/2022">
+          <local nombre="RealMadrid"><goles>4</goles></local>
+          <visitante nombre="Valencia"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="21">
+      <partidos>
+        <partido fecha="16/02/2022">
+          <local nombre="Atletico"><goles>0</goles></local>
+          <visitante nombre="Levante"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="24/04/2022">
+          <local nombre="Barcelona"><goles>0</goles></local>
+          <visitante nombre="Rayo"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="02/03/2022">
+          <local nombre="Mallorca"><goles>0</goles></local>
+          <visitante nombre="RealSociedad"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="16/01/2022">
+          <local nombre="Elche"><goles>1</goles></local>
+          <visitante nombre="Villarreal"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="19/01/2022">
+          <local nombre="Valencia"><goles>1</goles></local>
+          <visitante nombre="Sevilla"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="22/12/2021">
+          <local nombre="Athletic"><goles>1</goles></local>
+          <visitante nombre="RealMadrid"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="19/01/2022">
+          <local nombre="Celta"><goles>2</goles></local>
+          <visitante nombre="Osasuna"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="18/01/2022">
+          <local nombre="Cadiz"><goles>2</goles></local>
+          <visitante nombre="Espanyol"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="18/01/2022">
+          <local nombre="Betis"><goles>4</goles></local>
+          <visitante nombre="Alaves"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="20/01/2022">
+          <local nombre="Getafe"><goles>4</goles></local>
+          <visitante nombre="Granada"><goles>2</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="22">
+      <partidos>
+        <partido fecha="23/01/2022">
+          <local nombre="RealSociedad"><goles>0</goles></local>
+          <visitante nombre="Getafe"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="23/01/2022">
+          <local nombre="Rayo"><goles>0</goles></local>
+          <visitante nombre="Athletic"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="23/01/2022">
+          <local nombre="Alaves"><goles>0</goles></local>
+          <visitante nombre="Barcelona"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="23/01/2022">
+          <local nombre="Granada"><goles>0</goles></local>
+          <visitante nombre="Osasuna"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="22/01/2022">
+          <local nombre="Levante"><goles>0</goles></local>
+          <visitante nombre="Cadiz"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="21/01/2022">
+          <local nombre="Espanyol"><goles>1</goles></local>
+          <visitante nombre="Betis"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="22/01/2022">
+          <local nombre="Sevilla"><goles>2</goles></local>
+          <visitante nombre="Celta"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="23/01/2022">
+          <local nombre="RealMadrid"><goles>2</goles></local>
+          <visitante nombre="Elche"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="22/01/2022">
+          <local nombre="Villarreal"><goles>3</goles></local>
+          <visitante nombre="Mallorca"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="22/01/2022">
+          <local nombre="Atletico"><goles>3</goles></local>
+          <visitante nombre="Valencia"><goles>2</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="23">
+      <partidos>
+        <partido fecha="06/02/2022">
+          <local nombre="Valencia"><goles>0</goles></local>
+          <visitante nombre="RealSociedad"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="05/02/2022">
+          <local nombre="Osasuna"><goles>0</goles></local>
+          <visitante nombre="Sevilla"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="06/02/2022">
+          <local nombre="Betis"><goles>0</goles></local>
+          <visitante nombre="Villarreal"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="06/02/2022">
+          <local nombre="RealMadrid"><goles>1</goles></local>
+          <visitante nombre="Granada"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="05/02/2022">
+          <local nombre="Celta"><goles>2</goles></local>
+          <visitante nombre="Rayo"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="05/02/2022">
+          <local nombre="Mallorca"><goles>2</goles></local>
+          <visitante nombre="Cadiz"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="07/02/2022">
+          <local nombre="Athletic"><goles>2</goles></local>
+          <visitante nombre="Espanyol"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="04/02/2022">
+          <local nombre="Getafe"><goles>3</goles></local>
+          <visitante nombre="Levante"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="05/02/2022">
+          <local nombre="Elche"><goles>3</goles></local>
+          <visitante nombre="Alaves"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="06/02/2022">
+          <local nombre="Barcelona"><goles>4</goles></local>
+          <visitante nombre="Atletico"><goles>2</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="24">
+      <partidos>
+        <partido fecha="12/02/2022">
+          <local nombre="Villarreal"><goles>0</goles></local>
+          <visitante nombre="RealMadrid"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="12/02/2022">
+          <local nombre="Cadiz"><goles>0</goles></local>
+          <visitante nombre="Celta"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="12/02/2022">
+          <local nombre="Rayo"><goles>0</goles></local>
+          <visitante nombre="Osasuna"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="13/02/2022">
+          <local nombre="RealSociedad"><goles>2</goles></local>
+          <visitante nombre="Granada"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="11/02/2022">
+          <local nombre="Sevilla"><goles>2</goles></local>
+          <visitante nombre="Elche"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="13/02/2022">
+          <local nombre="Alaves"><goles>2</goles></local>
+          <visitante nombre="Valencia"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="13/02/2022">
+          <local nombre="Espanyol"><goles>2</goles></local>
+          <visitante nombre="Barcelona"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="13/02/2022">
+          <local nombre="Levante"><goles>2</goles></local>
+          <visitante nombre="Betis"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="14/02/2022">
+          <local nombre="Mallorca"><goles>3</goles></local>
+          <visitante nombre="Athletic"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="12/02/2022">
+          <local nombre="Atletico"><goles>4</goles></local>
+          <visitante nombre="Getafe"><goles>3</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="25">
+      <partidos>
+        <partido fecha="19/02/2022">
+          <local nombre="Osasuna"><goles>0</goles></local>
+          <visitante nombre="Atletico"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="21/02/2022">
+          <local nombre="Celta"><goles>1</goles></local>
+          <visitante nombre="Levante"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="20/02/2022">
+          <local nombre="Espanyol"><goles>1</goles></local>
+          <visitante nombre="Sevilla"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="19/02/2022">
+          <local nombre="Cadiz"><goles>1</goles></local>
+          <visitante nombre="Getafe"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="19/02/2022">
+          <local nombre="Granada"><goles>1</goles></local>
+          <visitante nombre="Villarreal"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="20/02/2022">
+          <local nombre="Valencia"><goles>1</goles></local>
+          <visitante nombre="Barcelona"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="18/02/2022">
+          <local nombre="Elche"><goles>2</goles></local>
+          <visitante nombre="Rayo"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="20/02/2022">
+          <local nombre="Betis"><goles>2</goles></local>
+          <visitante nombre="Mallorca"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="19/02/2022">
+          <local nombre="RealMadrid"><goles>3</goles></local>
+          <visitante nombre="Alaves"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="20/02/2022">
+          <local nombre="Athletic"><goles>4</goles></local>
+          <visitante nombre="RealSociedad"><goles>0</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="26">
+      <partidos>
+        <partido fecha="28/02/2022">
+          <local nombre="Granada"><goles>0</goles></local>
+          <visitante nombre="Cadiz"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="26/02/2022">
+          <local nombre="Rayo"><goles>0</goles></local>
+          <visitante nombre="RealMadrid"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="26/02/2022">
+          <local nombre="Mallorca"><goles>0</goles></local>
+          <visitante nombre="Valencia"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="27/02/2022">
+          <local nombre="RealSociedad"><goles>1</goles></local>
+          <visitante nombre="Osasuna"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="26/02/2022">
+          <local nombre="Atletico"><goles>2</goles></local>
+          <visitante nombre="Celta"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="27/02/2022">
+          <local nombre="Sevilla"><goles>2</goles></local>
+          <visitante nombre="Betis"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="26/02/2022">
+          <local nombre="Getafe"><goles>2</goles></local>
+          <visitante nombre="Alaves"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="25/02/2022">
+          <local nombre="Levante"><goles>3</goles></local>
+          <visitante nombre="Elche"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="27/02/2022">
+          <local nombre="Barcelona"><goles>4</goles></local>
+          <visitante nombre="Athletic"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="27/02/2022">
+          <local nombre="Villarreal"><goles>5</goles></local>
+          <visitante nombre="Espanyol"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="27">
+      <partidos>
+        <partido fecha="04/03/2022">
+          <local nombre="Alaves"><goles>0</goles></local>
+          <visitante nombre="Sevilla"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="05/03/2022">
+          <local nombre="Osasuna"><goles>1</goles></local>
+          <visitante nombre="Villarreal"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="06/03/2022">
+          <local nombre="Elche"><goles>1</goles></local>
+          <visitante nombre="Barcelona"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="06/03/2022">
+          <local nombre="Betis"><goles>1</goles></local>
+          <visitante nombre="Atletico"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="06/03/2022">
+          <local nombre="Cadiz"><goles>2</goles></local>
+          <visitante nombre="Rayo"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="05/03/2022">
+          <local nombre="Espanyol"><goles>2</goles></local>
+          <visitante nombre="Getafe"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="05/03/2022">
+          <local nombre="Valencia"><goles>3</goles></local>
+          <visitante nombre="Granada"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="07/03/2022">
+          <local nombre="Athletic"><goles>3</goles></local>
+          <visitante nombre="Levante"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="05/03/2022">
+          <local nombre="RealMadrid"><goles>4</goles></local>
+          <visitante nombre="RealSociedad"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="06/03/2022">
+          <local nombre="Celta"><goles>4</goles></local>
+          <visitante nombre="Mallorca"><goles>3</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="28">
+      <partidos>
+        <partido fecha="12/03/2022">
+          <local nombre="Getafe"><goles>0</goles></local>
+          <visitante nombre="Valencia"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="12/03/2022">
+          <local nombre="Granada"><goles>0</goles></local>
+          <visitante nombre="Elche"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="14/03/2022">
+          <local nombre="Mallorca"><goles>0</goles></local>
+          <visitante nombre="RealMadrid"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="13/03/2022">
+          <local nombre="Betis"><goles>1</goles></local>
+          <visitante nombre="Athletic"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="12/03/2022">
+          <local nombre="Villarreal"><goles>1</goles></local>
+          <visitante nombre="Celta"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="13/03/2022">
+          <local nombre="RealSociedad"><goles>1</goles></local>
+          <visitante nombre="Alaves"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="12/03/2022">
+          <local nombre="Levante"><goles>1</goles></local>
+          <visitante nombre="Espanyol"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="13/03/2022">
+          <local nombre="Rayo"><goles>1</goles></local>
+          <visitante nombre="Sevilla"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="11/03/2022">
+          <local nombre="Atletico"><goles>2</goles></local>
+          <visitante nombre="Cadiz"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="13/03/2022">
+          <local nombre="Barcelona"><goles>4</goles></local>
+          <visitante nombre="Osasuna"><goles>0</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="29">
+      <partidos>
+        <partido fecha="20/03/2022">
+          <local nombre="Celta"><goles>0</goles></local>
+          <visitante nombre="Betis"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="20/03/2022">
+          <local nombre="Sevilla"><goles>0</goles></local>
+          <visitante nombre="RealSociedad"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="19/03/2022">
+          <local nombre="Rayo"><goles>0</goles></local>
+          <visitante nombre="Atletico"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="19/03/2022">
+          <local nombre="Elche"><goles>0</goles></local>
+          <visitante nombre="Valencia"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="20/03/2022">
+          <local nombre="RealMadrid"><goles>0</goles></local>
+          <visitante nombre="Barcelona"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="20/03/2022">
+          <local nombre="Cadiz"><goles>1</goles></local>
+          <visitante nombre="Villarreal"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="20/03/2022">
+          <local nombre="Espanyol"><goles>1</goles></local>
+          <visitante nombre="Mallorca"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="18/03/2022">
+          <local nombre="Athletic"><goles>1</goles></local>
+          <visitante nombre="Getafe"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="19/03/2022">
+          <local nombre="Alaves"><goles>2</goles></local>
+          <visitante nombre="Granada"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="19/03/2022">
+          <local nombre="Osasuna"><goles>3</goles></local>
+          <visitante nombre="Levante"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="30">
+      <partidos>
+        <partido fecha="03/04/2022">
+          <local nombre="Valencia"><goles>0</goles></local>
+          <visitante nombre="Cadiz"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="03/04/2022">
+          <local nombre="Barcelona"><goles>1</goles></local>
+          <visitante nombre="Sevilla"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="02/04/2022">
+          <local nombre="Getafe"><goles>1</goles></local>
+          <visitante nombre="Mallorca"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="04/04/2022">
+          <local nombre="RealSociedad"><goles>1</goles></local>
+          <visitante nombre="Espanyol"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="02/04/2022">
+          <local nombre="Celta"><goles>1</goles></local>
+          <visitante nombre="RealMadrid"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="02/04/2022">
+          <local nombre="Levante"><goles>2</goles></local>
+          <visitante nombre="Villarreal"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="03/04/2022">
+          <local nombre="Athletic"><goles>2</goles></local>
+          <visitante nombre="Elche"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="03/04/2022">
+          <local nombre="Granada"><goles>2</goles></local>
+          <visitante nombre="Rayo"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="02/04/2022">
+          <local nombre="Atletico"><goles>4</goles></local>
+          <visitante nombre="Alaves"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="03/04/2022">
+          <local nombre="Betis"><goles>4</goles></local>
+          <visitante nombre="Osasuna"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="31">
+      <partidos>
+        <partido fecha="10/04/2022">
+          <local nombre="Osasuna"><goles>1</goles></local>
+          <visitante nombre="Alaves"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="10/04/2022">
+          <local nombre="Espanyol"><goles>1</goles></local>
+          <visitante nombre="Celta"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="09/04/2022">
+          <local nombre="Mallorca"><goles>1</goles></local>
+          <visitante nombre="Atletico"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="10/04/2022">
+          <local nombre="Rayo"><goles>1</goles></local>
+          <visitante nombre="Valencia"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="09/04/2022">
+          <local nombre="Villarreal"><goles>1</goles></local>
+          <visitante nombre="Athletic"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="10/04/2022">
+          <local nombre="Elche"><goles>1</goles></local>
+          <visitante nombre="RealSociedad"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="09/04/2022">
+          <local nombre="Cadiz"><goles>1</goles></local>
+          <visitante nombre="Betis"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="09/04/2022">
+          <local nombre="RealMadrid"><goles>2</goles></local>
+          <visitante nombre="Getafe"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="10/04/2022">
+          <local nombre="Levante"><goles>2</goles></local>
+          <visitante nombre="Barcelona"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="08/04/2022">
+          <local nombre="Sevilla"><goles>4</goles></local>
+          <visitante nombre="Granada"><goles>2</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+    <jornada numero="32">
+      <partidos>
+        <partido fecha="15/04/2022">
+          <local nombre="RealSociedad"><goles>0</goles></local>
+          <visitante nombre="Betis"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="16/04/2022">
+          <local nombre="Elche"><goles>3</goles></local>
+          <visitante nombre="Mallorca"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="16/04/2022">
+          <local nombre="Alaves"><goles>1</goles></local>
+          <visitante nombre="Rayo"><goles>0</goles></visitante>
+        </partido>
+        <partido fecha="16/04/2022">
+          <local nombre="Valencia"><goles>1</goles></local>
+          <visitante nombre="Osasuna"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="16/04/2022">
+          <local nombre="Getafe"><goles>1</goles></local>
+          <visitante nombre="Villarreal"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="17/04/2022">
+          <local nombre="Granada"><goles>1</goles></local>
+          <visitante nombre="Levante"><goles>4</goles></visitante>
+        </partido>
+        <partido fecha="17/04/2022">
+          <local nombre="Atletico"><goles>2</goles></local>
+          <visitante nombre="Espanyol"><goles>1</goles></visitante>
+        </partido>
+        <partido fecha="17/04/2022">
+          <local nombre="Athletic"><goles>0</goles></local>
+          <visitante nombre="Celta"><goles>2</goles></visitante>
+        </partido>
+        <partido fecha="17/04/2022">
+          <local nombre="Sevilla"><goles>2</goles></local>
+          <visitante nombre="RealMadrid"><goles>3</goles></visitante>
+        </partido>
+        <partido fecha="18/04/2022">
+          <local nombre="Barcelona"><goles>0</goles></local>
+          <visitante nombre="Cadiz"><goles>1</goles></visitante>
+        </partido>
+      </partidos>
+    </jornada>
+  </jornadas>
 </liga-futbol>

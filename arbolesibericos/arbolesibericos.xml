@@ -1,639 +1,639 @@
 <?xml version="1.0"?>
 <?xml-stylesheet href="arbolesibericos.xsl" type="text/xsl"?>
 <species>
-	<specie>
-		<name>Quercus rubra L.</name>
-		<descpription>Roble americano,  Haritz amerikarra (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_r9m0jg628u?alt=media&amp;token=eb4d44b1-0fcb-45b4-adfe-f9a66b1cfdf3</image>
-	</specie>
-	<specie>
-		<name>Platycladus orientalis (L.) Franco</name>
-		<descpription>Biota,  Árbol de la vida oriental,  Tuya,  Tuya de China,  Tuya de Oriente,  Ekialdeko tuia (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_kj38o8hsi8.jpg?alt=media&amp;token=993f0437-b656-4599-881f-a67452906188</image>
-	</specie>
-	<specie>
-		<name>Populus tremula L.</name>
-		<descpription>Temblón,  Chopo temblón,  Tiemblo,  Trèmol (cat.),  Alba borda (cat.),  Lertxuna (eusk.),  Faia preta (port.),  Choupo tremedor (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_rp0qmcihrv.jpg?alt=media&amp;token=c7c95da4-76c2-4e4d-8cd6-d273335f398d</image>
-	</specie>
-	<specie>
-		<name>Pistacia lentiscus L.</name>
-		<descpription>Lentisco,  Lentisca,  Alentisco,  Lantisco</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_lyskjbymp6.jpg?alt=media&amp;token=810bbe04-d46c-4b85-bc43-e1458871e4da</image>
-	</specie>
-	<specie>
-		<name>Acer opalus Mill.</name>
-		<descpription>Acirón,  Ácer,  Orón (cat.),  Oró (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_atw8ix0iw0l.jpg?alt=media&amp;token=8ac06cbf-634b-40ad-8bcb-03c71bf8516a</image>
-	</specie>
-	<specie>
-		<name>Acer campestre L.</name>
-		<descpription>Arce,  Moscón,  Auró blanc (cat.),  Oró (cat.),  Astigar arrunta (eusk.),  Bôrdo comum (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_espmoq7bky.jpg?alt=media&amp;token=5cd76351-6de8-448f-a907-470356564300</image>
-	</specie>
-	<specie>
-		<name>Alnus cordata (Liosel.) Duby</name>
-		<descpription>Aliso italiano</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_h79humaqi7b.jpg?alt=media&amp;token=7f3cb9fb-d96c-4fda-a01d-7e397f40f440</image>
-	</specie>
-	<specie>
-		<name>Melia azedarach L.</name>
-		<descpription>Agriaz,  Melia,  Mélia,  Amargoseira (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_jk6d1rldy9i.jpg?alt=media&amp;token=0a0893a2-e764-4083-8007-18aa00e83328</image>
-	</specie>
-	<specie>
-		<name>Prunus avium (L.) L.</name>
-		<descpription>Cerezo silvestre,  Cirerer (cat.),  Gereziondoa (eusk.),  Cereixeira (gall.),  Cerejeira brava (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_fe2dq2w2yyc.jpg?alt=media&amp;token=12478579-5ee4-4465-8906-eda45df092c8</image>
-	</specie>
-	<specie>
-		<name>Quercus suber L.</name>
-		<descpription>Alcornoque,  Surera (cat.),  Artelatza (eusk.),  Sobreira (gall.),  Corticeira (gall.),  Sobreiro (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_rx2hv772vqe.jpg?alt=media&amp;token=e6f18f7e-b5cd-4165-88f7-ca4199db1c4e</image>
-	</specie>
-	<specie>
-		<name>Pinus canariensis Sweet</name>
-		<descpription>Pino canario</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_irsbf6ik75b.jpg?alt=media&amp;token=5f8164f3-4352-4583-907d-d77df6e26333</image>
-	</specie>
-	<specie>
-		<name>Fraxinus angustifolia Vahl</name>
-		<descpription>Fresno,  Freixe de fulla petita (cat.),  Lizar hostotxikia (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_vbj9o2oj5dq.jpg?alt=media&amp;token=6c12bb0b-21aa-4698-b256-85d8d91b9fb2</image>
-	</specie>
-	<specie>
-		<name>Crataegus azarolus L.</name>
-		<descpription>Acerolo,  Azarollo,  Atzeroler (cat.),  Azaroleira (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ckuke3ck7c5.jpg?alt=media&amp;token=7e3965e9-58e4-4d48-b6ca-145247985ad0</image>
-	</specie>
-	<specie>
-		<name>Phillyrea latifolia L.</name>
-		<descpription>Labiérnago,  Agracejo,  Aladern (cat.),  Aderno (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_2ds02kd5fa.jpg?alt=media&amp;token=7ce4615c-d68d-4789-8052-69e348122b3e</image>
-	</specie>
-	<specie>
-		<name>Chamaecyparis lawsoniana (A. Murray) Parl.</name>
-		<descpription>Sin nombre común en la Península, se la conoce por el culto de ciprés de Lawson o por la castellanización de chamaeciparis o camaeciparis</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_4l1ot3cjad8?alt=media&amp;token=b8dc2ac5-01a2-49e5-b89c-20032766013c</image>
-	</specie>
-	<specie>
-		<name>Juniperus thurifera L.</name>
-		<descpription>Sabina albar,  Sabina,  Enebro</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_e249xjfobhu.jpg?alt=media&amp;token=79c3cfc3-9453-4d25-b511-992b78b704d5</image>
-	</specie>
-	<specie>
-		<name>Abies alba Miller</name>
-		<descpription>Abeto,  Pinabeto,  Avet (cat.),  Izal (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_vi5a039hxb.jpg?alt=media&amp;token=413fec3a-8492-457f-b1cc-ecdf9f534364</image>
-	</specie>
-	<specie>
-		<name>Crataegus laevigata (Poir.) DC.</name>
-		<descpription>Majuelo,  Espino navarro</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_rensctlmb5.jpg?alt=media&amp;token=51c56833-5d97-4bff-ad7c-d9d8fe413c09</image>
-	</specie>
-	<specie>
-		<name>Quercus coccifera L.</name>
-		<descpription>Coscoja,  Coscoll (cat.),  Garric (cat.),  Abaritza (eusk.),  Carrasco (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_w54eflb51p.jpg?alt=media&amp;token=86a965f2-b9e2-4b1f-9b6c-e7755c2f4178</image>
-	</specie>
-	<specie>
-		<name>Sambucus nigra L.</name>
-		<descpription>Saúco</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_7imbqlyc85?alt=media&amp;token=ee1334f8-593d-432b-89f1-e3b6e2e2542e</image>
-	</specie>
-	<specie>
-		<name>Salix caprea L.</name>
-		<descpription>Sauce,  Sauce capruno,  Gatsaule (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_erttb84cdfd.jpg?alt=media&amp;token=9682a376-d4a5-43fe-8b55-368975fea5ea</image>
-	</specie>
-	<specie>
-		<name>Eucalyptus globulus Labill.</name>
-		<descpription>Eucalipto,  Eucalipto blanco,  Eucalipto azul,  Eucaliptus blau (cat.),  Eukalitua (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_6hg7kvhfau8.jpg?alt=media&amp;token=abf9ebda-2dec-4a26-8aa2-54cccac6e67d</image>
-	</specie>
-	<specie>
-		<name>Pinus pinea L.</name>
-		<descpription>Pino piñonero,  Pino real,  Pino doméstico,  Pi pinyer (cat.),  Piñeiro manso (gall.),  Pinheiro manso (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_rmnmtf3hvd.jpg?alt=media&amp;token=9d68e6ce-0152-4ed9-be62-f35378c662ce</image>
-	</specie>
-	<specie>
-		<name>Phoenix dactylifera L.</name>
-		<descpription>Palmera,  Palma,  Palmera datilera,  Tamareira (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_zhpfqsjfdok.jpg?alt=media&amp;token=06d647bd-fd07-4e3b-9745-0535e67537e5</image>
-	</specie>
-	<specie>
-		<name>Crataegus laciniata Ucria</name>
-		<descpription>Espino negro</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_1tock8ujimah.jpg?alt=media&amp;token=05fbee70-fbe4-409f-96af-ff417cf47ed6</image>
-	</specie>
-	<specie>
-		<name>Sorbus domestica L.</name>
-		<descpription>Serbal común,  Server (cat.),  Sorveira (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_4x13l806e67.jpg?alt=media&amp;token=2759f72f-eb6d-4c46-9c97-f569e611a062</image>
-	</specie>
-	<specie>
-		<name>Quercus faginea Lam.</name>
-		<descpription>Quejigo,  Rebollo,  Roble,  Roure de fulla petita (cat.),  Erkametza (eusk.),  Caxigo (gall.),  Carvalho-cerquinho (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ymi82xvnjhi.jpg?alt=media&amp;token=4417cf19-fae9-4740-ad2e-4f02369fe421</image>
-	</specie>
-	<specie>
-		<name>Phillyrea angustifolia L.</name>
-		<descpription></descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_2py31aavhyr?alt=media&amp;token=bc68894d-e281-478d-866e-117d9ea53868</image>
-	</specie>
-	<specie>
-		<name>Ulmus glabra Huds.</name>
-		<descpription>Olmo de montaña,  Om (cat.),  Zumar (eusk.),  Llamagueiro (gall.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_c1gkstdse9f.jpg?alt=media&amp;token=7f6c1c9e-c506-429d-a443-c8ea2c94cc59</image>
-	</specie>
-	<specie>
-		<name>Prunus cerasifera var. atropurpurea  H. Jaeger</name>
-		<descpription>Cerezo japonés</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_q1msiuqrj1?alt=media&amp;token=aa40dc0f-de30-4200-90e3-4075fab2e161</image>
-	</specie>
-	<specie>
-		<name>Prunus padus L.</name>
-		<descpription>Cerezo aliso,  Cirer bord (cat.),  Gatzerí (cat.),  Otsagereziondoa (eusk.),  Pau de San Guirgoriño (gall.),  Pado (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_m2r6sx2pt2p.jpg?alt=media&amp;token=24753ed8-bfc9-4a3f-afc4-50a9fd4499c0</image>
-	</specie>
-	<specie>
-		<name>Catalpa bignonioides Walt.</name>
-		<descpription>Catalpa</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_m58fr6z9cq.jpg?alt=media&amp;token=6783cc27-3ff1-499e-8612-a0521523304f</image>
-	</specie>
-	<specie>
-		<name>Cydonia oblonga Miller</name>
-		<descpription>Membrillero,  Codonyer (cat.),  Marmeleiro (gall. y port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_pttyin3dzvh.jpg?alt=media&amp;token=45dbb30a-4772-48b8-bec9-af75510510df</image>
-	</specie>
-	<specie>
-		<name>Tilia platyphyllos Scop.</name>
-		<descpription>Tilo,  Teja,  Tell (cat.),  Ezki (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_r1s7xmkwb4j.jpg?alt=media&amp;token=a9023db3-284f-44c4-8675-e4f1d156a6a2</image>
-	</specie>
-	<specie>
-		<name>Pinus pinaster Aiton</name>
-		<descpription>Pino rodeno,  Pino resinero,  Pino negral,  Pino marítimo,  Pinastre (cat.),  Piñeiro bravo (gall.),  Pinheiro bravo (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_lf02tg8p1.jpg?alt=media&amp;token=0bf332f2-bcff-4a27-b22d-8266d11a4082</image>
-	</specie>
-	<specie>
-		<name>Morus alba L.</name>
-		<descpription>Morera,  Morera blanca,  Marugatze zuria (eusk.),  Amoreira branca (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_y007g58yc2c.jpg?alt=media&amp;token=76f4d7ce-9213-42b5-8de4-a55a67de375a</image>
-	</specie>
-	<specie>
-		<name>Cupressus lusitanica Mill.</name>
-		<descpription></descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_oppq74sjzjh?alt=media&amp;token=3fb404aa-71d8-4183-a5de-cc249a147754</image>
-	</specie>
-	<specie>
-		<name>Ceratonia siliqua L.</name>
-		<descpription>Algarrobo,  Garrofer (cat.),  Alfarrobeira (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_rdr8x32pljp.jpg?alt=media&amp;token=d84a47bd-72b6-4c00-98c8-1dc6d5c13dbe</image>
-	</specie>
-	<specie>
-		<name>Pinus sylvestris L.</name>
-		<descpription>Pino silvestre,  Pino albar,  Pino de Valsaín,  Pi roig (cat.),  Piñeiro bravo (gall.),  Pinheiro silvestre (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_6uaxejbxss7.jpg?alt=media&amp;token=be342aeb-ab1d-4546-961c-099fb7e17e10</image>
-	</specie>
-	<specie>
-		<name>Salix babylonica L.</name>
-		<descpription>Sauce llorón,  Desmai (cat.),  Chorón (gall.),  Salgueiro chorão (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_04zkhk2tyq1g?alt=media&amp;token=9677e3e3-b133-4b86-9acb-90b17f0d5e7d</image>
-	</specie>
-	<specie>
-		<name>Salix fragilis L.</name>
-		<descpription>Sauce,  Vimetera (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_7wsh0wdtlna.jpg?alt=media&amp;token=3c5d7541-bbfa-4620-9263-411bd16facb8</image>
-	</specie>
-	<specie>
-		<name>Juniperus oxycedrus L.</name>
-		<descpription>Enebro,  Enebro de la miera,  Cada,  Càdec (cat.),  Cedro de Espanha (port.),  Oxicedro (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_3ny8jyqq1yv.jpg?alt=media&amp;token=f4b60341-ea83-4575-8670-0805cc438ee5</image>
-	</specie>
-	<specie>
-		<name>Cupressus sempervirens L.</name>
-		<descpription>Ciprés,  Ciprés común,  Xiprer (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_op85jcp76bp.jpg?alt=media&amp;token=517cd146-d1b4-4e8f-a21e-b7a0a8faec7e</image>
-	</specie>
-	<specie>
-		<name>Prunus insititia L.</name>
-		<descpription>Ciruelo silvestre,  Endrino grande,  Prunyoner (cat.),  Lapatxondoa (eusk.),  Cagoiçeiro (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_kjkctxtw53.jpg?alt=media&amp;token=664f2c27-5c21-41d4-a930-9778a5ce3c58</image>
-	</specie>
-	<specie>
-		<name>Pinus uncinata Ramond ex DC.</name>
-		<descpription>Pino negro,  Pino de montaña,  Pi negre (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_dt89xcrau5j.jpg?alt=media&amp;token=f1325081-f2de-417b-a848-ff44ad5723a3</image>
-	</specie>
-	<specie>
-		<name>Pinus halepensis Miller</name>
-		<descpription>Pino carrasco,  Pino de Alepo,  Pi blanc (cat.),  Pi bord (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_cnz1o8067xl.jpg?alt=media&amp;token=f8c43d76-a0e8-4a86-900f-bb79d6fdd245</image>
-	</specie>
-	<specie>
-		<name>Picea abies (L.) Karsten</name>
-		<descpription>Pícea,  Abeto de Navidad,  Abeto rojo</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_g8b9h8e13sm.jpg?alt=media&amp;token=8ff98692-f164-44cc-b689-ef9e28a7d5d4</image>
-	</specie>
-	<specie>
-		<name>Taxus baccata L.</name>
-		<descpription>Tejo,  Tejón,  Teix (cat.),  Hagina (eusk.),  Hagin y posiblemente agin (eusk.),  Teixo (gall.),  Teixeiro (gall.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ahv8jub7y4.jpg?alt=media&amp;token=d2f69424-ce26-4de0-af4a-304b488d3535</image>
-	</specie>
-	<specie>
-		<name>Platanus hispanica Miller ex Münchh.</name>
-		<descpription>Plátano de sombra,  Plátano de paseo,  Plàtan (cat.),  Plátano (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9v8teta75ej?alt=media&amp;token=850003d1-af56-4026-b903-d30c5e97fbf7</image>
-	</specie>
-	<specie>
-		<name>Ilex aquifolium L.</name>
-		<descpription>Acebo,  Grèvol (cat.),  Gorosti (eusk.),  Acivro (gall.),  Civro (gall.),  Azevinho (port.),  Pica-fôlha (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_fy5bomsdwe4.jpg?alt=media&amp;token=927db343-44f4-44ff-8a0c-c853350f9761</image>
-	</specie>
-	<specie>
-		<name>Fraxinus ornus L.</name>
-		<descpription>Fresno,  Fresno de flor,  Orno,  Flex (Alicante)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_6iobybba579.jpg?alt=media&amp;token=16bc5708-4fcb-4f8f-b96e-89ff61bdd367</image>
-	</specie>
-	<specie>
-		<name>Pinus radiata D. Don</name>
-		<descpription>Pino de Monterrey,  Pino insigne</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_7pg79v1hq8c.jpg?alt=media&amp;token=ccd475af-ea65-44a5-97cc-e46f2c2ed61f</image>
-	</specie>
-	<specie>
-		<name>Cupressus macrocarpa  Hartw.</name>
-		<descpription></descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ap88k62sfe?alt=media&amp;token=02003449-97cb-4942-9045-0dbb16e29ef5</image>
-	</specie>
-	<specie>
-		<name>Thuja plicata J. Don ex D. Don</name>
-		<descpription>Cedro rojo,  Tuya,  Tuya gigante</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_i4qw0bsl7x.jpg?alt=media&amp;token=125e1807-2430-4014-abba-1a14dc3b481e</image>
-	</specie>
-	<specie>
-		<name>Prunus dulcis D.A. Webb</name>
-		<descpription>Almendro,  Ametller (cat.),  Almendrondoa (eusk.),  Amendoeira (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_4fsvfcbg9tz?alt=media&amp;token=243b2992-17d4-47c0-9499-8024a52d898d</image>
-	</specie>
-	<specie>
-		<name>Betula pendula Roth</name>
-		<descpription></descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_yzll4ezl1tn.jpg?alt=media&amp;token=01b75176-e30f-4454-883d-4b1c5d1ad536</image>
-	</specie>
-	<specie>
-		<name>Salix alba L.</name>
-		<descpription>Sauce,  Salguera,  Mimbre,  Salze blanc (cat.),  Zume zuria (eusk.),  Salgeiro branco (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_bjszx4eui0o.jpg?alt=media&amp;token=06f533cb-67a0-4cf7-8d15-2f9b84d86556</image>
-	</specie>
-	<specie>
-		<name>Ulmus laevis Pallas</name>
-		<descpription>Sin verdaderos nombres comunes</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_evfbo5bgih.jpg?alt=media&amp;token=5b1ea6be-0f41-4824-b20b-1b329a48e679</image>
-	</specie>
-	<specie>
-		<name>Quercus ilex L.</name>
-		<descpription>Encina,  Carrasca,  Alzina (cat.),  Artea (eusk.),  Enciño (gall.),  Azinheira (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_7k2lb17cgak.jpg?alt=media&amp;token=d37a89a3-709b-46a9-b3fb-16bea84df7d3</image>
-	</specie>
-	<specie>
-		<name>Ailanthus altissima (Mill.) Swingle</name>
-		<descpription>Ailanto,  Árbol del cielo,  Ailant (cat.),  Ailantoa (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_4177sk2npe4.jpg?alt=media&amp;token=5528577f-51d0-4f38-83d8-bc4766be69c4</image>
-	</specie>
-	<specie>
-		<name>Juniperus phoenicea L.</name>
-		<descpription>Sabina,  Sabina mora</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9ueb076v44b.jpg?alt=media&amp;token=207f926d-7733-4979-b245-16a960d014e2</image>
-	</specie>
-	<specie>
-		<name>Elaeagnus angustifolia L.</name>
-		<descpription>Árbol del paraíso,  Cinamomo,  Arbre del paradís (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_vsj47nua5em.jpg?alt=media&amp;token=2949f897-e393-4645-a97e-8c673b0ab4e6</image>
-	</specie>
-	<specie>
-		<name>Tilia tomentosa Moench</name>
-		<descpription>Tilo plateado</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_fnre6lxaq3d.jpg?alt=media&amp;token=b921beb6-a524-47ab-a247-99cecdf8a718</image>
-	</specie>
-	<specie>
-		<name>Olea europaea L.</name>
-		<descpription>Olivo,  Acebuche (ejemplares silvestres),  Ullastre (cat.),  Olibondoa (eusk.),  Oliveira (gall. y port.),  Zambujeiro (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_7m3j73l20op.jpg?alt=media&amp;token=b22fbea1-8eae-4047-a941-04c00db21712</image>
-	</specie>
-	<specie>
-		<name>Eucalyptus camaldulensis Dehnh.</name>
-		<descpription>Eucalipto,  Eucalipto rojo,  Eucaliptus roig (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_atpuzwln2mk.jpg?alt=media&amp;token=57241266-18a5-4fca-9b80-33c23cea441d</image>
-	</specie>
-	<specie>
-		<name>Calocedrus decurrens (Torr.) Florin</name>
-		<descpription>Libocedro de California,  Cedro de incienso de California,  Cedro rojo,  También la castellanización del género: calocedro</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_pi2l25quz7.jpg?alt=media&amp;token=8c55702e-1b61-4fa2-b79b-c2dd9b3981ae</image>
-	</specie>
-	<specie>
-		<name>Juglans regia L.</name>
-		<descpription>Nogal,  Noguera (cat.),  Intxaurrondo (eusk.),  Giltzaurra (eusk.),  Nogueira (gall. y port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_lb6lp2j3mo.jpg?alt=media&amp;token=40039e35-fe7b-47eb-924f-7dfc401d3fe1</image>
-	</specie>
-	<specie>
-		<name>Punica granatum L.</name>
-		<descpription>Granado,  Magraner (cat.),  Romeira (port.),  Romanzeira (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_va2rigk38n.jpg?alt=media&amp;token=0ea89645-38f1-433f-9bfa-88b9178e0f05</image>
-	</specie>
-	<specie>
-		<name>Sophora japonica L.</name>
-		<descpription>Sófora,  Acacia del Japón,  Sòfora (cat.),  Sasiarkazia japoniarra (eusk.),  Acácia do Japâo (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_x0s58v4jqq.jpg?alt=media&amp;token=a206e8c7-5e61-46f7-8bd8-a5f817715da4</image>
-	</specie>
-	<specie>
-		<name>Tetraclinis articulata (Vahl) Masters</name>
-		<descpription>Sabina,  Ciprés de Cartagena,  O el nombre árabe de araar</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9ngosep5m6t.jpg?alt=media&amp;token=603a4820-02e6-4d79-bb98-c8f9af5b8c09</image>
-	</specie>
-	<specie>
-		<name>Acer platanoides L.</name>
-		<descpription>Acirón,  Arce real,  Erable, blada (cat.),  Astigar zorrotza (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_yyvdl0h1qqm.jpg?alt=media&amp;token=dd1e59d4-4365-4787-a504-48627981c8a1</image>
-	</specie>
-	<specie>
-		<name>Sorbus aucuparia L.</name>
-		<descpription>Serbal de cazadores,  Moixera de guilla (cat.),  Capudre (gall.),  Escronabois (gall.),  Tramazeira (port.),  Cornogodinho (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_a9tzu6xelb.jpg?alt=media&amp;token=586f4feb-513d-411c-9f2e-be21a6c78c1f</image>
-	</specie>
-	<specie>
-		<name>Prunus domestica L.</name>
-		<descpription>Ciruelo silvestre,  Cirolero,  Prunyoner (cat.),  Aranondo (eusk.),  Ameixeira (gall.),  Abrunheiro (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9j1knd1mkl6.jpg?alt=media&amp;token=2931b750-da8e-43d3-bba4-b0621cac10e1</image>
-	</specie>
-	<specie>
-		<name>Cupressus arizonica E. L. Greene</name>
-		<descpription>Ciprés de Arizona,  Arizónica</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ojl7crw927.jpg?alt=media&amp;token=53a39064-bc23-44eb-8235-15e97646dd9b</image>
-	</specie>
-	<specie>
-		<name>Acer pseudoplatanus L.</name>
-		<descpription>Arce,  Falso plátano,  Plágano,  Askar (cat.),  Blada (cat.),  Plàtan fals (cat.),  Ostartx (eusk.),  Pradairo (gall.),  Plátano bastardo (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_q21ao692x5n.jpg?alt=media&amp;token=3bc4048e-5b41-4334-95a4-87c31c8adeca</image>
-	</specie>
-	<specie>
-		<name>Salix triandra L.</name>
-		<descpription>Sarga,  Sarga negra,  Sauce almendro,  Salze (cat.),  Saule (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_doub6fw4ggh.jpg?alt=media&amp;token=17d3d0e8-f739-4862-9b7c-336122e604b9</image>
-	</specie>
-	<specie>
-		<name>Sequoiadendron giganteum (Lindl.) Buchh.</name>
-		<descpription>Secuoya</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ujixbj5mas.jpg?alt=media&amp;token=1dc0b936-7aa8-4f69-b59b-6c0ef521cf18</image>
-	</specie>
-	<specie>
-		<name>Cercis siliquastrum L.</name>
-		<descpription>Árbol del amor,  Árbol de Judea,  Árbol de Judas,  Arbre de l&apos;amor (cat.),  Árvore-da-Judeia (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_16uv5hwzrwz.jpg?alt=media&amp;token=4929cc49-c87f-45c0-8910-88c6ad8f4e9a</image>
-	</specie>
-	<specie>
-		<name>Tilia cordata Mill.</name>
-		<descpription>Tilo,  Teja,  Tell (cat.),  Ezki (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_pu2cych7lt.jpg?alt=media&amp;token=960a4699-9673-44ef-8a68-391e74bd9140</image>
-	</specie>
-	<specie>
-		<name>Acer negundo L.</name>
-		<descpription>Negundo</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_k6lkvns66rk.jpg?alt=media&amp;token=147422c3-1690-4aaa-a89c-279e55ed173b</image>
-	</specie>
-	<specie>
-		<name>Castanea sativa Miller</name>
-		<descpription>Castaño,  Regoldo,  Castanyer (cat.),  Gaztainondo (eusk.),  Castiñeiro (gall.),  Castanheiro (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_zrirfrr31z.jpg?alt=media&amp;token=a4c49ae9-c2c2-4b64-8428-a627ebbfb80e</image>
-	</specie>
-	<specie>
-		<name>Ficus carica L.</name>
-		<descpription>Higuera,  Cabrahigo,  Figuera (cat.),  Pikondoa (eusk.),  Figueira (gall. y port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_5q3wkhuy1hb.jpg?alt=media&amp;token=330dcace-296a-46d9-af85-0aa8736591d1</image>
-	</specie>
-	<specie>
-		<name>Malus sylvestris (L.) Mill.</name>
-		<descpription>Maillo,  Manzano silvestre,  Pomera borda (cat.),  Sagarmina (eusk.),  Maceira brava (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_r1oq2wppyoj.jpg?alt=media&amp;token=f0f85d23-71bb-41e7-8bfe-ba5b8e8d753e</image>
-	</specie>
-	<specie>
-		<name>Liquidambar styraciflua L.</name>
-		<descpription></descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_mja464zyou?alt=media&amp;token=dee0e593-82ef-4e43-adbd-0cf612a48898</image>
-	</specie>
-	<specie>
-		<name>Populus alba L.</name>
-		<descpription>Álamo,  Álamo blanco,  Chopo,  àlber (cat.),  Xop blanc (cat.),  Zuzuria (eusk.),  Choupo branco (gall. y port.),  Álamo branco (gall. y port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ynkcakgv38o.jpg?alt=media&amp;token=7d7dbebe-6d31-4e00-87ef-7ece808fa2ae</image>
-	</specie>
-	<specie>
-		<name>Sorbus aria (L.) Crantz</name>
-		<descpription>Mostajo,  Moixera (cat.),  Hostazuria (euks.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ubdyg4s1jm.jpg?alt=media&amp;token=024401a1-5d75-4493-8bb7-6c0f5ccbd8c6</image>
-	</specie>
-	<specie>
-		<name>Arbutus unedo L.</name>
-		<descpription>Madroño,  Madroñera,  Arboç (cat.),  Gurbitza (eusk.),  Érbedo (gall.),  Medronheiro (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_tsosti409va.jpg?alt=media&amp;token=f9e8453f-82a6-4f6f-b9f3-1c3326be4c45</image>
-	</specie>
-	<specie>
-		<name>Malus domestica (Borkh.) Borkh.</name>
-		<descpription>Manzano,  Manzanera,  Pomera (cat.),  Sagarrondoa (eusk.),  Maceira (gall. y port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_4ymghqch85k.jpg?alt=media&amp;token=42a24bf2-6916-4a60-a37c-9f07d35f4734</image>
-	</specie>
-	<specie>
-		<name>Quercus pubescens Willd.</name>
-		<descpription>Roble,  Roble pubescente,  Roure martinenc (cat.),  Ametz ilaunduna (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_klik1bouras.jpg?alt=media&amp;token=bafb49ef-d939-4d2e-a5e3-a7a2973c5d75</image>
-	</specie>
-	<specie>
-		<name>Morus nigra L.</name>
-		<descpription>Moral,  Morera negra,  Marugatze beltza (eusk.),  Amoreira negra (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_t6iwvhbxro.jpg?alt=media&amp;token=fe5431fd-bafe-4eec-bfac-b3d5f0ed4b19</image>
-	</specie>
-	<specie>
-		<name>Pinus nigra Arnold</name>
-		<descpription>Pino salgareño,  Pino negral,  Pino laricio,  Pinassa (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_8ny1wnhiygj?alt=media&amp;token=8de05117-501a-4557-84b1-65e4958fc6be</image>
-	</specie>
-	<specie>
-		<name>Chamaerops humilis L.</name>
-		<descpription>Palma enana,  Palmito,  Margalló (cat.),  Astapalma (eusk.),  Palmeira ana (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_1l4xd0zprya.jpg?alt=media&amp;token=5780d5ce-1a32-49e5-984a-70c7443b02e7</image>
-	</specie>
-	<specie>
-		<name>Celtis australis L.</name>
-		<descpription>Almez,  Lodón,  Latonero,  Lledoner (cat.),  Almeza (eusk.),  Basaka (eusk.),  Lodoeiro (gall.),  Agreira (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ylbnjlhlbw.jpg?alt=media&amp;token=b366c42d-61b4-4964-a347-43236262fe0b</image>
-	</specie>
-	<specie>
-		<name>Phoenix canariensis Hort. ex Chabaud</name>
-		<descpription>Palmera canaria</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_plg0a6xpt9h.jpg?alt=media&amp;token=67612734-7f23-4531-b0b6-d910847060d9</image>
-	</specie>
-	<specie>
-		<name>Juniperus communis L.</name>
-		<descpription>Enebro,  Jabino,  Ginebre (cat.),  Cimbro (gall.),  Zimbro comun (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_m0ubpsg60kl.jpg?alt=media&amp;token=5e1ae0d6-fc39-44a0-90a5-7bda4c20fa20</image>
-	</specie>
-	<specie>
-		<name>Quercus robur L.</name>
-		<descpription>Roble,  Roble albar,  Carballo,  Roble pedunculado,  Roure pènol (cat.),  Haritz kanduduna (eusk.),  Carvalho comum (port.),  Alvarinho (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_0we7tt4bv47c.jpg?alt=media&amp;token=1537ed27-a2ee-4dbe-b7ae-62d139656ee0</image>
-	</specie>
-	<specie>
-		<name>Prunus lusitanica L.</name>
-		<descpription>Loro,  Azarero,  Llorer-cirer silvestre (cat.),  Portugal erramua (eusk.),  Azereiro (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_6fsrecw7lx6.jpg?alt=media&amp;token=c81ae946-d417-4823-bac2-ae11180e7854</image>
-	</specie>
-	<specie>
-		<name>Buxus sempervirens L.</name>
-		<descpription>Boj,  Boje,  Boix (cat.),  Ezpela (eusk.),  Buxo (gall. y port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_u7zuys5m3m.jpg?alt=media&amp;token=0e1d23f7-9e08-486e-a996-fe67af118b1b</image>
-	</specie>
-	<specie>
-		<name>Alnus glutinosa (L.) Gaertner</name>
-		<descpription>Aliso,  Vern (cat.),  Haltza (eusk.),  Ameneiro (gall.),  Amieiro (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_kr91ekh8gpo?alt=media&amp;token=92c24005-b51e-4029-a9dc-967f7cb615d5</image>
-	</specie>
-	<specie>
-		<name>Populus x canadensis Moench</name>
-		<descpription>Chopo</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_mbdt4ha0k5?alt=media&amp;token=6879f161-71bf-46a7-8412-3d7d10dfbf4d</image>
-	</specie>
-	<specie>
-		<name>Fraxinus excelsior L.</name>
-		<descpription>Fresno,  Fresno de montaña,  Freixe de fulla gran (cat.),  Lizarra (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_da5hdvjre8b.jpg?alt=media&amp;token=f1155369-3157-47e1-8ea1-15d8dfd63f60</image>
-	</specie>
-	<specie>
-		<name>Ulmus minor Mill.</name>
-		<descpription>Olmo,  Olma,  Negrillo,  Om (cat.),  Zumar (eusk.),  Ulmeiro (gall. y port.),  Negrilho (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_l4xjdala5p.jpg?alt=media&amp;token=17ecc5b0-ab1a-483d-8635-e4bd36d1fb1f</image>
-	</specie>
-	<specie>
-		<name>Acer granatense Boiss.</name>
-		<descpription>Arce,  Ácer,  Ásar,  Orón (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_wztncqihb7?alt=media&amp;token=d6052cb1-91b3-45c4-8938-b8dabf27896b</image>
-	</specie>
-	<specie>
-		<name>Sequoia sempervirens Endl.</name>
-		<descpription>Secuoya</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_xgk81u5gx69.jpg?alt=media&amp;token=46434b98-cc88-469c-a348-b2b7780ec81c</image>
-	</specie>
-	<specie>
-		<name>Laurus nobilis L.</name>
-		<descpription>Laurel,  Llorer (cat.),  Ereinotza (eusk.),  Erramua (eusk.),  Loureiro (gall. y port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_po3qxr99s9?alt=media&amp;token=3f4cfee5-3af8-4e19-b204-5841339b2995</image>
-	</specie>
-	<specie>
-		<name>Quercus canariensis Willd.</name>
-		<descpription>Quejigo,  Roure africà (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_melrrukx8m.jpg?alt=media&amp;token=6835c79c-ed09-49bf-9481-b4c622c17570</image>
-	</specie>
-	<specie>
-		<name>Gleditsia triacanthos L.</name>
-		<descpription>Acacia de tres espinas,  Acàcia de tres espines (cat.),  Arkazia hiruarantza (eusk.),  Espinheiro da Virgínia (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_vjt13pxor1e.jpg?alt=media&amp;token=8c83e89e-3362-42b5-8ee3-205552c45fab</image>
-	</specie>
-	<specie>
-		<name>Crataegus monogyna Jacq.</name>
-		<descpription>Espino albar,  Majuelo,  Arto,  Arç blanc (cat.),  Espinalb (cat.),  Elorri zuria (eusk.),  Estripo albar (gall.),  Estripeiro (gall.),  Pirliteiro (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_npr4mfa463a?alt=media&amp;token=dc8d4679-899f-4270-a265-421295eccac7</image>
-	</specie>
-	<specie>
-		<name>Populus nigra L.</name>
-		<descpription>Chopo,  Álamo,  Negrillo,  Pobo,  Pollancre (cat.),  Makal beltza (eusk.),  Choupo negro (gall. y port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_wmtcb8uc1lg?alt=media&amp;token=514a72bb-f71f-4822-b88b-449394c3512c</image>
-	</specie>
-	<specie>
-		<name>Pistacia terebinthus L.</name>
-		<descpription>Cornicabra,  Tornalobo,  Escornacabra</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_n19syop1ner.jpg?alt=media&amp;token=7794d76c-774e-4469-a432-111efda77e7e</image>
-	</specie>
-	<specie>
-		<name>Prunus mahaleb L.</name>
-		<descpription>Cerezo de Santa Lucía,  Cerecino,  Cirerer de guineu (cat.),  Oilarana (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_tndcyk5rr1d.jpg?alt=media&amp;token=cfe5247c-ea0e-475f-95c9-2705f48072b3</image>
-	</specie>
-	<specie>
-		<name>Fagus sylvatica L.</name>
-		<descpription>Haya,  Faya,  Faig (cat.),  Pagoa (eusk.),  Faia (gall. y port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_u6k42dx80ak?alt=media&amp;token=738b4126-d672-44e7-9a49-14e86eec33dd</image>
-	</specie>
-	<specie>
-		<name>Salix atrocinerea Brot.</name>
-		<descpription>Sauce,  Salguera,  Sarga,  Gatell (cat.),  Saraxa (eusk.),  Salgueiro (gall.),  Salgeiro preto (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ssytjj7iuyn?alt=media&amp;token=543d3458-2ba3-437c-bc02-0678667cd521</image>
-	</specie>
-	<specie>
-		<name>Frangula alnus Mill.</name>
-		<descpription>Arraclán</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9q3fdtwpkjb.jpg?alt=media&amp;token=897d3a34-e3f2-47d7-8f1f-8ec4c70247ea</image>
-	</specie>
-	<specie>
-		<name>Quercus petraea (Mattuschka) Liebl.</name>
-		<descpription>Roble,  Roble albar,  Roure de fulla gran (cat.),  Haritz (eusk.),  Carba (gall.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_f0foax2k6nq.jpg?alt=media&amp;token=a90d8a47-f440-4fea-8255-731275179d4a</image>
-	</specie>
-	<specie>
-		<name>Sorbus latifolia (Lam.) Pers.</name>
-		<descpription>Mostajo</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9khnyfo7ho.jpg?alt=media&amp;token=2d7ae167-005c-4991-a1c5-29d5d6bf905c</image>
-	</specie>
-	<specie>
-		<name>Sorbus torminalis (L.) Crantz</name>
-		<descpription>Mostajo,  Moixera de pastor (cat.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_59n3t0r4rw5.jpg?alt=media&amp;token=eb882bfa-aa37-43df-9b38-17bccfd27caa</image>
-	</specie>
-	<specie>
-		<name>Quercus pyrenaica Willd.</name>
-		<descpription>Melojo,  Rebollo,  Quejigo (Teruel),  Roble tozo,  Roure reboll (cat.),  Ametza (eusk.),  Cerquiño (gall.),  Carvalho-negral (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_0trgpmfttp3.jpg?alt=media&amp;token=5b3411bc-ff9b-404b-90eb-dd43d5facddd</image>
-	</specie>
-	<specie>
-		<name>Aesculus hippocastanum L.</name>
-		<descpription>Castaño de indias,  Castaño loco,  Castanyer bord (cat.),  Indigaztainondo errunta (eusk.),  Castanheiro-da-India (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_sqgf5yl7ggh.jpg?alt=media&amp;token=a32f5a23-9cb6-43e8-b338-cd4e9dfb6e88</image>
-	</specie>
-	<specie>
-		<name>Ulmus pumila L.</name>
-		<descpription>Olmo de Siberia</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_pc0tztjx9t.jpg?alt=media&amp;token=be755f77-00cc-48ee-949e-3eca838d496f</image>
-	</specie>
-	<specie>
-		<name>Corylus avellana  L.</name>
-		<descpription>Avellano,  Avellaner (cat.),  Urritza (eusk.),  Abelaneira (gall.),  Aveleira (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_j4y4yge54vl.jpg?alt=media&amp;token=6ae4a8cc-b912-470a-a291-c371687f16cd</image>
-	</specie>
-	<specie>
-		<name>Robinia pseudoacacia L.</name>
-		<descpription>Falsa acacia,  Robinia,  Robínia (cat.),  Sasiarkazia (eusk.),  Falsa acácia (port.),  Acácia bastarda (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_2suykah9nt2.jpg?alt=media&amp;token=885b1d55-156c-4d0e-baba-4d3f9f2c65a4</image>
-	</specie>
-	<specie>
-		<name>Pseudotsuga menziesii (Mirbel) Franco</name>
-		<descpription>Abeto de Douglas</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_l4vvid6pvvo.jpg?alt=media&amp;token=9ade5719-3b07-4866-b8f6-99be4653ab24</image>
-	</specie>
-	<specie>
-		<name>Acer monspessulanum L.</name>
-		<descpription>Arce duro,  Durón,  Auró negre (cat.),  Uró (cat.),  Eihar frantsesa (eusk.),  Zêlha (port.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_bpqm122gggg?alt=media&amp;token=d2eef86d-5c97-47d9-86e3-864994d38808</image>
-	</specie>
-	<specie>
-		<name>Carpinus betulus L.</name>
-		<descpription>Carpe,  Xarma (eusk.)</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_kmetxh4ppq.jpg?alt=media&amp;token=0711f22f-650a-45ed-b48e-1d6e032a93ea</image>
-	</specie>
-	<specie>
-		<name>Betula pubescens Ehrh.</name>
-		<descpription></descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_0es6zovs8e4t?alt=media&amp;token=e383c7e9-8015-4fde-9894-310a83f5690d</image>
-	</specie>
-	<specie>
-		<name>Abies pinsapo Boiss.</name>
-		<descpription>Pinsapo,  Pinsapo,  Pino pinsapo</descpription>
-		<image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_axk95w2z92.jpg?alt=media&amp;token=73dcaf37-6bf1-4413-ad2f-25afcbf74047</image>
-	</specie>
+  <specie>
+    <name>Quercus rubra L.</name>
+    <descpription>Roble americano,  Haritz amerikarra (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_r9m0jg628u?alt=media&amp;token=eb4d44b1-0fcb-45b4-adfe-f9a66b1cfdf3</image>
+  </specie>
+  <specie>
+    <name>Platycladus orientalis (L.) Franco</name>
+    <descpription>Biota,  Árbol de la vida oriental,  Tuya,  Tuya de China,  Tuya de Oriente,  Ekialdeko tuia (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_kj38o8hsi8.jpg?alt=media&amp;token=993f0437-b656-4599-881f-a67452906188</image>
+  </specie>
+  <specie>
+    <name>Populus tremula L.</name>
+    <descpription>Temblón,  Chopo temblón,  Tiemblo,  Trèmol (cat.),  Alba borda (cat.),  Lertxuna (eusk.),  Faia preta (port.),  Choupo tremedor (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_rp0qmcihrv.jpg?alt=media&amp;token=c7c95da4-76c2-4e4d-8cd6-d273335f398d</image>
+  </specie>
+  <specie>
+    <name>Pistacia lentiscus L.</name>
+    <descpription>Lentisco,  Lentisca,  Alentisco,  Lantisco</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_lyskjbymp6.jpg?alt=media&amp;token=810bbe04-d46c-4b85-bc43-e1458871e4da</image>
+  </specie>
+  <specie>
+    <name>Acer opalus Mill.</name>
+    <descpription>Acirón,  Ácer,  Orón (cat.),  Oró (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_atw8ix0iw0l.jpg?alt=media&amp;token=8ac06cbf-634b-40ad-8bcb-03c71bf8516a</image>
+  </specie>
+  <specie>
+    <name>Acer campestre L.</name>
+    <descpription>Arce,  Moscón,  Auró blanc (cat.),  Oró (cat.),  Astigar arrunta (eusk.),  Bôrdo comum (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_espmoq7bky.jpg?alt=media&amp;token=5cd76351-6de8-448f-a907-470356564300</image>
+  </specie>
+  <specie>
+    <name>Alnus cordata (Liosel.) Duby</name>
+    <descpription>Aliso italiano</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_h79humaqi7b.jpg?alt=media&amp;token=7f3cb9fb-d96c-4fda-a01d-7e397f40f440</image>
+  </specie>
+  <specie>
+    <name>Melia azedarach L.</name>
+    <descpription>Agriaz,  Melia,  Mélia,  Amargoseira (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_jk6d1rldy9i.jpg?alt=media&amp;token=0a0893a2-e764-4083-8007-18aa00e83328</image>
+  </specie>
+  <specie>
+    <name>Prunus avium (L.) L.</name>
+    <descpription>Cerezo silvestre,  Cirerer (cat.),  Gereziondoa (eusk.),  Cereixeira (gall.),  Cerejeira brava (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_fe2dq2w2yyc.jpg?alt=media&amp;token=12478579-5ee4-4465-8906-eda45df092c8</image>
+  </specie>
+  <specie>
+    <name>Quercus suber L.</name>
+    <descpription>Alcornoque,  Surera (cat.),  Artelatza (eusk.),  Sobreira (gall.),  Corticeira (gall.),  Sobreiro (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_rx2hv772vqe.jpg?alt=media&amp;token=e6f18f7e-b5cd-4165-88f7-ca4199db1c4e</image>
+  </specie>
+  <specie>
+    <name>Pinus canariensis Sweet</name>
+    <descpription>Pino canario</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_irsbf6ik75b.jpg?alt=media&amp;token=5f8164f3-4352-4583-907d-d77df6e26333</image>
+  </specie>
+  <specie>
+    <name>Fraxinus angustifolia Vahl</name>
+    <descpription>Fresno,  Freixe de fulla petita (cat.),  Lizar hostotxikia (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_vbj9o2oj5dq.jpg?alt=media&amp;token=6c12bb0b-21aa-4698-b256-85d8d91b9fb2</image>
+  </specie>
+  <specie>
+    <name>Crataegus azarolus L.</name>
+    <descpription>Acerolo,  Azarollo,  Atzeroler (cat.),  Azaroleira (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ckuke3ck7c5.jpg?alt=media&amp;token=7e3965e9-58e4-4d48-b6ca-145247985ad0</image>
+  </specie>
+  <specie>
+    <name>Phillyrea latifolia L.</name>
+    <descpription>Labiérnago,  Agracejo,  Aladern (cat.),  Aderno (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_2ds02kd5fa.jpg?alt=media&amp;token=7ce4615c-d68d-4789-8052-69e348122b3e</image>
+  </specie>
+  <specie>
+    <name>Chamaecyparis lawsoniana (A. Murray) Parl.</name>
+    <descpription>Sin nombre común en la Península, se la conoce por el culto de ciprés de Lawson o por la castellanización de chamaeciparis o camaeciparis</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_4l1ot3cjad8?alt=media&amp;token=b8dc2ac5-01a2-49e5-b89c-20032766013c</image>
+  </specie>
+  <specie>
+    <name>Juniperus thurifera L.</name>
+    <descpription>Sabina albar,  Sabina,  Enebro</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_e249xjfobhu.jpg?alt=media&amp;token=79c3cfc3-9453-4d25-b511-992b78b704d5</image>
+  </specie>
+  <specie>
+    <name>Abies alba Miller</name>
+    <descpription>Abeto,  Pinabeto,  Avet (cat.),  Izal (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_vi5a039hxb.jpg?alt=media&amp;token=413fec3a-8492-457f-b1cc-ecdf9f534364</image>
+  </specie>
+  <specie>
+    <name>Crataegus laevigata (Poir.) DC.</name>
+    <descpription>Majuelo,  Espino navarro</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_rensctlmb5.jpg?alt=media&amp;token=51c56833-5d97-4bff-ad7c-d9d8fe413c09</image>
+  </specie>
+  <specie>
+    <name>Quercus coccifera L.</name>
+    <descpription>Coscoja,  Coscoll (cat.),  Garric (cat.),  Abaritza (eusk.),  Carrasco (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_w54eflb51p.jpg?alt=media&amp;token=86a965f2-b9e2-4b1f-9b6c-e7755c2f4178</image>
+  </specie>
+  <specie>
+    <name>Sambucus nigra L.</name>
+    <descpription>Saúco</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_7imbqlyc85?alt=media&amp;token=ee1334f8-593d-432b-89f1-e3b6e2e2542e</image>
+  </specie>
+  <specie>
+    <name>Salix caprea L.</name>
+    <descpription>Sauce,  Sauce capruno,  Gatsaule (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_erttb84cdfd.jpg?alt=media&amp;token=9682a376-d4a5-43fe-8b55-368975fea5ea</image>
+  </specie>
+  <specie>
+    <name>Eucalyptus globulus Labill.</name>
+    <descpription>Eucalipto,  Eucalipto blanco,  Eucalipto azul,  Eucaliptus blau (cat.),  Eukalitua (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_6hg7kvhfau8.jpg?alt=media&amp;token=abf9ebda-2dec-4a26-8aa2-54cccac6e67d</image>
+  </specie>
+  <specie>
+    <name>Pinus pinea L.</name>
+    <descpription>Pino piñonero,  Pino real,  Pino doméstico,  Pi pinyer (cat.),  Piñeiro manso (gall.),  Pinheiro manso (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_rmnmtf3hvd.jpg?alt=media&amp;token=9d68e6ce-0152-4ed9-be62-f35378c662ce</image>
+  </specie>
+  <specie>
+    <name>Phoenix dactylifera L.</name>
+    <descpription>Palmera,  Palma,  Palmera datilera,  Tamareira (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_zhpfqsjfdok.jpg?alt=media&amp;token=06d647bd-fd07-4e3b-9745-0535e67537e5</image>
+  </specie>
+  <specie>
+    <name>Crataegus laciniata Ucria</name>
+    <descpription>Espino negro</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_1tock8ujimah.jpg?alt=media&amp;token=05fbee70-fbe4-409f-96af-ff417cf47ed6</image>
+  </specie>
+  <specie>
+    <name>Sorbus domestica L.</name>
+    <descpription>Serbal común,  Server (cat.),  Sorveira (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_4x13l806e67.jpg?alt=media&amp;token=2759f72f-eb6d-4c46-9c97-f569e611a062</image>
+  </specie>
+  <specie>
+    <name>Quercus faginea Lam.</name>
+    <descpription>Quejigo,  Rebollo,  Roble,  Roure de fulla petita (cat.),  Erkametza (eusk.),  Caxigo (gall.),  Carvalho-cerquinho (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ymi82xvnjhi.jpg?alt=media&amp;token=4417cf19-fae9-4740-ad2e-4f02369fe421</image>
+  </specie>
+  <specie>
+    <name>Phillyrea angustifolia L.</name>
+    <descpription></descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_2py31aavhyr?alt=media&amp;token=bc68894d-e281-478d-866e-117d9ea53868</image>
+  </specie>
+  <specie>
+    <name>Ulmus glabra Huds.</name>
+    <descpription>Olmo de montaña,  Om (cat.),  Zumar (eusk.),  Llamagueiro (gall.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_c1gkstdse9f.jpg?alt=media&amp;token=7f6c1c9e-c506-429d-a443-c8ea2c94cc59</image>
+  </specie>
+  <specie>
+    <name>Prunus cerasifera var. atropurpurea  H. Jaeger</name>
+    <descpription>Cerezo japonés</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_q1msiuqrj1?alt=media&amp;token=aa40dc0f-de30-4200-90e3-4075fab2e161</image>
+  </specie>
+  <specie>
+    <name>Prunus padus L.</name>
+    <descpription>Cerezo aliso,  Cirer bord (cat.),  Gatzerí (cat.),  Otsagereziondoa (eusk.),  Pau de San Guirgoriño (gall.),  Pado (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_m2r6sx2pt2p.jpg?alt=media&amp;token=24753ed8-bfc9-4a3f-afc4-50a9fd4499c0</image>
+  </specie>
+  <specie>
+    <name>Catalpa bignonioides Walt.</name>
+    <descpription>Catalpa</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_m58fr6z9cq.jpg?alt=media&amp;token=6783cc27-3ff1-499e-8612-a0521523304f</image>
+  </specie>
+  <specie>
+    <name>Cydonia oblonga Miller</name>
+    <descpription>Membrillero,  Codonyer (cat.),  Marmeleiro (gall. y port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_pttyin3dzvh.jpg?alt=media&amp;token=45dbb30a-4772-48b8-bec9-af75510510df</image>
+  </specie>
+  <specie>
+    <name>Tilia platyphyllos Scop.</name>
+    <descpription>Tilo,  Teja,  Tell (cat.),  Ezki (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_r1s7xmkwb4j.jpg?alt=media&amp;token=a9023db3-284f-44c4-8675-e4f1d156a6a2</image>
+  </specie>
+  <specie>
+    <name>Pinus pinaster Aiton</name>
+    <descpription>Pino rodeno,  Pino resinero,  Pino negral,  Pino marítimo,  Pinastre (cat.),  Piñeiro bravo (gall.),  Pinheiro bravo (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_lf02tg8p1.jpg?alt=media&amp;token=0bf332f2-bcff-4a27-b22d-8266d11a4082</image>
+  </specie>
+  <specie>
+    <name>Morus alba L.</name>
+    <descpription>Morera,  Morera blanca,  Marugatze zuria (eusk.),  Amoreira branca (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_y007g58yc2c.jpg?alt=media&amp;token=76f4d7ce-9213-42b5-8de4-a55a67de375a</image>
+  </specie>
+  <specie>
+    <name>Cupressus lusitanica Mill.</name>
+    <descpription></descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_oppq74sjzjh?alt=media&amp;token=3fb404aa-71d8-4183-a5de-cc249a147754</image>
+  </specie>
+  <specie>
+    <name>Ceratonia siliqua L.</name>
+    <descpription>Algarrobo,  Garrofer (cat.),  Alfarrobeira (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_rdr8x32pljp.jpg?alt=media&amp;token=d84a47bd-72b6-4c00-98c8-1dc6d5c13dbe</image>
+  </specie>
+  <specie>
+    <name>Pinus sylvestris L.</name>
+    <descpription>Pino silvestre,  Pino albar,  Pino de Valsaín,  Pi roig (cat.),  Piñeiro bravo (gall.),  Pinheiro silvestre (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_6uaxejbxss7.jpg?alt=media&amp;token=be342aeb-ab1d-4546-961c-099fb7e17e10</image>
+  </specie>
+  <specie>
+    <name>Salix babylonica L.</name>
+    <descpription>Sauce llorón,  Desmai (cat.),  Chorón (gall.),  Salgueiro chorão (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_04zkhk2tyq1g?alt=media&amp;token=9677e3e3-b133-4b86-9acb-90b17f0d5e7d</image>
+  </specie>
+  <specie>
+    <name>Salix fragilis L.</name>
+    <descpription>Sauce,  Vimetera (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_7wsh0wdtlna.jpg?alt=media&amp;token=3c5d7541-bbfa-4620-9263-411bd16facb8</image>
+  </specie>
+  <specie>
+    <name>Juniperus oxycedrus L.</name>
+    <descpription>Enebro,  Enebro de la miera,  Cada,  Càdec (cat.),  Cedro de Espanha (port.),  Oxicedro (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_3ny8jyqq1yv.jpg?alt=media&amp;token=f4b60341-ea83-4575-8670-0805cc438ee5</image>
+  </specie>
+  <specie>
+    <name>Cupressus sempervirens L.</name>
+    <descpription>Ciprés,  Ciprés común,  Xiprer (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_op85jcp76bp.jpg?alt=media&amp;token=517cd146-d1b4-4e8f-a21e-b7a0a8faec7e</image>
+  </specie>
+  <specie>
+    <name>Prunus insititia L.</name>
+    <descpription>Ciruelo silvestre,  Endrino grande,  Prunyoner (cat.),  Lapatxondoa (eusk.),  Cagoiçeiro (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_kjkctxtw53.jpg?alt=media&amp;token=664f2c27-5c21-41d4-a930-9778a5ce3c58</image>
+  </specie>
+  <specie>
+    <name>Pinus uncinata Ramond ex DC.</name>
+    <descpription>Pino negro,  Pino de montaña,  Pi negre (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_dt89xcrau5j.jpg?alt=media&amp;token=f1325081-f2de-417b-a848-ff44ad5723a3</image>
+  </specie>
+  <specie>
+    <name>Pinus halepensis Miller</name>
+    <descpription>Pino carrasco,  Pino de Alepo,  Pi blanc (cat.),  Pi bord (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_cnz1o8067xl.jpg?alt=media&amp;token=f8c43d76-a0e8-4a86-900f-bb79d6fdd245</image>
+  </specie>
+  <specie>
+    <name>Picea abies (L.) Karsten</name>
+    <descpription>Pícea,  Abeto de Navidad,  Abeto rojo</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_g8b9h8e13sm.jpg?alt=media&amp;token=8ff98692-f164-44cc-b689-ef9e28a7d5d4</image>
+  </specie>
+  <specie>
+    <name>Taxus baccata L.</name>
+    <descpription>Tejo,  Tejón,  Teix (cat.),  Hagina (eusk.),  Hagin y posiblemente agin (eusk.),  Teixo (gall.),  Teixeiro (gall.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ahv8jub7y4.jpg?alt=media&amp;token=d2f69424-ce26-4de0-af4a-304b488d3535</image>
+  </specie>
+  <specie>
+    <name>Platanus hispanica Miller ex Münchh.</name>
+    <descpription>Plátano de sombra,  Plátano de paseo,  Plàtan (cat.),  Plátano (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9v8teta75ej?alt=media&amp;token=850003d1-af56-4026-b903-d30c5e97fbf7</image>
+  </specie>
+  <specie>
+    <name>Ilex aquifolium L.</name>
+    <descpription>Acebo,  Grèvol (cat.),  Gorosti (eusk.),  Acivro (gall.),  Civro (gall.),  Azevinho (port.),  Pica-fôlha (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_fy5bomsdwe4.jpg?alt=media&amp;token=927db343-44f4-44ff-8a0c-c853350f9761</image>
+  </specie>
+  <specie>
+    <name>Fraxinus ornus L.</name>
+    <descpription>Fresno,  Fresno de flor,  Orno,  Flex (Alicante)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_6iobybba579.jpg?alt=media&amp;token=16bc5708-4fcb-4f8f-b96e-89ff61bdd367</image>
+  </specie>
+  <specie>
+    <name>Pinus radiata D. Don</name>
+    <descpription>Pino de Monterrey,  Pino insigne</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_7pg79v1hq8c.jpg?alt=media&amp;token=ccd475af-ea65-44a5-97cc-e46f2c2ed61f</image>
+  </specie>
+  <specie>
+    <name>Cupressus macrocarpa  Hartw.</name>
+    <descpription></descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ap88k62sfe?alt=media&amp;token=02003449-97cb-4942-9045-0dbb16e29ef5</image>
+  </specie>
+  <specie>
+    <name>Thuja plicata J. Don ex D. Don</name>
+    <descpription>Cedro rojo,  Tuya,  Tuya gigante</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_i4qw0bsl7x.jpg?alt=media&amp;token=125e1807-2430-4014-abba-1a14dc3b481e</image>
+  </specie>
+  <specie>
+    <name>Prunus dulcis D.A. Webb</name>
+    <descpription>Almendro,  Ametller (cat.),  Almendrondoa (eusk.),  Amendoeira (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_4fsvfcbg9tz?alt=media&amp;token=243b2992-17d4-47c0-9499-8024a52d898d</image>
+  </specie>
+  <specie>
+    <name>Betula pendula Roth</name>
+    <descpription></descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_yzll4ezl1tn.jpg?alt=media&amp;token=01b75176-e30f-4454-883d-4b1c5d1ad536</image>
+  </specie>
+  <specie>
+    <name>Salix alba L.</name>
+    <descpription>Sauce,  Salguera,  Mimbre,  Salze blanc (cat.),  Zume zuria (eusk.),  Salgeiro branco (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_bjszx4eui0o.jpg?alt=media&amp;token=06f533cb-67a0-4cf7-8d15-2f9b84d86556</image>
+  </specie>
+  <specie>
+    <name>Ulmus laevis Pallas</name>
+    <descpription>Sin verdaderos nombres comunes</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_evfbo5bgih.jpg?alt=media&amp;token=5b1ea6be-0f41-4824-b20b-1b329a48e679</image>
+  </specie>
+  <specie>
+    <name>Quercus ilex L.</name>
+    <descpription>Encina,  Carrasca,  Alzina (cat.),  Artea (eusk.),  Enciño (gall.),  Azinheira (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_7k2lb17cgak.jpg?alt=media&amp;token=d37a89a3-709b-46a9-b3fb-16bea84df7d3</image>
+  </specie>
+  <specie>
+    <name>Ailanthus altissima (Mill.) Swingle</name>
+    <descpription>Ailanto,  Árbol del cielo,  Ailant (cat.),  Ailantoa (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_4177sk2npe4.jpg?alt=media&amp;token=5528577f-51d0-4f38-83d8-bc4766be69c4</image>
+  </specie>
+  <specie>
+    <name>Juniperus phoenicea L.</name>
+    <descpription>Sabina,  Sabina mora</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9ueb076v44b.jpg?alt=media&amp;token=207f926d-7733-4979-b245-16a960d014e2</image>
+  </specie>
+  <specie>
+    <name>Elaeagnus angustifolia L.</name>
+    <descpription>Árbol del paraíso,  Cinamomo,  Arbre del paradís (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_vsj47nua5em.jpg?alt=media&amp;token=2949f897-e393-4645-a97e-8c673b0ab4e6</image>
+  </specie>
+  <specie>
+    <name>Tilia tomentosa Moench</name>
+    <descpription>Tilo plateado</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_fnre6lxaq3d.jpg?alt=media&amp;token=b921beb6-a524-47ab-a247-99cecdf8a718</image>
+  </specie>
+  <specie>
+    <name>Olea europaea L.</name>
+    <descpription>Olivo,  Acebuche (ejemplares silvestres),  Ullastre (cat.),  Olibondoa (eusk.),  Oliveira (gall. y port.),  Zambujeiro (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_7m3j73l20op.jpg?alt=media&amp;token=b22fbea1-8eae-4047-a941-04c00db21712</image>
+  </specie>
+  <specie>
+    <name>Eucalyptus camaldulensis Dehnh.</name>
+    <descpription>Eucalipto,  Eucalipto rojo,  Eucaliptus roig (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_atpuzwln2mk.jpg?alt=media&amp;token=57241266-18a5-4fca-9b80-33c23cea441d</image>
+  </specie>
+  <specie>
+    <name>Calocedrus decurrens (Torr.) Florin</name>
+    <descpription>Libocedro de California,  Cedro de incienso de California,  Cedro rojo,  También la castellanización del género: calocedro</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_pi2l25quz7.jpg?alt=media&amp;token=8c55702e-1b61-4fa2-b79b-c2dd9b3981ae</image>
+  </specie>
+  <specie>
+    <name>Juglans regia L.</name>
+    <descpription>Nogal,  Noguera (cat.),  Intxaurrondo (eusk.),  Giltzaurra (eusk.),  Nogueira (gall. y port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_lb6lp2j3mo.jpg?alt=media&amp;token=40039e35-fe7b-47eb-924f-7dfc401d3fe1</image>
+  </specie>
+  <specie>
+    <name>Punica granatum L.</name>
+    <descpription>Granado,  Magraner (cat.),  Romeira (port.),  Romanzeira (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_va2rigk38n.jpg?alt=media&amp;token=0ea89645-38f1-433f-9bfa-88b9178e0f05</image>
+  </specie>
+  <specie>
+    <name>Sophora japonica L.</name>
+    <descpription>Sófora,  Acacia del Japón,  Sòfora (cat.),  Sasiarkazia japoniarra (eusk.),  Acácia do Japâo (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_x0s58v4jqq.jpg?alt=media&amp;token=a206e8c7-5e61-46f7-8bd8-a5f817715da4</image>
+  </specie>
+  <specie>
+    <name>Tetraclinis articulata (Vahl) Masters</name>
+    <descpription>Sabina,  Ciprés de Cartagena,  O el nombre árabe de araar</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9ngosep5m6t.jpg?alt=media&amp;token=603a4820-02e6-4d79-bb98-c8f9af5b8c09</image>
+  </specie>
+  <specie>
+    <name>Acer platanoides L.</name>
+    <descpription>Acirón,  Arce real,  Erable, blada (cat.),  Astigar zorrotza (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_yyvdl0h1qqm.jpg?alt=media&amp;token=dd1e59d4-4365-4787-a504-48627981c8a1</image>
+  </specie>
+  <specie>
+    <name>Sorbus aucuparia L.</name>
+    <descpription>Serbal de cazadores,  Moixera de guilla (cat.),  Capudre (gall.),  Escronabois (gall.),  Tramazeira (port.),  Cornogodinho (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_a9tzu6xelb.jpg?alt=media&amp;token=586f4feb-513d-411c-9f2e-be21a6c78c1f</image>
+  </specie>
+  <specie>
+    <name>Prunus domestica L.</name>
+    <descpription>Ciruelo silvestre,  Cirolero,  Prunyoner (cat.),  Aranondo (eusk.),  Ameixeira (gall.),  Abrunheiro (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9j1knd1mkl6.jpg?alt=media&amp;token=2931b750-da8e-43d3-bba4-b0621cac10e1</image>
+  </specie>
+  <specie>
+    <name>Cupressus arizonica E. L. Greene</name>
+    <descpription>Ciprés de Arizona,  Arizónica</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ojl7crw927.jpg?alt=media&amp;token=53a39064-bc23-44eb-8235-15e97646dd9b</image>
+  </specie>
+  <specie>
+    <name>Acer pseudoplatanus L.</name>
+    <descpription>Arce,  Falso plátano,  Plágano,  Askar (cat.),  Blada (cat.),  Plàtan fals (cat.),  Ostartx (eusk.),  Pradairo (gall.),  Plátano bastardo (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_q21ao692x5n.jpg?alt=media&amp;token=3bc4048e-5b41-4334-95a4-87c31c8adeca</image>
+  </specie>
+  <specie>
+    <name>Salix triandra L.</name>
+    <descpription>Sarga,  Sarga negra,  Sauce almendro,  Salze (cat.),  Saule (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_doub6fw4ggh.jpg?alt=media&amp;token=17d3d0e8-f739-4862-9b7c-336122e604b9</image>
+  </specie>
+  <specie>
+    <name>Sequoiadendron giganteum (Lindl.) Buchh.</name>
+    <descpription>Secuoya</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ujixbj5mas.jpg?alt=media&amp;token=1dc0b936-7aa8-4f69-b59b-6c0ef521cf18</image>
+  </specie>
+  <specie>
+    <name>Cercis siliquastrum L.</name>
+    <descpription>Árbol del amor,  Árbol de Judea,  Árbol de Judas,  Arbre de l&apos;amor (cat.),  Árvore-da-Judeia (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_16uv5hwzrwz.jpg?alt=media&amp;token=4929cc49-c87f-45c0-8910-88c6ad8f4e9a</image>
+  </specie>
+  <specie>
+    <name>Tilia cordata Mill.</name>
+    <descpription>Tilo,  Teja,  Tell (cat.),  Ezki (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_pu2cych7lt.jpg?alt=media&amp;token=960a4699-9673-44ef-8a68-391e74bd9140</image>
+  </specie>
+  <specie>
+    <name>Acer negundo L.</name>
+    <descpription>Negundo</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_k6lkvns66rk.jpg?alt=media&amp;token=147422c3-1690-4aaa-a89c-279e55ed173b</image>
+  </specie>
+  <specie>
+    <name>Castanea sativa Miller</name>
+    <descpription>Castaño,  Regoldo,  Castanyer (cat.),  Gaztainondo (eusk.),  Castiñeiro (gall.),  Castanheiro (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_zrirfrr31z.jpg?alt=media&amp;token=a4c49ae9-c2c2-4b64-8428-a627ebbfb80e</image>
+  </specie>
+  <specie>
+    <name>Ficus carica L.</name>
+    <descpription>Higuera,  Cabrahigo,  Figuera (cat.),  Pikondoa (eusk.),  Figueira (gall. y port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_5q3wkhuy1hb.jpg?alt=media&amp;token=330dcace-296a-46d9-af85-0aa8736591d1</image>
+  </specie>
+  <specie>
+    <name>Malus sylvestris (L.) Mill.</name>
+    <descpription>Maillo,  Manzano silvestre,  Pomera borda (cat.),  Sagarmina (eusk.),  Maceira brava (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_r1oq2wppyoj.jpg?alt=media&amp;token=f0f85d23-71bb-41e7-8bfe-ba5b8e8d753e</image>
+  </specie>
+  <specie>
+    <name>Liquidambar styraciflua L.</name>
+    <descpription></descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_mja464zyou?alt=media&amp;token=dee0e593-82ef-4e43-adbd-0cf612a48898</image>
+  </specie>
+  <specie>
+    <name>Populus alba L.</name>
+    <descpription>Álamo,  Álamo blanco,  Chopo,  àlber (cat.),  Xop blanc (cat.),  Zuzuria (eusk.),  Choupo branco (gall. y port.),  Álamo branco (gall. y port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ynkcakgv38o.jpg?alt=media&amp;token=7d7dbebe-6d31-4e00-87ef-7ece808fa2ae</image>
+  </specie>
+  <specie>
+    <name>Sorbus aria (L.) Crantz</name>
+    <descpription>Mostajo,  Moixera (cat.),  Hostazuria (euks.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ubdyg4s1jm.jpg?alt=media&amp;token=024401a1-5d75-4493-8bb7-6c0f5ccbd8c6</image>
+  </specie>
+  <specie>
+    <name>Arbutus unedo L.</name>
+    <descpription>Madroño,  Madroñera,  Arboç (cat.),  Gurbitza (eusk.),  Érbedo (gall.),  Medronheiro (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_tsosti409va.jpg?alt=media&amp;token=f9e8453f-82a6-4f6f-b9f3-1c3326be4c45</image>
+  </specie>
+  <specie>
+    <name>Malus domestica (Borkh.) Borkh.</name>
+    <descpription>Manzano,  Manzanera,  Pomera (cat.),  Sagarrondoa (eusk.),  Maceira (gall. y port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_4ymghqch85k.jpg?alt=media&amp;token=42a24bf2-6916-4a60-a37c-9f07d35f4734</image>
+  </specie>
+  <specie>
+    <name>Quercus pubescens Willd.</name>
+    <descpription>Roble,  Roble pubescente,  Roure martinenc (cat.),  Ametz ilaunduna (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_klik1bouras.jpg?alt=media&amp;token=bafb49ef-d939-4d2e-a5e3-a7a2973c5d75</image>
+  </specie>
+  <specie>
+    <name>Morus nigra L.</name>
+    <descpription>Moral,  Morera negra,  Marugatze beltza (eusk.),  Amoreira negra (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_t6iwvhbxro.jpg?alt=media&amp;token=fe5431fd-bafe-4eec-bfac-b3d5f0ed4b19</image>
+  </specie>
+  <specie>
+    <name>Pinus nigra Arnold</name>
+    <descpription>Pino salgareño,  Pino negral,  Pino laricio,  Pinassa (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_8ny1wnhiygj?alt=media&amp;token=8de05117-501a-4557-84b1-65e4958fc6be</image>
+  </specie>
+  <specie>
+    <name>Chamaerops humilis L.</name>
+    <descpription>Palma enana,  Palmito,  Margalló (cat.),  Astapalma (eusk.),  Palmeira ana (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_1l4xd0zprya.jpg?alt=media&amp;token=5780d5ce-1a32-49e5-984a-70c7443b02e7</image>
+  </specie>
+  <specie>
+    <name>Celtis australis L.</name>
+    <descpription>Almez,  Lodón,  Latonero,  Lledoner (cat.),  Almeza (eusk.),  Basaka (eusk.),  Lodoeiro (gall.),  Agreira (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ylbnjlhlbw.jpg?alt=media&amp;token=b366c42d-61b4-4964-a347-43236262fe0b</image>
+  </specie>
+  <specie>
+    <name>Phoenix canariensis Hort. ex Chabaud</name>
+    <descpription>Palmera canaria</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_plg0a6xpt9h.jpg?alt=media&amp;token=67612734-7f23-4531-b0b6-d910847060d9</image>
+  </specie>
+  <specie>
+    <name>Juniperus communis L.</name>
+    <descpription>Enebro,  Jabino,  Ginebre (cat.),  Cimbro (gall.),  Zimbro comun (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_m0ubpsg60kl.jpg?alt=media&amp;token=5e1ae0d6-fc39-44a0-90a5-7bda4c20fa20</image>
+  </specie>
+  <specie>
+    <name>Quercus robur L.</name>
+    <descpription>Roble,  Roble albar,  Carballo,  Roble pedunculado,  Roure pènol (cat.),  Haritz kanduduna (eusk.),  Carvalho comum (port.),  Alvarinho (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_0we7tt4bv47c.jpg?alt=media&amp;token=1537ed27-a2ee-4dbe-b7ae-62d139656ee0</image>
+  </specie>
+  <specie>
+    <name>Prunus lusitanica L.</name>
+    <descpription>Loro,  Azarero,  Llorer-cirer silvestre (cat.),  Portugal erramua (eusk.),  Azereiro (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_6fsrecw7lx6.jpg?alt=media&amp;token=c81ae946-d417-4823-bac2-ae11180e7854</image>
+  </specie>
+  <specie>
+    <name>Buxus sempervirens L.</name>
+    <descpription>Boj,  Boje,  Boix (cat.),  Ezpela (eusk.),  Buxo (gall. y port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_u7zuys5m3m.jpg?alt=media&amp;token=0e1d23f7-9e08-486e-a996-fe67af118b1b</image>
+  </specie>
+  <specie>
+    <name>Alnus glutinosa (L.) Gaertner</name>
+    <descpription>Aliso,  Vern (cat.),  Haltza (eusk.),  Ameneiro (gall.),  Amieiro (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_kr91ekh8gpo?alt=media&amp;token=92c24005-b51e-4029-a9dc-967f7cb615d5</image>
+  </specie>
+  <specie>
+    <name>Populus x canadensis Moench</name>
+    <descpription>Chopo</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_mbdt4ha0k5?alt=media&amp;token=6879f161-71bf-46a7-8412-3d7d10dfbf4d</image>
+  </specie>
+  <specie>
+    <name>Fraxinus excelsior L.</name>
+    <descpription>Fresno,  Fresno de montaña,  Freixe de fulla gran (cat.),  Lizarra (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_da5hdvjre8b.jpg?alt=media&amp;token=f1155369-3157-47e1-8ea1-15d8dfd63f60</image>
+  </specie>
+  <specie>
+    <name>Ulmus minor Mill.</name>
+    <descpription>Olmo,  Olma,  Negrillo,  Om (cat.),  Zumar (eusk.),  Ulmeiro (gall. y port.),  Negrilho (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_l4xjdala5p.jpg?alt=media&amp;token=17ecc5b0-ab1a-483d-8635-e4bd36d1fb1f</image>
+  </specie>
+  <specie>
+    <name>Acer granatense Boiss.</name>
+    <descpription>Arce,  Ácer,  Ásar,  Orón (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_wztncqihb7?alt=media&amp;token=d6052cb1-91b3-45c4-8938-b8dabf27896b</image>
+  </specie>
+  <specie>
+    <name>Sequoia sempervirens Endl.</name>
+    <descpription>Secuoya</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_xgk81u5gx69.jpg?alt=media&amp;token=46434b98-cc88-469c-a348-b2b7780ec81c</image>
+  </specie>
+  <specie>
+    <name>Laurus nobilis L.</name>
+    <descpription>Laurel,  Llorer (cat.),  Ereinotza (eusk.),  Erramua (eusk.),  Loureiro (gall. y port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_po3qxr99s9?alt=media&amp;token=3f4cfee5-3af8-4e19-b204-5841339b2995</image>
+  </specie>
+  <specie>
+    <name>Quercus canariensis Willd.</name>
+    <descpription>Quejigo,  Roure africà (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_melrrukx8m.jpg?alt=media&amp;token=6835c79c-ed09-49bf-9481-b4c622c17570</image>
+  </specie>
+  <specie>
+    <name>Gleditsia triacanthos L.</name>
+    <descpription>Acacia de tres espinas,  Acàcia de tres espines (cat.),  Arkazia hiruarantza (eusk.),  Espinheiro da Virgínia (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_vjt13pxor1e.jpg?alt=media&amp;token=8c83e89e-3362-42b5-8ee3-205552c45fab</image>
+  </specie>
+  <specie>
+    <name>Crataegus monogyna Jacq.</name>
+    <descpription>Espino albar,  Majuelo,  Arto,  Arç blanc (cat.),  Espinalb (cat.),  Elorri zuria (eusk.),  Estripo albar (gall.),  Estripeiro (gall.),  Pirliteiro (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_npr4mfa463a?alt=media&amp;token=dc8d4679-899f-4270-a265-421295eccac7</image>
+  </specie>
+  <specie>
+    <name>Populus nigra L.</name>
+    <descpription>Chopo,  Álamo,  Negrillo,  Pobo,  Pollancre (cat.),  Makal beltza (eusk.),  Choupo negro (gall. y port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_wmtcb8uc1lg?alt=media&amp;token=514a72bb-f71f-4822-b88b-449394c3512c</image>
+  </specie>
+  <specie>
+    <name>Pistacia terebinthus L.</name>
+    <descpription>Cornicabra,  Tornalobo,  Escornacabra</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_n19syop1ner.jpg?alt=media&amp;token=7794d76c-774e-4469-a432-111efda77e7e</image>
+  </specie>
+  <specie>
+    <name>Prunus mahaleb L.</name>
+    <descpription>Cerezo de Santa Lucía,  Cerecino,  Cirerer de guineu (cat.),  Oilarana (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_tndcyk5rr1d.jpg?alt=media&amp;token=cfe5247c-ea0e-475f-95c9-2705f48072b3</image>
+  </specie>
+  <specie>
+    <name>Fagus sylvatica L.</name>
+    <descpription>Haya,  Faya,  Faig (cat.),  Pagoa (eusk.),  Faia (gall. y port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_u6k42dx80ak?alt=media&amp;token=738b4126-d672-44e7-9a49-14e86eec33dd</image>
+  </specie>
+  <specie>
+    <name>Salix atrocinerea Brot.</name>
+    <descpription>Sauce,  Salguera,  Sarga,  Gatell (cat.),  Saraxa (eusk.),  Salgueiro (gall.),  Salgeiro preto (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_ssytjj7iuyn?alt=media&amp;token=543d3458-2ba3-437c-bc02-0678667cd521</image>
+  </specie>
+  <specie>
+    <name>Frangula alnus Mill.</name>
+    <descpription>Arraclán</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9q3fdtwpkjb.jpg?alt=media&amp;token=897d3a34-e3f2-47d7-8f1f-8ec4c70247ea</image>
+  </specie>
+  <specie>
+    <name>Quercus petraea (Mattuschka) Liebl.</name>
+    <descpription>Roble,  Roble albar,  Roure de fulla gran (cat.),  Haritz (eusk.),  Carba (gall.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_f0foax2k6nq.jpg?alt=media&amp;token=a90d8a47-f440-4fea-8255-731275179d4a</image>
+  </specie>
+  <specie>
+    <name>Sorbus latifolia (Lam.) Pers.</name>
+    <descpription>Mostajo</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_9khnyfo7ho.jpg?alt=media&amp;token=2d7ae167-005c-4991-a1c5-29d5d6bf905c</image>
+  </specie>
+  <specie>
+    <name>Sorbus torminalis (L.) Crantz</name>
+    <descpription>Mostajo,  Moixera de pastor (cat.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_59n3t0r4rw5.jpg?alt=media&amp;token=eb882bfa-aa37-43df-9b38-17bccfd27caa</image>
+  </specie>
+  <specie>
+    <name>Quercus pyrenaica Willd.</name>
+    <descpription>Melojo,  Rebollo,  Quejigo (Teruel),  Roble tozo,  Roure reboll (cat.),  Ametza (eusk.),  Cerquiño (gall.),  Carvalho-negral (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_0trgpmfttp3.jpg?alt=media&amp;token=5b3411bc-ff9b-404b-90eb-dd43d5facddd</image>
+  </specie>
+  <specie>
+    <name>Aesculus hippocastanum L.</name>
+    <descpription>Castaño de indias,  Castaño loco,  Castanyer bord (cat.),  Indigaztainondo errunta (eusk.),  Castanheiro-da-India (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_sqgf5yl7ggh.jpg?alt=media&amp;token=a32f5a23-9cb6-43e8-b338-cd4e9dfb6e88</image>
+  </specie>
+  <specie>
+    <name>Ulmus pumila L.</name>
+    <descpription>Olmo de Siberia</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_pc0tztjx9t.jpg?alt=media&amp;token=be755f77-00cc-48ee-949e-3eca838d496f</image>
+  </specie>
+  <specie>
+    <name>Corylus avellana  L.</name>
+    <descpription>Avellano,  Avellaner (cat.),  Urritza (eusk.),  Abelaneira (gall.),  Aveleira (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_j4y4yge54vl.jpg?alt=media&amp;token=6ae4a8cc-b912-470a-a291-c371687f16cd</image>
+  </specie>
+  <specie>
+    <name>Robinia pseudoacacia L.</name>
+    <descpription>Falsa acacia,  Robinia,  Robínia (cat.),  Sasiarkazia (eusk.),  Falsa acácia (port.),  Acácia bastarda (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_2suykah9nt2.jpg?alt=media&amp;token=885b1d55-156c-4d0e-baba-4d3f9f2c65a4</image>
+  </specie>
+  <specie>
+    <name>Pseudotsuga menziesii (Mirbel) Franco</name>
+    <descpription>Abeto de Douglas</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_l4vvid6pvvo.jpg?alt=media&amp;token=9ade5719-3b07-4866-b8f6-99be4653ab24</image>
+  </specie>
+  <specie>
+    <name>Acer monspessulanum L.</name>
+    <descpription>Arce duro,  Durón,  Auró negre (cat.),  Uró (cat.),  Eihar frantsesa (eusk.),  Zêlha (port.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_bpqm122gggg?alt=media&amp;token=d2eef86d-5c97-47d9-86e3-864994d38808</image>
+  </specie>
+  <specie>
+    <name>Carpinus betulus L.</name>
+    <descpription>Carpe,  Xarma (eusk.)</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_kmetxh4ppq.jpg?alt=media&amp;token=0711f22f-650a-45ed-b48e-1d6e032a93ea</image>
+  </specie>
+  <specie>
+    <name>Betula pubescens Ehrh.</name>
+    <descpription></descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_0es6zovs8e4t?alt=media&amp;token=e383c7e9-8015-4fde-9894-310a83f5690d</image>
+  </specie>
+  <specie>
+    <name>Abies pinsapo Boiss.</name>
+    <descpription>Pinsapo,  Pinsapo,  Pino pinsapo</descpription>
+    <image>https://firebasestorage.googleapis.com/v0/b/wallace-2b61a.appspot.com/o/images%2Fthumb@350_350_axk95w2z92.jpg?alt=media&amp;token=73dcaf37-6bf1-4413-ad2f-25afcbf74047</image>
+  </specie>
 </species>

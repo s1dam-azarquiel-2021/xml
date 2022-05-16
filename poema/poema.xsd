@@ -22,5 +22,5 @@
       <xs:pattern value="\d{4}-\d{1,2}-\d{1,2}"></xs:pattern>
     </xs:restriction>
   </xs:simpleType>
-  
+
 </xs:schema>

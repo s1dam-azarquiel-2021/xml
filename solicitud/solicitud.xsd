@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
-	<xs:element name="solicitud">
-		<xs:complexType>
-			<xs:sequence>
-				<xs:element ref="solicitante"></xs:element>
-				<xs:element ref="actividad"></xs:element>
-				<xs:element name="peticion" maxOccurs="unbounded" type="xs:string"></xs:element>
-			</xs:sequence>
-		</xs:complexType>
-	</xs:element>
+  <xs:element name="solicitud">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="solicitante"></xs:element>
+        <xs:element ref="actividad"></xs:element>
+        <xs:element name="peticion" maxOccurs="unbounded" type="xs:string"></xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
 
-	<xs:element name="solicitante">
-		<xs:complexType>
-			<xs:sequence>
-				<xs:element name="nombre" type="xs:string"></xs:element>
-				<xs:element name="anio" type="xs:positiveInteger"></xs:element>
-				<xs:element ref="direccion"></xs:element>
-				<xs:element name="telefono" type="telefono" maxOccurs="unbounded"></xs:element>
-			</xs:sequence>
-		</xs:complexType>
-	</xs:element>
+  <xs:element name="solicitante">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nombre" type="xs:string"></xs:element>
+        <xs:element name="anio" type="xs:positiveInteger"></xs:element>
+        <xs:element ref="direccion"></xs:element>
+        <xs:element name="telefono" type="telefono" maxOccurs="unbounded"></xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
 
-	<xs:element name="direccion">
-		<xs:complexType>
-			<xs:sequence>
-				<xs:element name="calle" type="xs:string"></xs:element>
-				<xs:element name="numero" type="xs:positiveInteger"></xs:element>
-				<xs:element name="piso" type="xs:positiveInteger"></xs:element>
-				<xs:element name="letra" type="xs:string"></xs:element>
-			</xs:sequence>
-		</xs:complexType>
-	</xs:element>
+  <xs:element name="direccion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="calle" type="xs:string"></xs:element>
+        <xs:element name="numero" type="xs:positiveInteger"></xs:element>
+        <xs:element name="piso" type="xs:positiveInteger"></xs:element>
+        <xs:element name="letra" type="xs:string"></xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
 
-	<xs:simpleType name="telefono">
-		<xs:restriction base="xs:positiveInteger">
-			<xs:pattern value="[679]\d{8}"></xs:pattern>
-		</xs:restriction>
-	</xs:simpleType>
+  <xs:simpleType name="telefono">
+    <xs:restriction base="xs:positiveInteger">
+      <xs:pattern value="[679]\d{8}"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
 
-	<xs:element name="actividad">
-		<xs:complexType>
-			<xs:sequence>
-				<xs:element name="nombre" type="xs:string"></xs:element>
-				<xs:element name="nivel" type="xs:positiveInteger"></xs:element>
-			</xs:sequence>
-		</xs:complexType>
-	</xs:element>
+  <xs:element name="actividad">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nombre" type="xs:string"></xs:element>
+        <xs:element name="nivel" type="xs:positiveInteger"></xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
 
 </xs:schema>

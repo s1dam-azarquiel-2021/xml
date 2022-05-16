@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <biblioteca
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:noNamespaceSchemaLocation="biblioteca.xsd">
-	<url>http://www.biblioteca.com</url>
-	<email>webmaster@biblioteca.com</email>
-	<libros>
-		<libro isbn="aa">
-			<titulo>El Quijote</titulo>
-			<autor nombre="Cervantes"/>
-			<ejemplar codigo="aaa"/>
-			<ejemplar codigo="aab"/>
-			<ejemplar codigo="aac"/>
-			<ejemplar codigo="aad"/>
-		</libro>
-		<libro isbn="bb">
-			<titulo>La Colmena</titulo>
-			<autor nombre="Cela"/>
-			<autor nombre="Pulido"/>
-			<ejemplar codigo="bba"/>
-			<ejemplar codigo="bbb"/>
-		</libro>
-	</libros>
-	<socios>
-		<socio dni="aaaaa">
-			<nombre>Paco</nombre>
-			<direccion>C/ sdfvsdfsdf</direccion>
-		</socio>
-		<socio dni="bbbbb">
-			<nombre>Ana</nombre>
-		</socio>
-		<socio dni="ccccc">
-			<nombre>Javier</nombre>
-		</socio>
-	</socios>
-	<prestamos>
-		<prestamo ejemplar="aac" socio="bbbbb">
-			<fecha>31/12/2011</fecha>
-		</prestamo>
-		<prestamo ejemplar="bba" socio="ccccc">
-			<fecha>1/12/2014</fecha>
-		</prestamo>
-	</prestamos>
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="biblioteca.xsd">
+  <url>http://www.biblioteca.com</url>
+  <email>webmaster@biblioteca.com</email>
+  <libros>
+    <libro isbn="aa">
+      <titulo>El Quijote</titulo>
+      <autor nombre="Cervantes"/>
+      <ejemplar codigo="aaa"/>
+      <ejemplar codigo="aab"/>
+      <ejemplar codigo="aac"/>
+      <ejemplar codigo="aad"/>
+    </libro>
+    <libro isbn="bb">
+      <titulo>La Colmena</titulo>
+      <autor nombre="Cela"/>
+      <autor nombre="Pulido"/>
+      <ejemplar codigo="bba"/>
+      <ejemplar codigo="bbb"/>
+    </libro>
+  </libros>
+  <socios>
+    <socio dni="aaaaa">
+      <nombre>Paco</nombre>
+      <direccion>C/ sdfvsdfsdf</direccion>
+    </socio>
+    <socio dni="bbbbb">
+      <nombre>Ana</nombre>
+    </socio>
+    <socio dni="ccccc">
+      <nombre>Javier</nombre>
+    </socio>
+  </socios>
+  <prestamos>
+    <prestamo ejemplar="aac" socio="bbbbb">
+      <fecha>31/12/2011</fecha>
+    </prestamo>
+    <prestamo ejemplar="bba" socio="ccccc">
+      <fecha>1/12/2014</fecha>
+    </prestamo>
+  </prestamos>
 </biblioteca>
