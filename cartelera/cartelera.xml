@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartelera
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="cartelera.xsd">
+  <pelicula codigo="N123">
+    <titulo>Avatar</titulo>
+    <nacionalidad>Española</nacionalidad>
+    <genero>Fantasia</genero>
+    <clasificacion edad="tp"></clasificacion>
+    <sinopsis>Dos muñecos azules muy molones</sinopsis>
+    <director>Alberto Pérez</director>
+    <reparto>
+      <actor>Alberto Pérez</actor>
+      <actor>Gloria de la Cruz</actor>
+    </reparto>
+  </pelicula>
+</cartelera>

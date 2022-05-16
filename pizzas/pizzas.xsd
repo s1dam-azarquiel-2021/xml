@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="pizzas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="pizza" maxOccurs="unbounded"></xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="pizza">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ingrediente" maxOccurs="unbounded"></xs:element>
+        <xs:element ref="bebida" minOccurs="0"></xs:element>
+      </xs:sequence>
+      <xs:attribute name="nombre" type="xs:string" use="required"></xs:attribute>
+      <xs:attribute name="precio" type="xs:double"></xs:attribute>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="ingrediente">
+    <xs:complexType>
+      <xs:attribute name="nombre" type="xs:string" use="required"></xs:attribute>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="bebida">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="bebida" minOccurs="0"></xs:element>
+        <xs:element name="refresco" type="xs:string" minOccurs="0" maxOccurs="unbounded"></xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>
