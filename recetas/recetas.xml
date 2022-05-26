@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recetas
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="recetas.xsd">
+  <receta comensales="4">
+    <titulo>Jamón</titulo>
+    <entrada />
+    <ingredientes>
+      <item cantidad="400g">Jamón</item>
+    </ingredientes> 
+  </receta>
+  <receta tiempo="60" comensales="6">
+    <titulo>Cocido</titulo>
+    <principal />
+    <ingredientes> 
+      <item cantidad="500g">garbanzos</item>
+      <item cantidad="100g">tocino ibérico</item>
+      <item cantidad="1u">patata</item>
+      <item cantidad="1u">puerro</item>
+      <item cantidad="2u">chorizos</item>
+      <item cantidad="750ml">agua</item>
+    </ingredientes>
+    <paso necesario="si">Tener a mano todos los ingredientes y una olla exprés.</paso>
+    <paso numero="1">Añadir todos los ingredientes a una olla exprés.</paso>
+    <paso numero="2">Dejar cocer durante 50 minutos</paso>
+  </receta>
+  <receta tiempo="45" comensales="4">
+    <titulo>Tarta de queso</titulo>
+    <postre/>
+    <imagen>https://www.dulcespostres.com/wp-content/uploads/2014/05/Tarta-de-queso-330x220.jpg</imagen>
+    <ingredientes> 
+      <item cantidad="3u">yogures naturales</item>
+      <item cantidad="3u">huevos</item>
+      <item cantidad="1cu">maicena</item>
+      <item cantidad="125g">crema de queso</item>
+      <item cantidad="6cu">azúcar</item>
+    </ingredientes>
+    <paso necesario="si">Tener a mano todos los ingredientes, la batidora y el recipiente para la tarta.</paso>
+    <paso numero="1">Batir todos los ingredientes.</paso>
+    <paso numero="2">Verter en un molde previamente caramelizado y cocer durante 13 minutos en el microondas a máxima potencia.</paso>
+    <paso necesario="no">Servir cubierta de mermelada.</paso>
+    <paso necesario='no'>Bon appétit!</paso>
+  </receta>
+</recetas>
