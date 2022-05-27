@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="recetas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="receta" maxOccurs="unbounded"></xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="receta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="titulo" type="xs:string"></xs:element>
+        <xs:choice>
+          <xs:element name="entrada"><xs:complexType/></xs:element>
+          <xs:element name="principal"><xs:complexType/></xs:element>
+          <xs:element name="postre"><xs:complexType/></xs:element>
+        </xs:choice>
+        <xs:element name="imagen" type="imagen" minOccurs="0"></xs:element>
+        <xs:element ref="ingredientes"></xs:element>
+        <xs:element ref="paso" minOccurs="0" maxOccurs="unbounded"></xs:element>
+      </xs:sequence>
+      <xs:attribute name="tiempo" type="xs:positiveInteger"></xs:attribute>
+      <xs:attribute name="comensales" type="xs:positiveInteger"></xs:attribute>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:simpleType name="imagen">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="https?:\/\/[a-zA-Z\d\.-]+\.[a-z]{2,}(\/[\w\./-]*)?\.(png|jpe?g)"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:element name="ingredientes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="item" maxOccurs="unbounded"></xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="item">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="cantidad" type="cantidad" use="required"></xs:attribute>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:simpleType name="cantidad">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\d+(u|cu|m?[lg])"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:element name="paso">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="necesario" type="necesario"></xs:attribute>
+          <xs:attribute name="numero" type="xs:positiveInteger"></xs:attribute>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:simpleType name="necesario">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="si"></xs:enumeration>
+      <xs:enumeration value="no"></xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  
+</xs:schema>

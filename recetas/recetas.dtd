@@ -1,0 +1,22 @@
+<!ELEMENT recetas (receta+)>
+
+<!ELEMENT receta (titulo,(entrada|principal|postre),imagen?,ingredientes,paso*)>
+<!ATTLIST receta comensales CDATA #REQUIRED>
+<!ATTLIST receta tiempo CDATA #IMPLIED>
+
+<!ELEMENT titulo (#PCDATA)>
+
+<!ELEMENT entrada EMPTY>
+<!ELEMENT principal EMPTY>
+<!ELEMENT postre EMPTY>
+
+<!ELEMENT imagen (#PCDATA)>
+
+<!ELEMENT ingredientes (item+)>
+
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item cantidad CDATA #REQUIRED>
+
+<!ELEMENT paso (#PCDATA)>
+<!ATTLIST paso necesario (si|no) #IMPLIED>
+<!ATTLIST paso numero CDATA #IMPLIED>
